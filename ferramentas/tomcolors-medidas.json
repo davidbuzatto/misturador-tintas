@@ -1,0 +1,3033 @@
+[
+ {
+  "code": "TC-0320",
+  "nome": "Deep Skin Tone",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 6,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/deep-skin-tone-tc-0320",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/deep_skin_tone_tc_0320_1725_1_baba797a1aab5178970662dfb306187f.jpg",
+  "hex": "#5e3f2f",
+  "origem": "medida",
+  "pixels": 7591,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0308",
+  "nome": "Shadow Skin Tone",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 6,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/shadow-skin-tone-tc-0308",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/shadow_skin_tone_tc_0308_1723_1_313dc303ab191c4dd17f041d88897143.jpg",
+  "hex": "#855f4a",
+  "origem": "medida",
+  "pixels": 7619,
+  "desvio": 8
+ },
+ {
+  "code": "TC-0307",
+  "nome": "Medium Skin Tone",
+  "linha": "Acrylic Colors",
+  "layout": "C",
+  "nFotos": 5,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/medium-skin-tone-tc-0307",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/medium_skin_tone_tc_0307_tom_de_pele_1721_1_c561184f0232d498e2c815a29e48a2d1.jpg",
+  "hex": "#dac098",
+  "origem": "medida",
+  "pixels": 2340,
+  "desvio": 9.4
+ },
+ {
+  "code": "TC-0306",
+  "nome": "Base Skin Tone",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 6,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/base-skin-tone-tc-0306",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/base_skin_tone_tc_0306_1719_1_3d0f197964772a8d453cba7f7b269b80.jpg",
+  "hex": "#e5cbb2",
+  "origem": "medida",
+  "pixels": 7600,
+  "desvio": 5.2
+ },
+ {
+  "code": "TC-0244",
+  "nome": "BUFF (drybrush)",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 2,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "militariaacrilica",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/buff-drybrush-tc-0244",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/buff_drybrush_tc_0244_1713_2_010c55c89f6a370477f4a02f06c2572b.jpg",
+  "hex": "#aea884",
+  "origem": "medida",
+  "pixels": 1769,
+  "desvio": 47.2
+ },
+ {
+  "code": "TC-0194",
+  "nome": "Light Sand",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 2,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "militariaacrilica",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/light-sand-tc-0194",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/light_sand_tc_0194_1705_2_2dbefae0d3a1b5ab000d2cb2b0bb8c4f.jpg",
+  "hex": "#cfcebe",
+  "origem": "medida",
+  "pixels": 1682,
+  "desvio": 5.8
+ },
+ {
+  "code": "TC-0036",
+  "nome": "RLM 61",
+  "linha": "Acrylic Colors",
+  "layout": "C",
+  "nFotos": 1,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-61-tc-0036",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_61_tc_0036_3_20260126130208_47b58f8e3f0c.jpg",
+  "hex": "#543629",
+  "origem": "manual",
+  "medido": "#54413d",
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TC-0140",
+  "nome": "US Desert Sand",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 2,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/us-desert-sand-tc-0140",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/us_desert_sand_tc_0140_1313_2_b0eb4e41571fdffc1c402938ce745f0c.jpg",
+  "hex": "#b7a692",
+  "origem": "medida",
+  "pixels": 987,
+  "desvio": 58.2
+ },
+ {
+  "code": "TC-0305",
+  "nome": "Highlight Skin Tone",
+  "linha": "Acrylic Colors",
+  "layout": "C",
+  "nFotos": 5,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/highlight-skin-tone-off-white-tc-0305",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/highlight_skin_tone_off_white_tc_0305_1717_1_2f78deb5d8f2b6409008913b618a2f94.jpg",
+  "hex": "#dfe6ef",
+  "origem": "medida",
+  "pixels": 2145,
+  "desvio": 17.8
+ },
+ {
+  "code": "TC-0248",
+  "nome": "Rusted Umber",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 2,
+  "categorias": [
+   "tintas-acrilicas/cores-de-pele-skin-tones",
+   "pele",
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rusted-umber-tc-0248",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rusted_umber_tc_0248_1381_2_840d3a89fec06f10f75ecc3f966eb6d2.jpg",
+  "hex": "#b1937e",
+  "origem": "medida",
+  "pixels": 1034,
+  "desvio": 23.6
+ },
+ {
+  "code": "TCUP-25",
+  "nome": "Azul Marshmallow",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-25-azul-marshmallow",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_25_azul_marshmallow_1839_1_31190901e419059215a8c992d0b8da1f.jpg",
+  "hex": "#5ec3fe",
+  "origem": "manual",
+  "medido": "#34aada",
+  "circulo": "#00acdd",
+  "poca": "#64d5ff",
+  "cartao": "#5ec3fe",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-19",
+  "nome": "Azul Oceano",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-19-azul-oceano",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_19_azul_oceano_1837_1_2240145600515b7eb5f75c23ced54e3c.jpg",
+  "hex": "#012da1",
+  "origem": "manual",
+  "medido": "#041738",
+  "circulo": "#001036",
+  "poca": "#001146",
+  "cartao": "#012da1",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-15",
+  "nome": "Arara Azul",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-15-arara-azul",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_15_arara_azul_1833_1_43a73432c2ca90257e8c3a78e756d8fb.jpg",
+  "hex": "#0f40d5",
+  "origem": "manual",
+  "medido": "#0034bb",
+  "circulo": "#0031c0",
+  "poca": "#002ab0",
+  "cartao": "#0f40d5",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-17",
+  "nome": "Marrom \"Noz Moscada\"",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-17-marrom-noz-moscada",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_17_marrom_noz_moscada_1831_1_dea4f867de416d91f46d96a02b4f3d0e.jpg",
+  "hex": "#502012",
+  "origem": "manual",
+  "medido": "#351814",
+  "circulo": "#3a110c",
+  "poca": "#0f0000",
+  "cartao": "#502012",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-21",
+  "nome": "Roxo Puro",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-21-roxo-puro",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_21_roxo_puro_1829_1_602bb2491fbf5fa760e083345ce43e7a.jpg",
+  "hex": "#531bcb",
+  "origem": "manual",
+  "medido": "#43135d",
+  "circulo": "#4c0b5f",
+  "poca": "#160389",
+  "cartao": "#531bcb",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-24",
+  "nome": "Rosa Nina",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-24-rosa-nina",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_24_rosa_nina_1827_1_295e37b5274b3817baa01ce7914de9e8.jpg",
+  "hex": "#fb1074",
+  "origem": "manual",
+  "medido": "#f5305e",
+  "circulo": "#ff2c5f",
+  "poca": "#e91756",
+  "cartao": "#fb1074",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-23",
+  "nome": "Rosa Cessna",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-23-rosa-cessna",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_23_rosa_cessna_1825_1_6eef037d6e2053499279b7cc85116e8d.jpg",
+  "hex": "#f194c0",
+  "origem": "manual",
+  "medido": "#df82ae",
+  "circulo": "#f983b1",
+  "poca": "#ff9dd3",
+  "cartao": "#f194c0",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-18",
+  "nome": "Marrom \"Pelo de Lobisomem\"",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-18-marrom-pelo-de-lobisomem",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_18_marrom_pelo_de_lobisomem_1823_1_40e42fbf1650bc2a10804d257a88ca43.jpg",
+  "hex": "#86531d",
+  "origem": "manual",
+  "medido": "#3a1f16",
+  "circulo": "#3f190e",
+  "poca": "#280300",
+  "cartao": "#86531d",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-12",
+  "nome": "Verde Brasil",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-12-verde-brasil",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_12_verde_brasil_1817_1_3dacf520944eaf909449f382c53e2f2a.jpg",
+  "hex": "#019e69",
+  "origem": "manual",
+  "medido": "#043726",
+  "circulo": "#003420",
+  "poca": "#005b3e",
+  "cartao": "#019e69",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-11",
+  "nome": "Verde do Duende",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-11-verde-do-duende",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_11_verde_do_duende_1815_1_5ece84ff126b83b77d13035f008b4739.jpg",
+  "hex": "#00d132",
+  "origem": "manual",
+  "medido": "#169522",
+  "circulo": "#009600",
+  "poca": "#008515",
+  "cartao": "#00d132",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-08",
+  "nome": "Vermelho Beterraba",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-08-vermelho-beterraba",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_08_vermelho_beterraba_1809_1_798978afab111848e10de9687aeb71c4.jpg",
+  "hex": "#bf2102",
+  "origem": "manual",
+  "medido": "#971a22",
+  "circulo": "#b1131d",
+  "poca": "#b10a03",
+  "cartao": "#bf2102",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-07",
+  "nome": "Vermelho Melancia",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-07-vermelho-melancia",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_07_vermelho_melancia_1807_1_a8228edebd1feb1f50983f2d93cb9c58.jpg",
+  "hex": "#ff3d10",
+  "origem": "manual",
+  "medido": "#de2f46",
+  "circulo": "#ff2b45",
+  "poca": "#f50d06",
+  "cartao": "#ff3d10",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-06",
+  "nome": "Vermelho Flame",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-06-vermelho-flame",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_06_vermelho_flame_1805_1_6359e4a81997be04542eb06c0937b49b.jpg",
+  "hex": "#ed2b00",
+  "origem": "manual",
+  "medido": "#e42417",
+  "circulo": "#ff1f0f",
+  "poca": "#fd2107",
+  "cartao": "#ed2b00",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-05",
+  "nome": "Suco de Laranja",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-05-suco-de-laranja",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_05_suco_de_laranja_1803_1_d4f1c0676dfb505fab0836ee204adac2.jpg",
+  "hex": "#f64c00",
+  "origem": "manual",
+  "medido": "#eb3203",
+  "circulo": "#ff2e00",
+  "poca": "#f93800",
+  "cartao": "#f64c00",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-04",
+  "nome": "Laranja \"Chama da Mula-Sem-Cabeça\"",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 4,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-04-laranja-chama-da-mula-sem-cabeca",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_04_laranja_chama_da_mula_sem_cabeca_1801_1_89b8479389e9974a0bb9be37a3d87d1e.jpg",
+  "hex": "#ffb600",
+  "origem": "manual",
+  "medido": "#fc9606",
+  "circulo": "#ff9700",
+  "poca": "#fca500",
+  "cartao": "#ffb600",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-03",
+  "nome": "Amarelo Piquenique",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-02-amarelo-piquinique",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_02_amarelo_piquinique_1799_1_1fb0f0bf48a71c80be4c18ee3bb709ec.jpg",
+  "hex": "#f8d000",
+  "origem": "manual",
+  "medido": "#ddb204",
+  "circulo": "#ecb300",
+  "poca": "#fdcd00",
+  "cartao": "#f8d000",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-02",
+  "nome": "Amarelo Helena",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-02-amarelo-helena",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_02_amarelo_helena_1797_1_8639f68d7f359abab824df4c1d54d4b5.jpg",
+  "hex": "#fee000",
+  "origem": "manual",
+  "medido": "#ffbc03",
+  "circulo": "#ffbd00",
+  "poca": "#ffd800",
+  "cartao": "#fee000",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TCUP-16",
+  "nome": "Ultra Branco",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-16-ultra-branco-branco-3x-mais-saturado",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_16_ultra_branco_branco_3x_mais_saturado_1795_1_d38ec9052d8a66eb33a92a9d411ba697.jpg",
+  "hex": "#ffffff",
+  "origem": "manual",
+  "medido": "#ffffff",
+  "circulo": "#ffffff",
+  "poca": "#ffffff",
+  "nota": "branco/preto: sem cartão medível; poça e círculo coincidem"
+ },
+ {
+  "code": "TCUP-22",
+  "nome": "Ultra Preto",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-22-ultra-black-preto-3x-mais-saturado",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_22_ultra_black_preto_3x_mais_saturado_1793_1_4173a5c78660c65d952288ded3cfeb52.jpg",
+  "hex": "#000000",
+  "origem": "manual",
+  "medido": "#000000",
+  "circulo": "#000000",
+  "poca": "#000000",
+  "nota": "branco/preto: sem cartão medível; poça e círculo coincidem"
+ },
+ {
+  "code": "TCUP-01",
+  "nome": "Amarelo Girassol",
+  "linha": "UP",
+  "layout": "D",
+  "nFotos": 3,
+  "categorias": [
+   "tintas-acrilicas/tintas-para-uniforme-e-pele",
+   "figuras",
+   "diorama",
+   "basicas",
+   "up"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/tcup-01-amarelo-girassol",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tcup_01_amarelo_girassol_1777_1_aeb363a3c14b94ae8e51729dca536dbe.jpg",
+  "hex": "#fef200",
+  "origem": "manual",
+  "medido": "#f8e52f",
+  "circulo": "#ffe600",
+  "poca": "#ffff00",
+  "cartao": "#fef200",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ {
+  "code": "TC-0068",
+  "nome": "RLM 65",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-65-tc-0068",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_65_tc_0068_1775_1_5c63a0be47913f1fd115dc884053c83b.jpg",
+  "hex": "#8eaba9",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0076",
+  "nome": "RLM 82",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-82-tc-0076",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_82_tc_0076_1773_1_e1e2a142fae034257323c3be1cc543ce.jpg",
+  "hex": "#394225",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0074",
+  "nome": "RLM 81 (V.1)",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-81-v-1-tc-0074",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_81_v_1_tc_0074_1771_1_1d32c65395fac515c00ab2e5d28b908a.jpg",
+  "hex": "#423a2f",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0299",
+  "nome": "RLM 79",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-79-tc-0299",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_79_tc_0299_1769_1_bcdd1374818e4ad6b91bb67541e4b7f8.jpg",
+  "hex": "#ac704b",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0298",
+  "nome": "RLM 78",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-78-tc-0298",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_78_tc_0298_1767_1_64236fd4d0dfdb937c758235895a45d6.jpg",
+  "hex": "#7e9e99",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0073",
+  "nome": "RLM 76 (V.2)",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-76-v-2-tc-0073",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_76_v_2_tc_0073_1765_1_77f3f028a266eabba085c5aaae620c04.jpg",
+  "hex": "#abbfbd",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0072",
+  "nome": "RLM 75",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-75-tc-0072",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_75_tc_0072_1763_1_e796d3c863b6a1eabeffe29f0967fbb8.jpg",
+  "hex": "#6f6f6f",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0070",
+  "nome": "RLM 71 Dunkelgrun",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-71-dunkelgrun-tc-0070",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_71_dunkelgrun_tc_0070_1761_1_ced12703340f0e0addfb0b66886a86d0.jpg",
+  "hex": "#4f4c3d",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0301",
+  "nome": "RLM 66",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-66",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_66_1759_1_443a2c3c840bf66892d266d488901b8a.jpg",
+  "hex": "#24211c",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0300",
+  "nome": "RLM 04",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-04-tcup-02",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_04_tc_0300_1757_1_a3532998c71b466815bd51b70c199c2b.jpg",
+  "hex": "#ffbb02",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0066",
+  "nome": "RLM 02 Grau",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-02-grau-tc-0066",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_02_grau_tc_0066_1755_1_6da5898833f19c40cc8fc8d4acbd3130.jpg",
+  "hex": "#837d5d",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0071",
+  "nome": "RLM 74",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-74-tc-0071",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_74_tc_0071_1701_1_bb2a1a27b2bf2ef499177d34ac908b7c.jpg",
+  "hex": "#59564f",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0106",
+  "nome": "RLM 63",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-63-tc-0106",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_63_tc_0106_1629_1_977518aa895387654a6c158c8e3243bf.jpg",
+  "hex": "#797663",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0296",
+  "nome": "RLM 62",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-62-tc-0296",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_62_tc_0296_1625_1_d634c4e93e10f66043bc9d096997b374.jpg",
+  "hex": "#63664b",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0186",
+  "nome": "AMT-11 Light Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/amt-11-light-grey-tc-0186",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/amt_11_light_grey_tc_0186_1623_1_b18270e2a102e7f9704245103d70ff18.jpg",
+  "hex": "#6d7e8a",
+  "origem": "medida",
+  "pixels": 7587,
+  "desvio": 8.5
+ },
+ {
+  "code": "TC-0097",
+  "nome": "A-14 Steel Grey (Russian WW2 Cockpit)",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/a-14-steel-grey-russian-ww2-cockpit-tc-0097",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/a_14_steel_grey_russian_ww2_cockpit_tc_0097_1615_1_78ed97e19c36ca49aed28ae38bfe6f7f.jpg",
+  "hex": "#687373",
+  "origem": "medida",
+  "pixels": 7574,
+  "desvio": 8.8
+ },
+ {
+  "code": "TC-0210",
+  "nome": "AMT-4 Old",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/amt-4-old-tc-0210",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/amt_4_old_tc_0210_1613_1_3874a63c026af323a131ec57a6ed7d03.jpg",
+  "hex": "#49481b",
+  "origem": "medida",
+  "pixels": 7579,
+  "desvio": 11.5
+ },
+ {
+  "code": "TC-0174",
+  "nome": "ANA 611 Interior Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-611-interior-green-tc-0174",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_611_interior_green_tc_0174_1611_1_10a5f85132de3e2d1e0952b1c1fbbe8f.jpg",
+  "hex": "#676337",
+  "origem": "medida",
+  "pixels": 7600,
+  "desvio": 9.5
+ },
+ {
+  "code": "TC-0173",
+  "nome": "ANA 620 Light Gull Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-620-light-gull-grey-tc-0173",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_620_light_gull_grey_tc_0173_1609_1_92a14ef7fafe96edc874c85ac341630d.jpg",
+  "hex": "#b1afa5",
+  "origem": "medida",
+  "pixels": 7545,
+  "desvio": 5.2
+ },
+ {
+  "code": "TC-0171",
+  "nome": "Neutral Grey 43 Versão 1",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/neutral-grey-43-versao-1-tc-0171",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/neutral_grey_43_versao_1_tc_0171_1605_1_a4e83575c2655931867221e9dedff997.jpg",
+  "hex": "#6a6b67",
+  "origem": "medida",
+  "pixels": 7567,
+  "desvio": 8.8
+ },
+ {
+  "code": "TC-0169",
+  "nome": "ANA 621 Dark Dull Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-621-dark-dull-grey-tc-0169",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_621_dark_dull_grey_tc_0169_1603_1_707059d3aea2a2091c0ad349dec203c1.jpg",
+  "hex": "#757b75",
+  "origem": "medida",
+  "pixels": 7561,
+  "desvio": 8
+ },
+ {
+  "code": "TC-0170",
+  "nome": "ANA 616 Sand",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-616-sand-tc-0170",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_616_sand_tc_0170_1601_1_b297029ed511217682cb9f0afe18980f.jpg",
+  "hex": "#af9381",
+  "origem": "medida",
+  "pixels": 7584,
+  "desvio": 5.6
+ },
+ {
+  "code": "TC-0167",
+  "nome": "Olive Drab 41",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/olive-drab-41-tc-0167",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/olive_drab_41_tc_0167_1599_1_ca276cdfb077d2e087e176ef9ce98c4d.jpg",
+  "hex": "#5f5a36",
+  "origem": "medida",
+  "pixels": 7583,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0163",
+  "nome": "ANA 613 Olive Drab",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-613-olive-dreb-tc-0160",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_613_olive_drab_tc_0163_1597_1_5cf3e96a92081df7ed658a891836e142.jpg",
+  "hex": "#51513e",
+  "origem": "medida",
+  "pixels": 7578,
+  "desvio": 10.6
+ },
+ {
+  "code": "TC-0161",
+  "nome": "ANA 603 Sea Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-603-sea-grey-tc-0161",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_603_sea_grey_tc_0161_1595_1_6092f7df0050f9d6261e36df213f4571.jpg",
+  "hex": "#586266",
+  "origem": "medida",
+  "pixels": 7576,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0160",
+  "nome": "ANA 601 Insignia White",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ana-601insignia-white-tc-0160",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ana_601insignia_white_tc_0160_1593_1_65ff8c3f92bad4b7c2bd1daf737902b4.jpg",
+  "hex": "#e9e8e2",
+  "origem": "manual",
+  "medido": "#e9e9df",
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TC-0168",
+  "nome": "Medium Green 42",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/medium-green-42-tc-0168",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/medium_green_42_tc_0168_1587_1_b81f1eb13a5bd800dc860e1ef570f8f0.jpg",
+  "hex": "#39574f",
+  "origem": "medida",
+  "pixels": 7580,
+  "desvio": 12.4
+ },
+ {
+  "code": "TC-0188",
+  "nome": "Bronze Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/bronze-green-tc-0188",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/bronze_green_tc_0188_1585_1_de3b140172e5cb1239cc335fb078d74d.jpg",
+  "hex": "#2e4128",
+  "origem": "medida",
+  "pixels": 7575,
+  "desvio": 13.7
+ },
+ {
+  "code": "TC-0127",
+  "nome": "Cockpit Green RAF",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/cockpit-green-raf-tc-0127",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/cockpit_green_raf_tc_0127_1583_1_71f27de5861811525fcd58ba4b75d67b.jpg",
+  "hex": "#909e8f",
+  "origem": "medida",
+  "pixels": 7565,
+  "desvio": 6.4
+ },
+ {
+  "code": "TC-0125",
+  "nome": "Dark Sea Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/dark-sea-grey-tc-0125",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/dark_sea_grey_tc_0125_1581_1_718e6522065ea6a9f5e43ab433ad6947.jpg",
+  "hex": "#4d5760",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 10.6
+ },
+ {
+  "code": "TC-0122",
+  "nome": "Medium Sea Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/medium-sea-grey-tc-0122",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/medium_sea_grey_tc_0122_1577_1_58df6d118a1cd2e2541d9b500d34f0de.jpg",
+  "hex": "#6b6b61",
+  "origem": "medida",
+  "pixels": 7581,
+  "desvio": 8.9
+ },
+ {
+  "code": "TC-0121",
+  "nome": "Ocean Grey RAF",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ocean-grey-raf-tc-0121",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ocean_grey_raf_tc_0121_1575_1_2c443915767e3ddaee7e3dc942630586.jpg",
+  "hex": "#6b7775",
+  "origem": "medida",
+  "pixels": 7571,
+  "desvio": 8.6
+ },
+ {
+  "code": "TC-0120",
+  "nome": "Sky Type S",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/sky-type-s-tc-0120",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/sky_type_s_tc_0120_1573_1_19b05807a3edb01a6aef2659d8c5bf53.jpg",
+  "hex": "#a2a58c",
+  "origem": "medida",
+  "pixels": 7570,
+  "desvio": 5.8
+ },
+ {
+  "code": "TC-0119",
+  "nome": "Dark Green RAF",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/dark-green-raf-tc-0119",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/dark_green_raf_tc_0119_1571_1_e32bdfd270d29ef0d2b2291580cf3558.jpg",
+  "hex": "#4f5243",
+  "origem": "medida",
+  "pixels": 7570,
+  "desvio": 10.6
+ },
+ {
+  "code": "TC-0118",
+  "nome": "Dark Earth RAF",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/dark-earth-raf-tc-0118",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/dark_earth_raf_tc_0118_1569_1_37a2bc891df406cc4e12041e29657716.jpg",
+  "hex": "#5d4b29",
+  "origem": "medida",
+  "pixels": 7578,
+  "desvio": 9.8
+ },
+ {
+  "code": "TC-0113",
+  "nome": "Middlestone RAF",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/middlestone-raf-tc-0115",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/middlestone_raf_tc_0115_1561_1_eef3e10209bf1d9bcb92c502cab0e5db.jpg",
+  "hex": "#a37e3c",
+  "origem": "medida",
+  "pixels": 7609,
+  "desvio": 6.3
+ },
+ {
+  "code": "TC-0269",
+  "nome": "Grigio Verde",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/grigio-verde-tc-0269",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/grigio_verde_tc_0269_1555_1_b3db6dff89afdbd6fbb262ee1389f47a.jpg",
+  "hex": "#555e48",
+  "origem": "medida",
+  "pixels": 7579,
+  "desvio": 10.1
+ },
+ {
+  "code": "TC-0185",
+  "nome": "Marrone Mimetico 1",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/marrone-mimetico-1-tc-0185",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/marrone_mimetico_1_tc_0185_1553_1_e598b88225279541a10b668e6e09bcab.jpg",
+  "hex": "#843731",
+  "origem": "medida",
+  "pixels": 7587,
+  "desvio": 8
+ },
+ {
+  "code": "TC-0150",
+  "nome": "Verde Oliva Scuro 2",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-oliva-scuro-2-tc-0150",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_oliva_scuro_2_tc_0150_1551_1_691485ea59f432bc342f5fbcbe8ce9ed.jpg",
+  "hex": "#303c36",
+  "origem": "medida",
+  "pixels": 7569,
+  "desvio": 13.3
+ },
+ {
+  "code": "TC-0179",
+  "nome": "Verde Mimetico 53192",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-mimetico-53192-tc-0179",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_mimetico_53192_tc_0179_1547_1_7e08c12c2fcdeb48e6c79b805c894c53.jpg",
+  "hex": "#739e74",
+  "origem": "medida",
+  "pixels": 7589,
+  "desvio": 8.1
+ },
+ {
+  "code": "TC-0141",
+  "nome": "Giallo Mimetico 2",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/giallo-mimetico-2-tc-0141",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/giallo_mimetico_2_tc_0141_1545_1_3373e99613a9ef299665792763496bb3.jpg",
+  "hex": "#c2a946",
+  "origem": "medida",
+  "pixels": 7630,
+  "desvio": 5.3
+ },
+ {
+  "code": "TC-0139",
+  "nome": "Grigio Mimetico",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/grigio-mimetico-tc-0139",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/grigio_mimetico_tc_0139_1543_1_5cf151e9aef18f3c557a8f24a998477e.jpg",
+  "hex": "#919791",
+  "origem": "medida",
+  "pixels": 7547,
+  "desvio": 6.4
+ },
+ {
+  "code": "TC-0111",
+  "nome": "Bianco Neve 6",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/bianco-neve-6-tc-0111",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/bianco_neve_6_tc_0111_1539_1_1e1c181f62d21cadc5b426f5f21bc6a7.jpg",
+  "hex": "#e0e1dd",
+  "origem": "medida",
+  "pixels": 7500,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0201",
+  "nome": "Marrone Mimetico 53193",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/marrone-mimetico-53193-tc-0201",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/marrone_mimetico_53193_tc_0201_1537_1_74d07216b7d6c651b091902f7f105465.jpg",
+  "hex": "#785e49",
+  "origem": "medida",
+  "pixels": 7596,
+  "desvio": 8.3
+ },
+ {
+  "code": "TC-0132",
+  "nome": "Giallo Mimetico 4",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/giallo-mimetico-4-tc-0132",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/giallo_mimetico_4_tc_0132_1535_1_eb15a6222c281ca0e7dbfa3a0b54a9fb.jpg",
+  "hex": "#a58248",
+  "origem": "medida",
+  "pixels": 7620,
+  "desvio": 6.2
+ },
+ {
+  "code": "TC-0103",
+  "nome": "Khaki Brown IJA",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/khaki-brown-ija-tc-0103",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/khaki_brown_ija_tc_0103_1533_1_08a780506b049d629cdf99688275242e.jpg",
+  "hex": "#655847",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 9.3
+ },
+ {
+  "code": "TC-0107",
+  "nome": "IJA Light Green Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ija-light-green-grey-tc-0107",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ija_light_green_grey_tc_0107_1527_1_824353033a4c10e68bcf1175702708e6.jpg",
+  "hex": "#89a08c",
+  "origem": "medida",
+  "pixels": 7553,
+  "desvio": 6.9
+ },
+ {
+  "code": "TC-0249",
+  "nome": "RLM 83",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-83-tc-0249",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_83_tc_0249_1515_1_52a2270ad969e40b43ea689f741fbeb2.jpg",
+  "hex": "#312c16",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0077",
+  "nome": "RLM 70",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-70-tc-0077",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_70_tc_0077_1513_1_c8bb1de4af462158bfef1fd7af3c6577.jpg",
+  "hex": "#373b2c",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0312",
+  "nome": "RLM 22 Schwarz",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-22-schwarz-tc-0312",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_22_schwarz_tc_0312_1511_1_443b91019138371cf5f68e0b060e95e6.jpg",
+  "hex": "#141414",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0081",
+  "nome": "RLM 80",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-80-tc-0081",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_80_tc_0081_1509_1_2d4a74132d00d34b0a69a1cb1deeafc4.jpg",
+  "hex": "#3e4830",
+  "origem": "medida",
+  "pixels": 4225,
+  "desvio": 0
+ },
+ {
+  "code": "TC-0082",
+  "nome": "RLM 21 Weiss",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/rlm-21-weiss-tc-0082",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/rlm_21_weiss_tc_0082_1507_1_33c0e45e1ad938c339378799f8fb227c.jpg",
+  "hex": "#fdfdfd",
+  "origem": "manual",
+  "medido": "#fcfcfc",
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TC-0206",
+  "nome": "Verde Mimetico 2",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaoww2"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-mimetico-2-tc-0206",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_mimetico_2_tc_0206_1173_1_aef2bbd12548166f0afe04e59a1c2b20.jpg",
+  "hex": "#2e483f",
+  "origem": "medida",
+  "pixels": 7574,
+  "desvio": 13.5
+ },
+ {
+  "code": "TC-0092",
+  "nome": "RAL 7035",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ral-7035-tc-0092",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ral_7035_tc_0092_1501_1_a51bbfbc59f43678b1adb6fcd0804816.jpg",
+  "hex": "#c5c7c4",
+  "origem": "medida",
+  "pixels": 7513,
+  "desvio": 4.7
+ },
+ {
+  "code": "TC-0184",
+  "nome": "MIG 25/31 Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/mig-2531-grey-tc-0184",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/mig_25_31_grey_tc_0184_1499_1_0137dd0f961de1d0a517ffe043b143d3.jpg",
+  "hex": "#bfc0bb",
+  "origem": "medida",
+  "pixels": 7522,
+  "desvio": 4.7
+ },
+ {
+  "code": "TC-0183",
+  "nome": "VVS Dark Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/vvs-dark-green-tc-0183",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/vvs_dark_green_tc_0183_1497_1_b4cb6f2d6a7943d48983dbf53971101b.jpg",
+  "hex": "#224618",
+  "origem": "medida",
+  "pixels": 7574,
+  "desvio": 15.1
+ },
+ {
+  "code": "TC-0208",
+  "nome": "Light Grey 627",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/light-grey-627-tc-0208",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/light_grey_627_tc_0208_1481_1_0602ea7eed91726fec685ddf0411d647.jpg",
+  "hex": "#b7b8b2",
+  "origem": "medida",
+  "pixels": 7539,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0117",
+  "nome": "RAF Light Aircraft Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/raf-light-aircraft-grey-tc-0117",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/raf_light_aircraft_grey_tc_0117_1479_1_7f63b3e7b70a45da535bebfb414adc3e.jpg",
+  "hex": "#b0b1ab",
+  "origem": "medida",
+  "pixels": 7534,
+  "desvio": 5.2
+ },
+ {
+  "code": "TC-0085",
+  "nome": "RAL 7011 Iron Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ral-7011-iron-grey-tc-0085",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ral_7011_iron_grey_tc_0085_1475_1_fe7dd44d2978ff6ec921edcc5090d7e6.jpg",
+  "hex": "#545c5f",
+  "origem": "medida",
+  "pixels": 7574,
+  "desvio": 10.2
+ },
+ {
+  "code": "TC-0204",
+  "nome": "Cinza Azulado Médio",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "aviacaomodernaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/cinza-azulado-media-tc-0204",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/cinza_azulado_medio_tc_0204_1467_1_31b821943f10ed973c6ff29bcbe5c875.jpg",
+  "hex": "#4a5b6b",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 11.1
+ },
+ {
+  "code": "TC-0187",
+  "nome": "Medium Tan",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "aviacaomodernaacrilica",
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/medium-tan-tc-0187",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/medium_tan_tc_0187_1379_1_e01c6ee31cea38860385b1d20c67163a.jpg",
+  "hex": "#9f836d",
+  "origem": "medida",
+  "pixels": 7568,
+  "desvio": 5.9
+ },
+ {
+  "code": "TC-0223",
+  "nome": "Flight Deck Stain",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "navalacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/flight-deck-stain-tc-0223",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/flight_deck_stain_tc_0223_1355_1_eb38fe30ffa59c39c55c9cae6390b06d.jpg",
+  "hex": "#25262a",
+  "origem": "medida",
+  "pixels": 7559,
+  "desvio": 14.5
+ },
+ {
+  "code": "TC-0243",
+  "nome": "Hull Red",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "navalacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/hull-red-tc-0243",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/hull_red_tc_0243_1353_1_f3c89ed5b2fc60fd09c264f49247acb9.jpg",
+  "hex": "#381a02",
+  "origem": "medida",
+  "pixels": 7564,
+  "desvio": 12.7
+ },
+ {
+  "code": "TC-0130",
+  "nome": "Silbergrau DKM50",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "navalacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/silbergrau-dkm50-tc-0130",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/silbergrau_dkm50_tc_0130_1347_1_5bd8418bd217be994143e0c7a91b27a6.jpg",
+  "hex": "#adb1bd",
+  "origem": "medida",
+  "pixels": 7538,
+  "desvio": 5.3
+ },
+ {
+  "code": "TC-0310",
+  "nome": "Deck Tan",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "navalacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/deck-tan-tc-0310",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/deck_tan_tc_0310_1337_1_276f523483133ba2cab08e5ac73cf976.jpg",
+  "hex": "#cdb593",
+  "origem": "medida",
+  "pixels": 7544,
+  "desvio": 4.7
+ },
+ {
+  "code": "TC-0176",
+  "nome": "Haze Grey USN WW2",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "navalacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/haze-grey-usn-ww2-tc-0176",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/haze_grey_usn_ww2_tc_0176_1177_1_bea874f3fee43761d334af8af56a685c.jpg",
+  "hex": "#898e91",
+  "origem": "medida",
+  "pixels": 7558,
+  "desvio": 6.9
+ },
+ {
+  "code": "TC-0401",
+  "nome": "FS 20059",
+  "linha": "Acrylic Colors",
+  "layout": "B",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-20059-tc-0401",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_20059_tc_0401_1877_1_cc914ef5a3b21cc5352dc1e87c09389b.jpg",
+  "hex": "#311705",
+  "origem": "manual",
+  "medido": null,
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TC-0060",
+  "nome": "Carc Tan",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/carc-tan-tc-0060",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/carc_tan_tc_0060_1709_1_72155a244b281b2d27a8f047d6ec5fcc.jpg",
+  "hex": "#b79976",
+  "origem": "medida",
+  "pixels": 7631,
+  "desvio": 5.6
+ },
+ {
+  "code": "TC-0226",
+  "nome": "Carc Middlestone",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/carc-middlestone-tc-0226",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/carc_middlestone_tc_0226_1707_1_cb0ecc23ead12f53292ece17fc784b81.jpg",
+  "hex": "#c6ac97",
+  "origem": "medida",
+  "pixels": 7606,
+  "desvio": 5
+ },
+ {
+  "code": "TC-0058",
+  "nome": "FS 30051",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30051-tc-0058",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30051_tc_0058_1685_1_58f0dc27cbcc5938184b614065dfce9c.jpg",
+  "hex": "#502b13",
+  "origem": "medida",
+  "pixels": 7593,
+  "desvio": 11
+ },
+ {
+  "code": "TC-0146",
+  "nome": "4BO Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/4bo-green-tc-0146",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/4bo_green_tc_0146_1335_1_675ed518c7c0eeb0f354fc48554a0f9a.jpg",
+  "hex": "#43481f",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 11.7
+ },
+ {
+  "code": "TC-0064",
+  "nome": "Russian 4BO Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/russian-4bo-green-tc-0064",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/russian_4bo_green_tc_0064_1333_1_fbc851388afc2c85aadebf12ff06f080.jpg",
+  "hex": "#2b3617",
+  "origem": "medida",
+  "pixels": 7571,
+  "desvio": 13.9
+ },
+ {
+  "code": "TC-0198",
+  "nome": "NATO Brown",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/nato-brown-tc-0198",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/nato_brown_tc_0198_1327_1_f1165d53b0ce53c930d57e328400d546.jpg",
+  "hex": "#493425",
+  "origem": "medida",
+  "pixels": 7572,
+  "desvio": 11.4
+ },
+ {
+  "code": "TC-0200",
+  "nome": "NATO Black",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/nato-black",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/nato_black_1323_1_683e43066684913db32f92bc58e06d36.jpg",
+  "hex": "#202523",
+  "origem": "medida",
+  "pixels": 7562,
+  "desvio": 15.1
+ },
+ {
+  "code": "TC-0199",
+  "nome": "NATO Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/nato-green-tc-0199",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/nato_green_tc_0199_1321_1_bd80605fb0e9ddf80eabc448e79892b7.jpg",
+  "hex": "#2b4026",
+  "origem": "medida",
+  "pixels": 7569,
+  "desvio": 13.9
+ },
+ {
+  "code": "TC-0147",
+  "nome": "Nº 9 Olive Drab US Army WW2",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/no-9-olive-drab-us-army-ww2-tc-0147",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/no_9_olive_drab_us_army_ww2_tc_0147_1319_1_3b0cedabd1e5c48e47017bf53f98c695.jpg",
+  "hex": "#423c1c",
+  "origem": "medida",
+  "pixels": 7579,
+  "desvio": 11.8
+ },
+ {
+  "code": "TC-0247",
+  "nome": "London Grey RAL 7026",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/london-grey-ral-7026-tc-0247",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/london_grey_ral_7026_tc_0247_1311_1_2f9d97cc0b808721b6f2d28e069edc8b.jpg",
+  "hex": "#364447",
+  "origem": "medida",
+  "pixels": 7567,
+  "desvio": 12.8
+ },
+ {
+  "code": "TC-0091",
+  "nome": "RAL 7001 Silbergrau",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ral-7001-silbergrau-tc-0091",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ral_7001_silbergrau_tc_0091_1309_1_62d936c3d47204c7f708ca8f4c4e31de.jpg",
+  "hex": "#939da1",
+  "origem": "medida",
+  "pixels": 7549,
+  "desvio": 6.3
+ },
+ {
+  "code": "TC-0075",
+  "nome": "Afrika Mustard",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "militariaacrilica"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/afrika-mustard-tc-0075",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/afrika_mustard_tc_0075_1303_1_f4912fceb45e74e3db89883950a3759f.jpg",
+  "hex": "#a28253",
+  "origem": "medida",
+  "pixels": 7613,
+  "desvio": 6.3
+ },
+ {
+  "code": "TC-0059",
+  "nome": "FS 33531",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-33531-tc-0059",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_33531_tc_0059_1703_1_7deb8027fd302758b11469e516f3a807.jpg",
+  "hex": "#c0ad9e",
+  "origem": "medida",
+  "pixels": 7591,
+  "desvio": 5.1
+ },
+ {
+  "code": "TC-0054",
+  "nome": "FS 34094",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34094-tc-0054",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34094_tc_0054_1461_1_1d59ad63890c96cf844aa4455d33b861.jpg",
+  "hex": "#3b4b2e",
+  "origem": "medida",
+  "pixels": 7547,
+  "desvio": 10.4
+ },
+ {
+  "code": "TC-0051",
+  "nome": "FS 30219",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30219-tc-0051",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30219_tc_0051_1459_1_5cd0b7db185c3d8976acd0dd540a345a.jpg",
+  "hex": "#825f3f",
+  "origem": "medida",
+  "pixels": 7552,
+  "desvio": 6.6
+ },
+ {
+  "code": "TC-0050",
+  "nome": "FS 36320",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36320-tc-0050",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36320_tc_0050_1457_1_411622a32e57ef68f46e82b82ffc1894.jpg",
+  "hex": "#8b959e",
+  "origem": "medida",
+  "pixels": 7532,
+  "desvio": 5.9
+ },
+ {
+  "code": "TC-0048",
+  "nome": "FS 35237",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-35237-tc-0048",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_35237_tc_0048_1455_1_b6f0421c4cd6e5591b287d5027f23dc6.jpg",
+  "hex": "#6e7e8b",
+  "origem": "medida",
+  "pixels": 7539,
+  "desvio": 7.2
+ },
+ {
+  "code": "TC-0047",
+  "nome": "FS 36622",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36622-tc-0047",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36622_tc_0047_1453_1_17ab7b6a6d1f478416b752bd2d054150.jpg",
+  "hex": "#d1d2c2",
+  "origem": "medida",
+  "pixels": 7495,
+  "desvio": 4.4
+ },
+ {
+  "code": "TC-0045",
+  "nome": "FS 30118",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30118-tc-0045",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30118_tc_0045_1451_1_2e2ca5f36aef528b8b041904337059fb.jpg",
+  "hex": "#6e5326",
+  "origem": "medida",
+  "pixels": 7544,
+  "desvio": 7.2
+ },
+ {
+  "code": "TC-0044",
+  "nome": "FS 33070",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-33070-tc-0044",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_33070_tc_0044_1449_1_396a023aad6e1ee76729db54736f94b4.jpg",
+  "hex": "#505338",
+  "origem": "medida",
+  "pixels": 7550,
+  "desvio": 9.2
+ },
+ {
+  "code": "TC-0043",
+  "nome": "FS 34082",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34082-tc-0043",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34082_tc_0043_1447_1_7833ed624e5b25b05eacbbce6475a6c2.jpg",
+  "hex": "#667147",
+  "origem": "medida",
+  "pixels": 7553,
+  "desvio": 7.9
+ },
+ {
+  "code": "TC-0042",
+  "nome": "FS 36375",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36375-tc-0042",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36375_tc_0042_1445_1_e64c3b4b2d94645d78afbd85956adaec.jpg",
+  "hex": "#8390a3",
+  "origem": "medida",
+  "pixels": 7526,
+  "desvio": 6.2
+ },
+ {
+  "code": "TC-0041",
+  "nome": "FS 34102",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34102-tc-0041",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34102_tc_0041_1443_1_45879f87a4acbaaa69f5998db2f1eada.jpg",
+  "hex": "#5c644c",
+  "origem": "medida",
+  "pixels": 7559,
+  "desvio": 8.5
+ },
+ {
+  "code": "TC-0037",
+  "nome": "FS 34227",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34227-tc-0037",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34227_tc_0037_1439_1_353cd1a2de4d644ab71eb5f6cd1efec0.jpg",
+  "hex": "#79896f",
+  "origem": "medida",
+  "pixels": 7540,
+  "desvio": 6.7
+ },
+ {
+  "code": "TC-0035",
+  "nome": "FS 37030",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-37038-tc-0035",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_37038_tc_0035_1437_1_37e4c0c831eca001e77b7feeae2634c5.jpg",
+  "hex": "#0b0f10",
+  "origem": "medida",
+  "pixels": 7516,
+  "desvio": 14.8
+ },
+ {
+  "code": "TC-0031",
+  "nome": "FS 36270",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36270-tc-0031",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_26270_tc_0031_1431_1_55213b6c7c3a8e82925549f427e381d4.jpeg",
+  "hex": "#848a8a",
+  "origem": "medida",
+  "pixels": 7552,
+  "desvio": 6.4
+ },
+ {
+  "code": "TC-0029",
+  "nome": "FS 34424",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34424-tc-0029",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34424_tc_0029_1427_1_401af611693cb9c0a4f5ca7242808382.jpg",
+  "hex": "#b2bb8e",
+  "origem": "medida",
+  "pixels": 7539,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0028",
+  "nome": "FS 34079",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34079-tc-0028",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34079_tc_0028_1425_1_1b8c58512ca278afe69765f9da08fcf3.jpg",
+  "hex": "#42412c",
+  "origem": "medida",
+  "pixels": 7542,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0026",
+  "nome": "FS 14151",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34151-tc-0026",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34151_tc_0026_1421_1_d3167824f77b9ae9e9a75f3a05b7d26a.jpg",
+  "hex": "#6e6c2f",
+  "origem": "medida",
+  "pixels": 7551,
+  "desvio": 7.5
+ },
+ {
+  "code": "TC-0025",
+  "nome": "FS 33481 Zinc Chromate Yellow",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-33481-zinc-chromate-yellow-tc-0025",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_33481_zinc_chromate_yellow_tc_0025_1419_1_83ad0b49fce472b83a00874d42c9dd99.jpg",
+  "hex": "#aca300",
+  "origem": "medida",
+  "pixels": 7524,
+  "desvio": 4.9
+ },
+ {
+  "code": "TC-0024",
+  "nome": "FS 36440",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36440-tc-0024",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36440_tc_0024_1417_1_14aeeeebcfd34b1e4c8cd3760c3f51df.jpg",
+  "hex": "#959a94",
+  "origem": "medida",
+  "pixels": 7525,
+  "desvio": 5.5
+ },
+ {
+  "code": "TC-0021",
+  "nome": "FS 36176",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36176-tc-0021",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36176_tc_0021_1413_1_d670fc89c90edb095e428eee4f04483f.jpg",
+  "hex": "#6e7881",
+  "origem": "medida",
+  "pixels": 7538,
+  "desvio": 7.2
+ },
+ {
+  "code": "TC-0020",
+  "nome": "FS 30279",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs30279-tc-0020",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs30279_tc_0020_1411_1_78c783cedf1cdbece7ac64512724dc92.jpg",
+  "hex": "#b9986d",
+  "origem": "medida",
+  "pixels": 7557,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0019",
+  "nome": "FS 36231",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36231-tc-0019",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36231_tc_0019_1409_1_541a82f32af385e03ef9317f6466a588.jpg",
+  "hex": "#7f8386",
+  "origem": "medida",
+  "pixels": 7533,
+  "desvio": 6.3
+ },
+ {
+  "code": "TC-0010",
+  "nome": "FS 13655",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-13655",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs13655_tc_0010_1407_1_11ab0ae5285458f1cc55264351276c41.jpg",
+  "hex": "#f4b213",
+  "origem": "medida",
+  "pixels": 7518,
+  "desvio": 5.4
+ },
+ {
+  "code": "TC-0011",
+  "nome": "FS 15045",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-15045-tc-0011",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_15045_tc_0011_1405_1_626a5224924cca415a65188cd6227a5a.jpg",
+  "hex": "#142a38",
+  "origem": "medida",
+  "pixels": 7540,
+  "desvio": 14.2
+ },
+ {
+  "code": "TC-0018",
+  "nome": "FS 34092",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34092-tc-0018",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34092_tc_0018_1399_1_0aae60142dfb0302f965222acd48119d.jpg",
+  "hex": "#4a5952",
+  "origem": "medida",
+  "pixels": 7555,
+  "desvio": 9.6
+ },
+ {
+  "code": "TC-0017",
+  "nome": "FS 34088",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34088-tc-0017",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34088_tc_0017_1397_1_9984e9b29f20973d3fc2c9a0443386f0.jpg",
+  "hex": "#5c583f",
+  "origem": "medida",
+  "pixels": 7547,
+  "desvio": 8.2
+ },
+ {
+  "code": "TC-0016",
+  "nome": "FS 34086",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-34086-tc-0016",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_34086_tc_0016_1395_1_951387f199c29be420d95089d6820d7b.jpg",
+  "hex": "#3f402e",
+  "origem": "medida",
+  "pixels": 7543,
+  "desvio": 10.2
+ },
+ {
+  "code": "TC-0014",
+  "nome": "FS 36118 Gunship Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-36118-gunship-grey-tc-0014",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_36118_gunship_grey_tc_0014_1391_1_7a2d92b00a381e89e7e867cbb52a949a.jpg",
+  "hex": "#414149",
+  "origem": "medida",
+  "pixels": 7541,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0013",
+  "nome": "FS 37875 Insignia White",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-37875-insignia-white-tc-0013",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_37875_insignia_white_tc_0013_1389_1_dad990b7c8df9b207faa29761ec5684f.jpg",
+  "hex": "#e9e8e0",
+  "origem": "manual",
+  "medido": "#e9e9df",
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TC-0009",
+  "nome": "FS 10266",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30266-tc-0009",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30266_tc_0009_1387_1_d8c32a16e828fbca6b12d94f7c5364c4.jpg",
+  "hex": "#c8924c",
+  "origem": "medida",
+  "pixels": 7555,
+  "desvio": 4.6
+ },
+ {
+  "code": "TC-0008",
+  "nome": "FS 30260",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30260-tc-0008",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30260_tc_0008_1385_1_f33d06eb925ea4052afad1409034425f.jpg",
+  "hex": "#bea45a",
+  "origem": "medida",
+  "pixels": 7548,
+  "desvio": 4.7
+ },
+ {
+  "code": "TC-0131",
+  "nome": "FS 30140 Air Force Brown",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-30140-air-force-brown-tc-0131",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_30140_air_force_brown_tc_0131_1181_1_9a9c2c5162bd08323f145e43f9b397b4.jpg",
+  "hex": "#665043",
+  "origem": "medida",
+  "pixels": 7551,
+  "desvio": 8
+ },
+ {
+  "code": "TC-0015",
+  "nome": "FS 35164",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "fsacrilico"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/fs-35164-tc-0015",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/fs_35164_tc_0015_1393_1_cc132d502500c8837db228b246a54984.jpg",
+  "hex": "#627281",
+  "origem": "medida",
+  "pixels": 7555,
+  "desvio": 8.2
+ },
+ {
+  "code": "TC-0321",
+  "nome": "Field Grey Base 2 (Cinza)",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/field-grey-base-2-cinza-tc-0321",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/field_grey_base_2_cinza_tc_0321_1699_1_43e4bff03f74d712cd77f5a15a604a4c.jpg",
+  "hex": "#424536",
+  "origem": "medida",
+  "pixels": 7576,
+  "desvio": 11.7
+ },
+ {
+  "code": "TC-0252",
+  "nome": "Field Grey Base 1 (Verde)",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/field-grey-base-1-verde-tc-0252",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/field_grey_base_1_verde_tc_0252_1271_1_e233f39677e149a5756cea95137f666c.jpg",
+  "hex": "#5b6859",
+  "origem": "medida",
+  "pixels": 7590,
+  "desvio": 9.7
+ },
+ {
+  "code": "TC-0153",
+  "nome": "Field Grey Green Shadow",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/field-grey-green-shadow-tc-0153",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/field_grey_green_shadow_tc_0153_1269_1_2d357734aeb8e7f9046e51c292c47454.jpg",
+  "hex": "#444d3c",
+  "origem": "medida",
+  "pixels": 7577,
+  "desvio": 11.3
+ },
+ {
+  "code": "TC-0309",
+  "nome": "Leather Suit Shadow",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/leather-suit-shadow-tc-0309",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/leather_suit_shadow_tc_0309_1259_1_b12dc25412ea97f7c94d17043c602d4c.jpg",
+  "hex": "#1d1504",
+  "origem": "medida",
+  "pixels": 7566,
+  "desvio": 15.8
+ },
+ {
+  "code": "TC-0235",
+  "nome": "Black Uniform Light",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/black-uniform-light-tc-0235",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/black_uniform_light_tc_0235_1255_1_da170de18e096157f615c26e15bc9e45.jpg",
+  "hex": "#5a5e63",
+  "origem": "medida",
+  "pixels": 7571,
+  "desvio": 9.7
+ },
+ {
+  "code": "TC-0255",
+  "nome": "Black Uniform Base",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/black-uniform-base-tc-0255",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/black_uniform_base_tc_0255_1253_1_06da96849d485f0fd43ede9ca75a92ff.jpg",
+  "hex": "#24211c",
+  "origem": "medida",
+  "pixels": 7568,
+  "desvio": 15.1
+ },
+ {
+  "code": "TC-0205",
+  "nome": "Verde Selva",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "semPagina": true,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-selva-tc-0205",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_selva_tc_0205_1247_1_b68527dc5d575f1a6f65c5046577d50e.jpg",
+  "hex": "#3c3c28",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 12.3
+ },
+ {
+  "code": "TC-0240",
+  "nome": "Couro Branco",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/couro-branco-tc-0240",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/couro_branco_tc_0240_1245_1_9e1a031561bbc9924bcad5bb2ff77856.jpg",
+  "hex": "#d8d2c0",
+  "origem": "medida",
+  "pixels": 7556,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0227",
+  "nome": "Leather Suit Base",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/leather-suit-base-tc-0227",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/leather_suit_base_tc_0227_1237_1_65a9252a3bd88aff1dfe7fadc4d1036e.jpg",
+  "hex": "#201505",
+  "origem": "medida",
+  "pixels": 7553,
+  "desvio": 15.1
+ },
+ {
+  "code": "TC-0110",
+  "nome": "Verde Khaki",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-khaki-tc-0110",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_khaki_tc_0110_1235_1_bd476c045e3638e4256e2a9eb506c305.jpg",
+  "hex": "#5c583e",
+  "origem": "medida",
+  "pixels": 7590,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0105",
+  "nome": "USAF Pilot Belts And Details",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/usaf-pilot-belts-and-details-tc-0105",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/usaf_pilot_belts_and_details_tc_0105_1229_1_d2effbd88d2960d59802c5b24a2cc60c.jpg",
+  "hex": "#9b9251",
+  "origem": "medida",
+  "pixels": 7623,
+  "desvio": 6.5
+ },
+ {
+  "code": "TC-0061",
+  "nome": "USAF Modern Uniform Light",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/usaf-modern-uniform-light-tc-0061",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/usaf_modern_uniform_light_tc_0061_1227_1_e4cff9ba3571ee56fafe262fdb9e5f0b.jpg",
+  "hex": "#575f2f",
+  "origem": "medida",
+  "pixels": 7585,
+  "desvio": 10.3
+ },
+ {
+  "code": "TC-0090",
+  "nome": "USAF Modern Uniform Base",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/usaf-modern-uniform-base-tc-0090",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/usaf_modern_uniform_base_tc_0090_1225_1_569757ce869f831497d4a1bfd4412870.jpg",
+  "hex": "#293c22",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 14.1
+ },
+ {
+  "code": "TC-0152",
+  "nome": "Leather Brown",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "figuras"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/leather-brown-tc-0152",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/leather_brown_tc_0152_1249_1_c643e5a3c16c1bf1d03836d1e18010be.jpg",
+  "hex": "#4b372e",
+  "origem": "medida",
+  "pixels": 7585,
+  "desvio": 11.1
+ },
+ {
+  "code": "TC-0220",
+  "nome": "Woodbrown Médio",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/woodbrown-medio-tc-0220",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/woodbrown_medio_tc_0220_1377_1_6dce7dd6c366117218929ce61b93adb3.jpg",
+  "hex": "#6f5b36",
+  "origem": "medida",
+  "pixels": 7569,
+  "desvio": 8.5
+ },
+ {
+  "code": "TC-0222",
+  "nome": "Forest Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/forest-green-tc-0222",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/forest_green_tc_0222_1375_1_62513b95891423d49cedf64e20713bca.jpg",
+  "hex": "#42451c",
+  "origem": "medida",
+  "pixels": 7582,
+  "desvio": 11.7
+ },
+ {
+  "code": "TC-0217",
+  "nome": "Night Grey",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/night-grey-tc-0217",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/night_grey_tc_0217_1371_1_9cc702eb391207a3fb42a1fc53e72d2c.jpg",
+  "hex": "#242120",
+  "origem": "medida",
+  "pixels": 7561,
+  "desvio": 14.9
+ },
+ {
+  "code": "TC-0211",
+  "nome": "Terra",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/terra-tc-0211",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/terra_tc_0211_1363_1_b7ff9f5b757f7cb87b7348803bf18ae0.jpg",
+  "hex": "#7d6a59",
+  "origem": "medida",
+  "pixels": 7570,
+  "desvio": 7.7
+ },
+ {
+  "code": "TC-0056",
+  "nome": "Light Wood",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/light-wood-tc-0056",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/light_wood_tc_0056_1359_1_3a602318d7e0f02922104adb9e02123d.jpg",
+  "hex": "#d5bf78",
+  "origem": "medida",
+  "pixels": 7628,
+  "desvio": 5.2
+ },
+ {
+  "code": "TC-0202",
+  "nome": "Ochre Brown",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/ochre-brown-tc-0202",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/ochre_brown_tc_0202_1179_1_2f6c3bce0a339e96d87a774786ff29a1.jpg",
+  "hex": "#b58d4f",
+  "origem": "medida",
+  "pixels": 7570,
+  "desvio": 5.2
+ },
+ {
+  "code": "TC-0225",
+  "nome": "Oxide Brown",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/oxide-brown-tc-0225",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/oxide_brown_tc_0225_1383_1_51d057eca134adb578bdea539338a771.jpg",
+  "hex": "#673222",
+  "origem": "medida",
+  "pixels": 7573,
+  "desvio": 9.1
+ },
+ {
+  "code": "TC-0214",
+  "nome": "Preto Locomotiva",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "diorama"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/preto-locomotiva-tc-0214",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/preto_locomotiva_tc_0214_1369_1_f350df44e1125183fb06a80825085fe1.jpg",
+  "hex": "#030303",
+  "origem": "medida",
+  "pixels": 7532,
+  "desvio": 17.4
+ },
+ {
+  "code": "TC-0268",
+  "nome": "Tire Black Highlight",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/tire-black-highlight-tc-0268",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tire_black_highlight_tc_0268_1299_1_30b868994c65cf209e003f03486bf2ed.jpg",
+  "hex": "#58595b",
+  "origem": "medida",
+  "pixels": 7566,
+  "desvio": 9.9
+ },
+ {
+  "code": "TC-0088",
+  "nome": "Tire Black",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/tire-black-tc-0088",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/tire_black_tc_0088_1295_1_b22bf5528fcb2b88856809f304b41084.jpg",
+  "hex": "#3d383c",
+  "origem": "medida",
+  "pixels": 7569,
+  "desvio": 12.4
+ },
+ {
+  "code": "TC-0228",
+  "nome": "Light Green",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/light-green-tc-0228",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/light_green_tc_0228_1293_1_a020059b28c2b322343ad20560ad5978.jpg",
+  "hex": "#788541",
+  "origem": "medida",
+  "pixels": 7602,
+  "desvio": 8.2
+ },
+ {
+  "code": "TC-0207",
+  "nome": "Cinza Médio",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/cinza-medio-tc-0207",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/cinza_medio_tc_0207_1291_1_3931c9601a765688de458b272d1ab53a.jpg",
+  "hex": "#7c8991",
+  "origem": "medida",
+  "pixels": 7558,
+  "desvio": 7.7
+ },
+ {
+  "code": "TC-0158",
+  "nome": "Amarelo",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/amarelo-tc-0158",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/amarelo_tc_0158_1285_1_76d577e622afcf72e3f087b270ea6c5a.jpg",
+  "hex": "#fffc00",
+  "origem": "medida",
+  "pixels": 7520,
+  "desvio": 5.8
+ },
+ {
+  "code": "TC-0007",
+  "nome": "Azul",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/azul-tc-0007",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/azul_tc_0007_1281_1_f600988958845da0fc1f53225d145d4f.jpg",
+  "hex": "#020c65",
+  "origem": "medida",
+  "pixels": 7559,
+  "desvio": 18.3
+ },
+ {
+  "code": "TC-0006",
+  "nome": "Verde",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/verde-tc-0006",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/verde_tc_0006_1279_1_4da47b177bd0e318111ea26509938f9e.jpg",
+  "hex": "#107902",
+  "origem": "medida",
+  "pixels": 7563,
+  "desvio": 16.9
+ },
+ {
+  "code": "TC-0005",
+  "nome": "Vermelho",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/vermelho-puro-tc-0005",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/vermelho_puro_tc_0005_1277_1_9c3e5d4847cedd55c650284cd16ce693.jpg",
+  "hex": "#cd090a",
+  "origem": "medida",
+  "pixels": 7557,
+  "desvio": 4.8
+ },
+ {
+  "code": "TC-0004",
+  "nome": "Preto",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/preto-acetinado-tc-0004",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/preto_acetinado_tc_0004_1275_1_4ee4593d84ed02d5d15c65daecbb619c.jpg",
+  "hex": "#000000",
+  "origem": "medida",
+  "pixels": 7532,
+  "desvio": 17.8
+ },
+ {
+  "code": "TC-0001",
+  "nome": "Branco",
+  "linha": "Acrylic Colors",
+  "layout": "A",
+  "nFotos": 1,
+  "categorias": [
+   "basicas"
+  ],
+  "pagina": "https://www.tomcolors.com.br/tintas-acrilicas/branco-acetinado",
+  "imagem": "https://images.tcdn.com.br/img/img_prod/756841/branco_acetinado_1187_1_9522a328884a6cb9c67cc829d75d6fe4.jpg",
+  "hex": "#ffffff",
+  "origem": "manual",
+  "medido": null,
+  "nota": "conferido no site com conta-gotas"
+ },
+ {
+  "code": "TCUP-09",
+  "nome": "Gorro de Saci",
+  "linha": "UP",
+  "hex": "#d50119",
+  "origem": "extra (só no conjunto)",
+  "poca": "#d50119",
+  "nota": "vendida só no conjunto; sem foto de cartão: poça de tinta (amostrada à mão); nos vermelhos as três fontes concordam em ΔE ≤ 6",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off"
+ },
+ {
+  "code": "TCUP-10",
+  "nome": "Cabelo de Curupira",
+  "linha": "UP",
+  "hex": "#ec0911",
+  "origem": "extra (só no conjunto)",
+  "poca": "#ec0911",
+  "nota": "vendida só no conjunto; sem foto de cartão: poça de tinta (amostrada à mão); nos vermelhos as três fontes concordam em ΔE ≤ 6",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off"
+ },
+ {
+  "code": "TCUP-13",
+  "nome": "Couro da Cuca",
+  "linha": "UP",
+  "hex": "#265540",
+  "origem": "extra (só no conjunto)",
+  "aprox": "estimada",
+  "poca": "#002917",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras)",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off"
+ },
+ {
+  "code": "TCUP-14",
+  "nome": "Escama do Boitatá",
+  "linha": "UP",
+  "hex": "#2d5686",
+  "origem": "extra (só no conjunto)",
+  "aprox": "estimada",
+  "poca": "#002d55",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras)",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off"
+ },
+ {
+  "code": "TCUP-20",
+  "nome": "Azul do Charía",
+  "linha": "UP",
+  "hex": "#4140da",
+  "origem": "extra (só no conjunto)",
+  "aprox": "estimada",
+  "poca": "#0117a0",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras); nome provável (o rótulo da foto está cortado em \"AZUL DO CHAR\"): confirmar ao comprar",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off"
+ }
+]

@@ -1,0 +1,152 @@
+{
+ "TCUP-01": {
+  "circulo": "#ffe600",
+  "poca": "#ffff00",
+  "cartao": "#fef200",
+  "final": "#fef200"
+ },
+ "TCUP-02": {
+  "circulo": "#ffbd00",
+  "poca": "#ffd800",
+  "cartao": "#fee000",
+  "final": "#fee000"
+ },
+ "TCUP-03": {
+  "circulo": "#ecb300",
+  "poca": "#fdcd00",
+  "cartao": "#f8d000",
+  "final": "#f8d000"
+ },
+ "TCUP-04": {
+  "circulo": "#ff9700",
+  "poca": "#fca500",
+  "cartao": "#ffb600",
+  "final": "#ffb600"
+ },
+ "TCUP-05": {
+  "circulo": "#ff2e00",
+  "poca": "#f93800",
+  "cartao": "#f64c00",
+  "final": "#f64c00"
+ },
+ "TCUP-06": {
+  "circulo": "#ff1f0f",
+  "poca": "#fd2107",
+  "cartao": "#ed2b00",
+  "final": "#ed2b00"
+ },
+ "TCUP-07": {
+  "circulo": "#ff2b45",
+  "poca": "#f50d06",
+  "cartao": "#ff3d10",
+  "final": "#ff3d10"
+ },
+ "TCUP-08": {
+  "circulo": "#b1131d",
+  "poca": "#b10a03",
+  "cartao": "#bf2102",
+  "final": "#bf2102"
+ },
+ "TCUP-09": {
+  "circulo": null,
+  "poca": "#d50119",
+  "cartao": null,
+  "final": "#d50119"
+ },
+ "TCUP-10": {
+  "circulo": null,
+  "poca": "#ec0911",
+  "cartao": null,
+  "final": "#ec0911"
+ },
+ "TCUP-11": {
+  "circulo": "#009600",
+  "poca": "#008515",
+  "cartao": "#00d132",
+  "final": "#00d132"
+ },
+ "TCUP-12": {
+  "circulo": "#003420",
+  "poca": "#005b3e",
+  "cartao": "#019e69",
+  "final": "#019e69"
+ },
+ "TCUP-13": {
+  "circulo": null,
+  "poca": "#002917",
+  "cartao": null,
+  "final": "#265540"
+ },
+ "TCUP-14": {
+  "circulo": null,
+  "poca": "#002d55",
+  "cartao": null,
+  "final": "#2d5686"
+ },
+ "TCUP-15": {
+  "circulo": "#0031c0",
+  "poca": "#002ab0",
+  "cartao": "#0f40d5",
+  "final": "#0f40d5"
+ },
+ "TCUP-16": {
+  "circulo": "#ffffff",
+  "poca": "#ffffff",
+  "cartao": null,
+  "final": "#ffffff"
+ },
+ "TCUP-17": {
+  "circulo": "#3a110c",
+  "poca": "#0f0000",
+  "cartao": "#502012",
+  "final": "#502012"
+ },
+ "TCUP-18": {
+  "circulo": "#3f190e",
+  "poca": "#280300",
+  "cartao": "#86531d",
+  "final": "#86531d"
+ },
+ "TCUP-19": {
+  "circulo": "#001036",
+  "poca": "#001146",
+  "cartao": "#012da1",
+  "final": "#012da1"
+ },
+ "TCUP-20": {
+  "circulo": null,
+  "poca": "#0117a0",
+  "cartao": null,
+  "final": "#4140da"
+ },
+ "TCUP-21": {
+  "circulo": "#4c0b5f",
+  "poca": "#160389",
+  "cartao": "#531bcb",
+  "final": "#531bcb"
+ },
+ "TCUP-22": {
+  "circulo": "#000000",
+  "poca": "#000000",
+  "cartao": null,
+  "final": "#000000"
+ },
+ "TCUP-23": {
+  "circulo": "#f983b1",
+  "poca": "#ff9dd3",
+  "cartao": "#f194c0",
+  "final": "#f194c0"
+ },
+ "TCUP-24": {
+  "circulo": "#ff2c5f",
+  "poca": "#e91756",
+  "cartao": "#fb1074",
+  "final": "#fb1074"
+ },
+ "TCUP-25": {
+  "circulo": "#00acdd",
+  "poca": "#64d5ff",
+  "cartao": "#5ec3fe",
+  "final": "#5ec3fe"
+ }
+}

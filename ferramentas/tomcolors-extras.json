@@ -1,0 +1,50 @@
+[
+ {
+  "code": "TCUP-09",
+  "name": "Gorro de Saci",
+  "line": "UP",
+  "hex": "#d50119",
+  "poca": "#d50119",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off",
+  "nota": "vendida só no conjunto; sem foto de cartão: poça de tinta (amostrada à mão); nos vermelhos as três fontes concordam em ΔE ≤ 6"
+ },
+ {
+  "code": "TCUP-10",
+  "name": "Cabelo de Curupira",
+  "line": "UP",
+  "hex": "#ec0911",
+  "poca": "#ec0911",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off",
+  "nota": "vendida só no conjunto; sem foto de cartão: poça de tinta (amostrada à mão); nos vermelhos as três fontes concordam em ΔE ≤ 6"
+ },
+ {
+  "code": "TCUP-13",
+  "name": "Couro da Cuca",
+  "line": "UP",
+  "hex": "#265540",
+  "aprox": "estimada",
+  "poca": "#002917",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras)"
+ },
+ {
+  "code": "TCUP-14",
+  "name": "Escama do Boitatá",
+  "line": "UP",
+  "hex": "#2d5686",
+  "aprox": "estimada",
+  "poca": "#002d55",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras)"
+ },
+ {
+  "code": "TCUP-20",
+  "name": "Azul do Charía",
+  "line": "UP",
+  "hex": "#4140da",
+  "aprox": "estimada",
+  "poca": "#0117a0",
+  "pagina": "https://www.tomcolors.com.br/tintas-up-ultra-pigmentada/set-acrilico-linha-up-completo-10-off",
+  "nota": "vendida só no conjunto; sem foto de cartão: cor ESTIMADA a partir da poça de tinta (amostrada à mão) por regressão em Lab sobre as outras 18 (erro típico de ΔE 7 a 20 nas escuras); nome provável (o rótulo da foto está cortado em \"AZUL DO CHAR\"): confirmar ao comprar"
+ }
+]

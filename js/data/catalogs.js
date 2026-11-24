@@ -21,9 +21,10 @@ import { lineName, t } from '../i18n/index.js';
  *           (ex.: `{tamiya: "XF-1", modelColor: "70.950"}`), quando existem.
  * @property {string} [finish]  acabamento (ex.: "Gloss", "Matte"), quando o catálogo informa.
  * @property {boolean} [degrade]  amostra em degradê/metálica: a cor é só uma aproximação.
- * @property {'frasco'|'diluida'} [aprox]  cor aproximada por outro método: `frasco` (lida do líquido na foto do frasco,
- *           porque a marca não publica amostra) ou `diluida` (a amostra da marca é semitransparente). Essas tintas
- *           aparecem marcadas como aproximadas e não entram como ingredientes.
+ *  * @property {'frasco'|'diluida'|'foto'|'estimada'} [aprox]  cor aproximada por outro método: `frasco` (lida do líquido na foto do
+ *           frasco), `diluida` (a amostra da marca é semitransparente), `foto` (lida de uma cabeça pintada na foto) ou
+ *           `estimada` (calculada a partir de outras fontes). Essas tintas aparecem marcadas como aproximadas e não
+ *           entram como ingredientes.
  * @property {import('../color/spectral.js').PaintFit} [fit]  ajuste espectral
  *           (presente apenas nas tintas do catálogo de ingredientes).
  */
@@ -32,7 +33,7 @@ import { lineName, t } from '../i18n/index.js';
  * Catálogos disponíveis como cor-alvo, na ordem em que as abas aparecem.
  * `free` não é um catálogo: é a aba de cor livre (seletor de cor).
  */
-export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'acrilex', 'free'];
+export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'tomcolors', 'acrilex', 'free'];
 
 /**
  * Abas de versões anteriores → aba equivalente atual (Tamiya e Revell já tiveram uma aba por
@@ -63,6 +64,7 @@ export const CATALOG_NAMES = {
   ak: 'AK',
   ammo: 'AMMO',
   scale75: 'Scale75',
+  tomcolors: 'Tom Colors',
   acrilex: 'Acrilex',
 };
 
@@ -95,15 +97,15 @@ function revellLabel(d) {
 
 /**
  * Monta os catálogos normalizados a partir dos JSONs brutos (função pura, sem rede).
- * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[]}} raw conteúdo de
+ * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[]}} raw conteúdo de
  *        `acrilex-cores-oficial`, `tamiya-cores-oficial`, `revell-cores-oficial`,
- *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores` e `scale75-cores`.
+ *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores`, `scale75-cores` e `tomcolors-cores`.
  * @returns {Object<string, CatalogPaint[]>} catálogos por chave
- *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`).
- *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`)
+ *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`, `tomcolors`).
+ *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`, `tomcolors`)
  *          marcam cada tinta com `line`.
  */
-export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [] }) {
+export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [] }) {
   // Tamiya: aditivos (sem cor) ficam de fora; linhas por base química (acrílica primeiro)
   const tamiya = (base, line) =>
     tm.filter((d) => d.hex && !d.aditivo && d.base === base).map((d) => ({ code: d.code, name: d.name, hex: d.hex, line }));
@@ -176,6 +178,16 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
       ...(d.finish ? { finish: d.finish } : {}),
       ...(d.aprox ? { aprox: d.aprox } : {}),
     })),
+    // Tom Colors (loja oficial): linhas pelo prefixo do código, TC = Acrylic Colors e TCUP = UP (ultra-pigmentada).
+    // `aprox` marca as cores lidas de uma foto (a cabeça pintada das Skin Tones sem imagem-modelo).
+    tomcolors: tc.map((d) => ({
+      code: d.code,
+      name: d.name,
+      hex: d.hex,
+      line: d.line,
+      ...(d.finish ? { finish: d.finish } : {}),
+      ...(d.aprox ? { aprox: d.aprox } : {}),
+    })),
   };
 }
 
@@ -184,7 +196,7 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
  * @returns {Promise<Object<string, CatalogPaint[]>>} catálogos por chave (ver {@link buildCatalogs}).
  */
 export async function loadCatalogs() {
-  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc] = await Promise.all([
+  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc] = await Promise.all([
     // (a ordem segue a de `buildCatalogs`)
     loadJson('acrilex-cores-oficial.json'),
     loadJson('tamiya-cores-oficial.json'),
@@ -197,8 +209,9 @@ export async function loadCatalogs() {
     loadJson('ak-cores.json'),
     loadJson('ammo-cores.json'),
     loadJson('scale75-cores.json'),
+    loadJson('tomcolors-cores.json'),
   ]);
-  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc });
+  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc });
 }
 
 /**

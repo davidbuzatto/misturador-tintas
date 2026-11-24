@@ -45,6 +45,8 @@ export const INGREDIENT_SETS = [
   { id: 'scale75-warfront', marca: 'Scale75', rotulo: 'Warfront', quimica: 'acrilica', tab: 'scale75', line: 'Warfront' },
   { id: 'scale75-artist', marca: 'Scale75', rotulo: 'Scalecolor Artist', quimica: 'acrilica', tab: 'scale75', line: 'Scalecolor Artist' },
   { id: 'scale75-flow', marca: 'Scale75', rotulo: 'Flow', quimica: 'oleo', tab: 'scale75', line: 'Flow' },
+  { id: 'tomcolors-acrylic', marca: 'Tom Colors', rotulo: 'Acrylic Colors', quimica: 'acrilica', tab: 'tomcolors', line: 'Acrylic Colors' },
+  { id: 'tomcolors-up', marca: 'Tom Colors', rotulo: 'UP', quimica: 'acrilica', tab: 'tomcolors', line: 'UP' },
 ];
 
 /** Séries (campo `series`) cujas tintas o modelo de mistura não representa. */

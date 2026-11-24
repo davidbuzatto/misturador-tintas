@@ -13,6 +13,7 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
 | `extrair-ammo.mjs "arquivo.pdf"` | *AMMO Catalogue 2024* (PDF) | poppler | `dados/ammo-cores.json` |
 | `extrair-humbrol.mjs` | imagens do site <https://uk.humbrol.com/catalogue> | rede, ffmpeg | `dados/humbrol-cores.json` |
 | `extrair-scale75.mjs` | site oficial <https://scale75.com> (11 coleções) | rede (Node puro; usa `png.mjs`) | `dados/scale75-cores.json`, `scale75-medidas.json`, `scale75-conferir.md` |
+| `extrair-tomcolors.mjs` | loja oficial <https://www.tomcolors.com.br> (20 páginas de categoria) | rede, ffmpeg | `dados/tomcolors-cores.json`, `tomcolors-medidas.json`, `tomcolors-conferir.md` |
 
 "poppler" são os programas `pdftohtml` e `pdftoppm`; `ffmpeg` decodifica as imagens da Humbrol. Todos precisam estar no `PATH`.
 
@@ -40,6 +41,20 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
   `scale75-conferir.md`, a lista curta de tintas para conferir à mão no site (amostra diluída, traço minúsculo, foto
   trocada ou sem amostra utilizável). Como não há mais lista coletada no navegador, rodar de novo basta
   `node ferramentas/extrair-scale75.mjs`.
+- **Tom Colors:** a loja é Tray (páginas em ISO-8859-1), e as páginas de categoria misturam a lista real com carrosséis
+  de destaque; o script lê só a lista (`showcase-catalog`), segue a paginação (`?pg=N`) e junta os produtos pelo endereço,
+  porque o mesmo produto aparece em várias categorias. Só entram tintas (`/tintas-acrilicas/` e a linha UP); sets,
+  vernizes, diluentes e máscaras ficam de fora. As **linhas** vêm do prefixo do código: `TC-nnnn` (Acrylic Colors) e
+  `TCUP-nn` (UP). **Cada anúncio tem várias fotos** (a da lista é só a primeira, e a imagem-modelo com a amostra pode ser
+  qualquer uma): o script lê a página do produto, baixa todas as fotos com o id do produto, classifica cada uma e mede a
+  melhor. Layouts: **A** (fundo branco, traço de pincel chapado: mediana do maior componente não branco, recuado das
+  bordas), **B** (série RLM, mancha redonda sobre foto escura: caixa no centro da mancha), **D** (linha UP: fundo branco,
+  logo "UP" dourado e um círculo de cor chapada: caixa no centro do círculo) e **C** (foto de cabeça pintada, sem amostra).
+  Só quando um anúncio não tem imagem-modelo é que se recorre à cabeça pintada das Skin Tones (caixa na testa, `aprox:
+  "foto"`, erro de ΔE 6,6 na validação com a RLM 61) ou, na UP, ao líquido no ombro do frasco (`aprox: "frasco"`, que não
+  chega a ser usado hoje). **A cor final da linha UP é a tinta aplicada num cartão branco**, que aparece em fotos de cada anúncio (a poça sob o frasco é mais escura nas cores frias, e o círculo do anúncio, mais escuro ainda: nos verdes, azuis, roxos e marrons a diferença chega a ΔE 20 a 35). O script mede o maior componente "não branco" cercado de branco; onde a tinta encosta na luva ou é clara demais, a caixa foi marcada à mão. As três fontes de cada tinta ficam em `tomcolors-up-fontes.json` (círculo, poça amostrada à mão e cartão). Cinco cores da UP (TCUP-09, 10, 13, 14 e 20) só aparecem no conjunto e não têm foto de cartão; ficam em `tomcolors-extras.json`: os dois vermelhos usam a poça (as fontes concordam nos vermelhos) e as três escuras e frias têm a cor **estimada** por regressão em Lab (poça → cartão, aprendida nas outras 18; erro típico de ΔE 7 a 20) e `aprox: "estimada"`. Brancos sobre fundo branco e as imagens sem amostra vão para
+  `tomcolors-conferir.md`; as cores conferidas à mão ficam em `tomcolors-correcoes.json` e valem sobre a medida (também
+  criam a cor das tintas sem amostra). Como o JPEG é decodificado pelo `ffmpeg`, ele precisa estar no `PATH`.
 - **Equivalências:** os scripts da AK (págs. 16–22) e da AMMO (págs. 97–105) também leem as tabelas de conversão e
   gravam `ref` (referência de norma) e `equiv` (equivalências em outras marcas).
 

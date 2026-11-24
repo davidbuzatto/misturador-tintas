@@ -3,7 +3,7 @@
 **Português** · [English](README.en.md)
 
 Aplicativo web para **plastimodelismo**: você escolhe a linha de tintas que tem (Acrilex, Tamiya, Vallejo, Mr. Hobby,
-Humbrol, AK, AMMO, Scale75…), a cor que quer alcançar (de qualquer um de 11 catálogos, inclusive FS 595 e RAL) e o app calcula a
+Humbrol, AK, AMMO, Scale75, Tom Colors…), a cor que quer alcançar (de qualquer um de 12 catálogos, inclusive FS 595 e RAL) e o app calcula a
 mistura. A tinta é tratada como **pigmento** (modelo espectral de Kubelka-Munk), não como uma média de RGB, e é isso que
 faz a previsão chegar perto do que acontece na bancada. JavaScript puro, módulos ES, **sem build e sem dependências**.
 
@@ -13,7 +13,7 @@ faz a previsão chegar perto do que acontece na bancada. JavaScript puro, módul
   (diferença de cor percebida) até o alvo e quatro modelos de mistura lado a lado (pigmento × RGB).
 - **Sugere receitas:** a busca automática encontra misturas de 1 a 4 tintas que se aproximam do alvo, opcionalmente só com
   as tintas que você tem.
-- **Cor-alvo de qualquer catálogo:** mais de 3.900 cores em 11 catálogos, ou uma cor livre (a opção "mostrar acabamento" exibe fosca, brilhante, metálica etc. nas amostras).
+- **Cor-alvo de qualquer catálogo:** mais de 4.100 cores em 12 catálogos, ou uma cor livre (a opção "mostrar acabamento" exibe fosca, brilhante, metálica etc. nas amostras).
 - **Equivalentes em outras marcas:** para o alvo (ou para a mistura calculada), as tintas mais parecidas em cada marca
   (por ΔE00) e, quando o fabricante declara a equivalência, um selo **AMMO** ou **AK**.
 - **Catálogo completo (só consulta):** botão no topo da página que abre todas as tintas de cada marca, inclusive as metálicas,
@@ -66,6 +66,7 @@ amostra diluída): servem para consulta, mas não entram como ingredientes das m
 | AK | 177 | Standard, Civil, Military | catálogo Real Colors (PDF) |
 | AMMO by Mig | 417 | Acrylic Colors, ATOM | *Catalogue 2024* (PDF) |
 | Scale75 | 549 | Scalecolor (com Metal n' Alchemy e Inktense), Fantasy & Games, Warfront, Instant Colors, FX Fluor, Scalecolor Artist, Flow (óleo), Drop & Paint, Scalecolor Games | site oficial <https://scale75.com> (amostras de pincel; a Drop & Paint e a Scalecolor Games só têm a foto do frasco, e a cor é aproximada) |
+| Tom Colors | 179 | Acrylic Colors (TC), UP (TCUP) | loja oficial <https://www.tomcolors.com.br> (amostras de pincel; na linha UP, a tinta aplicada no cartão nas fotos do anúncio; cinco cores UP vendidas só no conjunto têm poça de tinta ou estimativa; seis Skin Tones só têm fotos de uma cabeça pintada, então essas cores são aproximadas) |
 | Acrilex | 95 | Fosca | catálogo 2025 (PDF, cartela das págs. 36–37) |
 
 Cada fonte tem seu método, descrito em [`ferramentas/README.md`](ferramentas/README.md) (scripts para refazer a extração) e

@@ -1,0 +1,164 @@
+{
+ "TC-0001": {
+  "hex": "#ffffff",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TC-0013": {
+  "hex": "#e9e8e0",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TC-0036": {
+  "hex": "#543629",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TC-0082": {
+  "hex": "#fdfdfd",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TCUP-22": {
+  "hex": "#000000",
+  "circulo": "#000000",
+  "poca": "#000000",
+  "nota": "branco/preto: sem cartão medível; poça e círculo coincidem"
+ },
+ "TC-0160": {
+  "hex": "#e9e8e2",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TC-0401": {
+  "hex": "#311705",
+  "nota": "conferido no site com conta-gotas"
+ },
+ "TCUP-16": {
+  "hex": "#ffffff",
+  "circulo": "#ffffff",
+  "poca": "#ffffff",
+  "nota": "branco/preto: sem cartão medível; poça e círculo coincidem"
+ },
+ "TCUP-01": {
+  "hex": "#fef200",
+  "circulo": "#ffe600",
+  "poca": "#ffff00",
+  "cartao": "#fef200",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-02": {
+  "hex": "#fee000",
+  "circulo": "#ffbd00",
+  "poca": "#ffd800",
+  "cartao": "#fee000",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-03": {
+  "hex": "#f8d000",
+  "circulo": "#ecb300",
+  "poca": "#fdcd00",
+  "cartao": "#f8d000",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-04": {
+  "hex": "#ffb600",
+  "circulo": "#ff9700",
+  "poca": "#fca500",
+  "cartao": "#ffb600",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-05": {
+  "hex": "#f64c00",
+  "circulo": "#ff2e00",
+  "poca": "#f93800",
+  "cartao": "#f64c00",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-06": {
+  "hex": "#ed2b00",
+  "circulo": "#ff1f0f",
+  "poca": "#fd2107",
+  "cartao": "#ed2b00",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-07": {
+  "hex": "#ff3d10",
+  "circulo": "#ff2b45",
+  "poca": "#f50d06",
+  "cartao": "#ff3d10",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-08": {
+  "hex": "#bf2102",
+  "circulo": "#b1131d",
+  "poca": "#b10a03",
+  "cartao": "#bf2102",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-11": {
+  "hex": "#00d132",
+  "circulo": "#009600",
+  "poca": "#008515",
+  "cartao": "#00d132",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-12": {
+  "hex": "#019e69",
+  "circulo": "#003420",
+  "poca": "#005b3e",
+  "cartao": "#019e69",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-15": {
+  "hex": "#0f40d5",
+  "circulo": "#0031c0",
+  "poca": "#002ab0",
+  "cartao": "#0f40d5",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-17": {
+  "hex": "#502012",
+  "circulo": "#3a110c",
+  "poca": "#0f0000",
+  "cartao": "#502012",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-18": {
+  "hex": "#86531d",
+  "circulo": "#3f190e",
+  "poca": "#280300",
+  "cartao": "#86531d",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-19": {
+  "hex": "#012da1",
+  "circulo": "#001036",
+  "poca": "#001146",
+  "cartao": "#012da1",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-21": {
+  "hex": "#531bcb",
+  "circulo": "#4c0b5f",
+  "poca": "#160389",
+  "cartao": "#531bcb",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-23": {
+  "hex": "#f194c0",
+  "circulo": "#f983b1",
+  "poca": "#ff9dd3",
+  "cartao": "#f194c0",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-24": {
+  "hex": "#fb1074",
+  "circulo": "#ff2c5f",
+  "poca": "#e91756",
+  "cartao": "#fb1074",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ },
+ "TCUP-25": {
+  "hex": "#5ec3fe",
+  "circulo": "#00acdd",
+  "poca": "#64d5ff",
+  "cartao": "#5ec3fe",
+  "nota": "tinta aplicada no cartão (fotos do anúncio), medida; a poça e o círculo ficam como referência"
+ }
+}

@@ -1,0 +1,1085 @@
+[
+ {
+  "code": "TC-0001",
+  "name": "Branco",
+  "line": "Acrylic Colors",
+  "hex": "#ffffff"
+ },
+ {
+  "code": "TC-0004",
+  "name": "Preto",
+  "line": "Acrylic Colors",
+  "hex": "#000000"
+ },
+ {
+  "code": "TC-0005",
+  "name": "Vermelho",
+  "line": "Acrylic Colors",
+  "hex": "#cd090a"
+ },
+ {
+  "code": "TC-0006",
+  "name": "Verde",
+  "line": "Acrylic Colors",
+  "hex": "#107902"
+ },
+ {
+  "code": "TC-0007",
+  "name": "Azul",
+  "line": "Acrylic Colors",
+  "hex": "#020c65"
+ },
+ {
+  "code": "TC-0008",
+  "name": "FS 30260",
+  "line": "Acrylic Colors",
+  "hex": "#bea45a"
+ },
+ {
+  "code": "TC-0009",
+  "name": "FS 10266",
+  "line": "Acrylic Colors",
+  "hex": "#c8924c"
+ },
+ {
+  "code": "TC-0010",
+  "name": "FS 13655",
+  "line": "Acrylic Colors",
+  "hex": "#f4b213"
+ },
+ {
+  "code": "TC-0011",
+  "name": "FS 15045",
+  "line": "Acrylic Colors",
+  "hex": "#142a38"
+ },
+ {
+  "code": "TC-0013",
+  "name": "FS 37875 Insignia White",
+  "line": "Acrylic Colors",
+  "hex": "#e9e8e0"
+ },
+ {
+  "code": "TC-0014",
+  "name": "FS 36118 Gunship Grey",
+  "line": "Acrylic Colors",
+  "hex": "#414149"
+ },
+ {
+  "code": "TC-0015",
+  "name": "FS 35164",
+  "line": "Acrylic Colors",
+  "hex": "#627281"
+ },
+ {
+  "code": "TC-0016",
+  "name": "FS 34086",
+  "line": "Acrylic Colors",
+  "hex": "#3f402e"
+ },
+ {
+  "code": "TC-0017",
+  "name": "FS 34088",
+  "line": "Acrylic Colors",
+  "hex": "#5c583f"
+ },
+ {
+  "code": "TC-0018",
+  "name": "FS 34092",
+  "line": "Acrylic Colors",
+  "hex": "#4a5952"
+ },
+ {
+  "code": "TC-0019",
+  "name": "FS 36231",
+  "line": "Acrylic Colors",
+  "hex": "#7f8386"
+ },
+ {
+  "code": "TC-0020",
+  "name": "FS 30279",
+  "line": "Acrylic Colors",
+  "hex": "#b9986d"
+ },
+ {
+  "code": "TC-0021",
+  "name": "FS 36176",
+  "line": "Acrylic Colors",
+  "hex": "#6e7881"
+ },
+ {
+  "code": "TC-0024",
+  "name": "FS 36440",
+  "line": "Acrylic Colors",
+  "hex": "#959a94"
+ },
+ {
+  "code": "TC-0025",
+  "name": "FS 33481 Zinc Chromate Yellow",
+  "line": "Acrylic Colors",
+  "hex": "#aca300"
+ },
+ {
+  "code": "TC-0026",
+  "name": "FS 14151",
+  "line": "Acrylic Colors",
+  "hex": "#6e6c2f"
+ },
+ {
+  "code": "TC-0028",
+  "name": "FS 34079",
+  "line": "Acrylic Colors",
+  "hex": "#42412c"
+ },
+ {
+  "code": "TC-0029",
+  "name": "FS 34424",
+  "line": "Acrylic Colors",
+  "hex": "#b2bb8e"
+ },
+ {
+  "code": "TC-0031",
+  "name": "FS 36270",
+  "line": "Acrylic Colors",
+  "hex": "#848a8a"
+ },
+ {
+  "code": "TC-0035",
+  "name": "FS 37030",
+  "line": "Acrylic Colors",
+  "hex": "#0b0f10"
+ },
+ {
+  "code": "TC-0036",
+  "name": "RLM 61",
+  "line": "Acrylic Colors",
+  "hex": "#543629"
+ },
+ {
+  "code": "TC-0037",
+  "name": "FS 34227",
+  "line": "Acrylic Colors",
+  "hex": "#79896f"
+ },
+ {
+  "code": "TC-0041",
+  "name": "FS 34102",
+  "line": "Acrylic Colors",
+  "hex": "#5c644c"
+ },
+ {
+  "code": "TC-0042",
+  "name": "FS 36375",
+  "line": "Acrylic Colors",
+  "hex": "#8390a3"
+ },
+ {
+  "code": "TC-0043",
+  "name": "FS 34082",
+  "line": "Acrylic Colors",
+  "hex": "#667147"
+ },
+ {
+  "code": "TC-0044",
+  "name": "FS 33070",
+  "line": "Acrylic Colors",
+  "hex": "#505338"
+ },
+ {
+  "code": "TC-0045",
+  "name": "FS 30118",
+  "line": "Acrylic Colors",
+  "hex": "#6e5326"
+ },
+ {
+  "code": "TC-0047",
+  "name": "FS 36622",
+  "line": "Acrylic Colors",
+  "hex": "#d1d2c2"
+ },
+ {
+  "code": "TC-0048",
+  "name": "FS 35237",
+  "line": "Acrylic Colors",
+  "hex": "#6e7e8b"
+ },
+ {
+  "code": "TC-0050",
+  "name": "FS 36320",
+  "line": "Acrylic Colors",
+  "hex": "#8b959e"
+ },
+ {
+  "code": "TC-0051",
+  "name": "FS 30219",
+  "line": "Acrylic Colors",
+  "hex": "#825f3f"
+ },
+ {
+  "code": "TC-0054",
+  "name": "FS 34094",
+  "line": "Acrylic Colors",
+  "hex": "#3b4b2e"
+ },
+ {
+  "code": "TC-0056",
+  "name": "Light Wood",
+  "line": "Acrylic Colors",
+  "hex": "#d5bf78"
+ },
+ {
+  "code": "TC-0058",
+  "name": "FS 30051",
+  "line": "Acrylic Colors",
+  "hex": "#502b13"
+ },
+ {
+  "code": "TC-0059",
+  "name": "FS 33531",
+  "line": "Acrylic Colors",
+  "hex": "#c0ad9e"
+ },
+ {
+  "code": "TC-0060",
+  "name": "Carc Tan",
+  "line": "Acrylic Colors",
+  "hex": "#b79976"
+ },
+ {
+  "code": "TC-0061",
+  "name": "USAF Modern Uniform Light",
+  "line": "Acrylic Colors",
+  "hex": "#575f2f"
+ },
+ {
+  "code": "TC-0064",
+  "name": "Russian 4BO Green",
+  "line": "Acrylic Colors",
+  "hex": "#2b3617"
+ },
+ {
+  "code": "TC-0066",
+  "name": "RLM 02 Grau",
+  "line": "Acrylic Colors",
+  "hex": "#837d5d"
+ },
+ {
+  "code": "TC-0068",
+  "name": "RLM 65",
+  "line": "Acrylic Colors",
+  "hex": "#8eaba9"
+ },
+ {
+  "code": "TC-0070",
+  "name": "RLM 71 Dunkelgrun",
+  "line": "Acrylic Colors",
+  "hex": "#4f4c3d"
+ },
+ {
+  "code": "TC-0071",
+  "name": "RLM 74",
+  "line": "Acrylic Colors",
+  "hex": "#59564f"
+ },
+ {
+  "code": "TC-0072",
+  "name": "RLM 75",
+  "line": "Acrylic Colors",
+  "hex": "#6f6f6f"
+ },
+ {
+  "code": "TC-0073",
+  "name": "RLM 76 (V.2)",
+  "line": "Acrylic Colors",
+  "hex": "#abbfbd"
+ },
+ {
+  "code": "TC-0074",
+  "name": "RLM 81 (V.1)",
+  "line": "Acrylic Colors",
+  "hex": "#423a2f"
+ },
+ {
+  "code": "TC-0075",
+  "name": "Afrika Mustard",
+  "line": "Acrylic Colors",
+  "hex": "#a28253"
+ },
+ {
+  "code": "TC-0076",
+  "name": "RLM 82",
+  "line": "Acrylic Colors",
+  "hex": "#394225"
+ },
+ {
+  "code": "TC-0077",
+  "name": "RLM 70",
+  "line": "Acrylic Colors",
+  "hex": "#373b2c"
+ },
+ {
+  "code": "TC-0081",
+  "name": "RLM 80",
+  "line": "Acrylic Colors",
+  "hex": "#3e4830"
+ },
+ {
+  "code": "TC-0082",
+  "name": "RLM 21 Weiss",
+  "line": "Acrylic Colors",
+  "hex": "#fdfdfd"
+ },
+ {
+  "code": "TC-0085",
+  "name": "RAL 7011 Iron Grey",
+  "line": "Acrylic Colors",
+  "hex": "#545c5f"
+ },
+ {
+  "code": "TC-0088",
+  "name": "Tire Black",
+  "line": "Acrylic Colors",
+  "hex": "#3d383c"
+ },
+ {
+  "code": "TC-0090",
+  "name": "USAF Modern Uniform Base",
+  "line": "Acrylic Colors",
+  "hex": "#293c22"
+ },
+ {
+  "code": "TC-0091",
+  "name": "RAL 7001 Silbergrau",
+  "line": "Acrylic Colors",
+  "hex": "#939da1"
+ },
+ {
+  "code": "TC-0092",
+  "name": "RAL 7035",
+  "line": "Acrylic Colors",
+  "hex": "#c5c7c4"
+ },
+ {
+  "code": "TC-0097",
+  "name": "A-14 Steel Grey (Russian WW2 Cockpit)",
+  "line": "Acrylic Colors",
+  "hex": "#687373"
+ },
+ {
+  "code": "TC-0103",
+  "name": "Khaki Brown IJA",
+  "line": "Acrylic Colors",
+  "hex": "#655847"
+ },
+ {
+  "code": "TC-0105",
+  "name": "USAF Pilot Belts And Details",
+  "line": "Acrylic Colors",
+  "hex": "#9b9251"
+ },
+ {
+  "code": "TC-0106",
+  "name": "RLM 63",
+  "line": "Acrylic Colors",
+  "hex": "#797663"
+ },
+ {
+  "code": "TC-0107",
+  "name": "IJA Light Green Grey",
+  "line": "Acrylic Colors",
+  "hex": "#89a08c"
+ },
+ {
+  "code": "TC-0110",
+  "name": "Verde Khaki",
+  "line": "Acrylic Colors",
+  "hex": "#5c583e"
+ },
+ {
+  "code": "TC-0111",
+  "name": "Bianco Neve 6",
+  "line": "Acrylic Colors",
+  "hex": "#e0e1dd"
+ },
+ {
+  "code": "TC-0113",
+  "name": "Middlestone RAF",
+  "line": "Acrylic Colors",
+  "hex": "#a37e3c"
+ },
+ {
+  "code": "TC-0117",
+  "name": "RAF Light Aircraft Grey",
+  "line": "Acrylic Colors",
+  "hex": "#b0b1ab"
+ },
+ {
+  "code": "TC-0118",
+  "name": "Dark Earth RAF",
+  "line": "Acrylic Colors",
+  "hex": "#5d4b29"
+ },
+ {
+  "code": "TC-0119",
+  "name": "Dark Green RAF",
+  "line": "Acrylic Colors",
+  "hex": "#4f5243"
+ },
+ {
+  "code": "TC-0120",
+  "name": "Sky Type S",
+  "line": "Acrylic Colors",
+  "hex": "#a2a58c"
+ },
+ {
+  "code": "TC-0121",
+  "name": "Ocean Grey RAF",
+  "line": "Acrylic Colors",
+  "hex": "#6b7775"
+ },
+ {
+  "code": "TC-0122",
+  "name": "Medium Sea Grey",
+  "line": "Acrylic Colors",
+  "hex": "#6b6b61"
+ },
+ {
+  "code": "TC-0125",
+  "name": "Dark Sea Grey",
+  "line": "Acrylic Colors",
+  "hex": "#4d5760"
+ },
+ {
+  "code": "TC-0127",
+  "name": "Cockpit Green RAF",
+  "line": "Acrylic Colors",
+  "hex": "#909e8f"
+ },
+ {
+  "code": "TC-0130",
+  "name": "Silbergrau DKM50",
+  "line": "Acrylic Colors",
+  "hex": "#adb1bd"
+ },
+ {
+  "code": "TC-0131",
+  "name": "FS 30140 Air Force Brown",
+  "line": "Acrylic Colors",
+  "hex": "#665043"
+ },
+ {
+  "code": "TC-0132",
+  "name": "Giallo Mimetico 4",
+  "line": "Acrylic Colors",
+  "hex": "#a58248"
+ },
+ {
+  "code": "TC-0139",
+  "name": "Grigio Mimetico",
+  "line": "Acrylic Colors",
+  "hex": "#919791"
+ },
+ {
+  "code": "TC-0140",
+  "name": "US Desert Sand",
+  "line": "Acrylic Colors",
+  "hex": "#b7a692",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0141",
+  "name": "Giallo Mimetico 2",
+  "line": "Acrylic Colors",
+  "hex": "#c2a946"
+ },
+ {
+  "code": "TC-0146",
+  "name": "4BO Green",
+  "line": "Acrylic Colors",
+  "hex": "#43481f"
+ },
+ {
+  "code": "TC-0147",
+  "name": "Nº 9 Olive Drab US Army WW2",
+  "line": "Acrylic Colors",
+  "hex": "#423c1c"
+ },
+ {
+  "code": "TC-0150",
+  "name": "Verde Oliva Scuro 2",
+  "line": "Acrylic Colors",
+  "hex": "#303c36"
+ },
+ {
+  "code": "TC-0152",
+  "name": "Leather Brown",
+  "line": "Acrylic Colors",
+  "hex": "#4b372e"
+ },
+ {
+  "code": "TC-0153",
+  "name": "Field Grey Green Shadow",
+  "line": "Acrylic Colors",
+  "hex": "#444d3c"
+ },
+ {
+  "code": "TC-0158",
+  "name": "Amarelo",
+  "line": "Acrylic Colors",
+  "hex": "#fffc00"
+ },
+ {
+  "code": "TC-0160",
+  "name": "ANA 601 Insignia White",
+  "line": "Acrylic Colors",
+  "hex": "#e9e8e2"
+ },
+ {
+  "code": "TC-0161",
+  "name": "ANA 603 Sea Grey",
+  "line": "Acrylic Colors",
+  "hex": "#586266"
+ },
+ {
+  "code": "TC-0163",
+  "name": "ANA 613 Olive Drab",
+  "line": "Acrylic Colors",
+  "hex": "#51513e"
+ },
+ {
+  "code": "TC-0167",
+  "name": "Olive Drab 41",
+  "line": "Acrylic Colors",
+  "hex": "#5f5a36"
+ },
+ {
+  "code": "TC-0168",
+  "name": "Medium Green 42",
+  "line": "Acrylic Colors",
+  "hex": "#39574f"
+ },
+ {
+  "code": "TC-0169",
+  "name": "ANA 621 Dark Dull Grey",
+  "line": "Acrylic Colors",
+  "hex": "#757b75"
+ },
+ {
+  "code": "TC-0170",
+  "name": "ANA 616 Sand",
+  "line": "Acrylic Colors",
+  "hex": "#af9381"
+ },
+ {
+  "code": "TC-0171",
+  "name": "Neutral Grey 43 Versão 1",
+  "line": "Acrylic Colors",
+  "hex": "#6a6b67"
+ },
+ {
+  "code": "TC-0173",
+  "name": "ANA 620 Light Gull Grey",
+  "line": "Acrylic Colors",
+  "hex": "#b1afa5"
+ },
+ {
+  "code": "TC-0174",
+  "name": "ANA 611 Interior Green",
+  "line": "Acrylic Colors",
+  "hex": "#676337"
+ },
+ {
+  "code": "TC-0176",
+  "name": "Haze Grey USN WW2",
+  "line": "Acrylic Colors",
+  "hex": "#898e91"
+ },
+ {
+  "code": "TC-0179",
+  "name": "Verde Mimetico 53192",
+  "line": "Acrylic Colors",
+  "hex": "#739e74"
+ },
+ {
+  "code": "TC-0183",
+  "name": "VVS Dark Green",
+  "line": "Acrylic Colors",
+  "hex": "#224618"
+ },
+ {
+  "code": "TC-0184",
+  "name": "MIG 25/31 Grey",
+  "line": "Acrylic Colors",
+  "hex": "#bfc0bb"
+ },
+ {
+  "code": "TC-0185",
+  "name": "Marrone Mimetico 1",
+  "line": "Acrylic Colors",
+  "hex": "#843731"
+ },
+ {
+  "code": "TC-0186",
+  "name": "AMT-11 Light Grey",
+  "line": "Acrylic Colors",
+  "hex": "#6d7e8a"
+ },
+ {
+  "code": "TC-0187",
+  "name": "Medium Tan",
+  "line": "Acrylic Colors",
+  "hex": "#9f836d"
+ },
+ {
+  "code": "TC-0188",
+  "name": "Bronze Green",
+  "line": "Acrylic Colors",
+  "hex": "#2e4128"
+ },
+ {
+  "code": "TC-0194",
+  "name": "Light Sand",
+  "line": "Acrylic Colors",
+  "hex": "#cfcebe",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0198",
+  "name": "NATO Brown",
+  "line": "Acrylic Colors",
+  "hex": "#493425"
+ },
+ {
+  "code": "TC-0199",
+  "name": "NATO Green",
+  "line": "Acrylic Colors",
+  "hex": "#2b4026"
+ },
+ {
+  "code": "TC-0200",
+  "name": "NATO Black",
+  "line": "Acrylic Colors",
+  "hex": "#202523"
+ },
+ {
+  "code": "TC-0201",
+  "name": "Marrone Mimetico 53193",
+  "line": "Acrylic Colors",
+  "hex": "#785e49"
+ },
+ {
+  "code": "TC-0202",
+  "name": "Ochre Brown",
+  "line": "Acrylic Colors",
+  "hex": "#b58d4f"
+ },
+ {
+  "code": "TC-0204",
+  "name": "Cinza Azulado Médio",
+  "line": "Acrylic Colors",
+  "hex": "#4a5b6b"
+ },
+ {
+  "code": "TC-0205",
+  "name": "Verde Selva",
+  "line": "Acrylic Colors",
+  "hex": "#3c3c28"
+ },
+ {
+  "code": "TC-0206",
+  "name": "Verde Mimetico 2",
+  "line": "Acrylic Colors",
+  "hex": "#2e483f"
+ },
+ {
+  "code": "TC-0207",
+  "name": "Cinza Médio",
+  "line": "Acrylic Colors",
+  "hex": "#7c8991"
+ },
+ {
+  "code": "TC-0208",
+  "name": "Light Grey 627",
+  "line": "Acrylic Colors",
+  "hex": "#b7b8b2"
+ },
+ {
+  "code": "TC-0210",
+  "name": "AMT-4 Old",
+  "line": "Acrylic Colors",
+  "hex": "#49481b"
+ },
+ {
+  "code": "TC-0211",
+  "name": "Terra",
+  "line": "Acrylic Colors",
+  "hex": "#7d6a59"
+ },
+ {
+  "code": "TC-0214",
+  "name": "Preto Locomotiva",
+  "line": "Acrylic Colors",
+  "hex": "#030303"
+ },
+ {
+  "code": "TC-0217",
+  "name": "Night Grey",
+  "line": "Acrylic Colors",
+  "hex": "#242120"
+ },
+ {
+  "code": "TC-0220",
+  "name": "Woodbrown Médio",
+  "line": "Acrylic Colors",
+  "hex": "#6f5b36"
+ },
+ {
+  "code": "TC-0222",
+  "name": "Forest Green",
+  "line": "Acrylic Colors",
+  "hex": "#42451c"
+ },
+ {
+  "code": "TC-0223",
+  "name": "Flight Deck Stain",
+  "line": "Acrylic Colors",
+  "hex": "#25262a"
+ },
+ {
+  "code": "TC-0225",
+  "name": "Oxide Brown",
+  "line": "Acrylic Colors",
+  "hex": "#673222"
+ },
+ {
+  "code": "TC-0226",
+  "name": "Carc Middlestone",
+  "line": "Acrylic Colors",
+  "hex": "#c6ac97"
+ },
+ {
+  "code": "TC-0227",
+  "name": "Leather Suit Base",
+  "line": "Acrylic Colors",
+  "hex": "#201505"
+ },
+ {
+  "code": "TC-0228",
+  "name": "Light Green",
+  "line": "Acrylic Colors",
+  "hex": "#788541"
+ },
+ {
+  "code": "TC-0235",
+  "name": "Black Uniform Light",
+  "line": "Acrylic Colors",
+  "hex": "#5a5e63"
+ },
+ {
+  "code": "TC-0240",
+  "name": "Couro Branco",
+  "line": "Acrylic Colors",
+  "hex": "#d8d2c0"
+ },
+ {
+  "code": "TC-0243",
+  "name": "Hull Red",
+  "line": "Acrylic Colors",
+  "hex": "#381a02"
+ },
+ {
+  "code": "TC-0244",
+  "name": "BUFF (drybrush)",
+  "line": "Acrylic Colors",
+  "hex": "#aea884",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0247",
+  "name": "London Grey RAL 7026",
+  "line": "Acrylic Colors",
+  "hex": "#364447"
+ },
+ {
+  "code": "TC-0248",
+  "name": "Rusted Umber",
+  "line": "Acrylic Colors",
+  "hex": "#b1937e",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0249",
+  "name": "RLM 83",
+  "line": "Acrylic Colors",
+  "hex": "#312c16"
+ },
+ {
+  "code": "TC-0252",
+  "name": "Field Grey Base 1 (Verde)",
+  "line": "Acrylic Colors",
+  "hex": "#5b6859"
+ },
+ {
+  "code": "TC-0255",
+  "name": "Black Uniform Base",
+  "line": "Acrylic Colors",
+  "hex": "#24211c"
+ },
+ {
+  "code": "TC-0268",
+  "name": "Tire Black Highlight",
+  "line": "Acrylic Colors",
+  "hex": "#58595b"
+ },
+ {
+  "code": "TC-0269",
+  "name": "Grigio Verde",
+  "line": "Acrylic Colors",
+  "hex": "#555e48"
+ },
+ {
+  "code": "TC-0296",
+  "name": "RLM 62",
+  "line": "Acrylic Colors",
+  "hex": "#63664b"
+ },
+ {
+  "code": "TC-0298",
+  "name": "RLM 78",
+  "line": "Acrylic Colors",
+  "hex": "#7e9e99"
+ },
+ {
+  "code": "TC-0299",
+  "name": "RLM 79",
+  "line": "Acrylic Colors",
+  "hex": "#ac704b"
+ },
+ {
+  "code": "TC-0300",
+  "name": "RLM 04",
+  "line": "Acrylic Colors",
+  "hex": "#ffbb02"
+ },
+ {
+  "code": "TC-0301",
+  "name": "RLM 66",
+  "line": "Acrylic Colors",
+  "hex": "#24211c"
+ },
+ {
+  "code": "TC-0305",
+  "name": "Highlight Skin Tone",
+  "line": "Acrylic Colors",
+  "hex": "#dfe6ef",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0306",
+  "name": "Base Skin Tone",
+  "line": "Acrylic Colors",
+  "hex": "#e5cbb2"
+ },
+ {
+  "code": "TC-0307",
+  "name": "Medium Skin Tone",
+  "line": "Acrylic Colors",
+  "hex": "#dac098",
+  "aprox": "foto"
+ },
+ {
+  "code": "TC-0308",
+  "name": "Shadow Skin Tone",
+  "line": "Acrylic Colors",
+  "hex": "#855f4a"
+ },
+ {
+  "code": "TC-0309",
+  "name": "Leather Suit Shadow",
+  "line": "Acrylic Colors",
+  "hex": "#1d1504"
+ },
+ {
+  "code": "TC-0310",
+  "name": "Deck Tan",
+  "line": "Acrylic Colors",
+  "hex": "#cdb593"
+ },
+ {
+  "code": "TC-0312",
+  "name": "RLM 22 Schwarz",
+  "line": "Acrylic Colors",
+  "hex": "#141414"
+ },
+ {
+  "code": "TC-0320",
+  "name": "Deep Skin Tone",
+  "line": "Acrylic Colors",
+  "hex": "#5e3f2f"
+ },
+ {
+  "code": "TC-0321",
+  "name": "Field Grey Base 2 (Cinza)",
+  "line": "Acrylic Colors",
+  "hex": "#424536"
+ },
+ {
+  "code": "TC-0401",
+  "name": "FS 20059",
+  "line": "Acrylic Colors",
+  "hex": "#311705"
+ },
+ {
+  "code": "TCUP-01",
+  "name": "Amarelo Girassol",
+  "line": "UP",
+  "hex": "#fef200"
+ },
+ {
+  "code": "TCUP-02",
+  "name": "Amarelo Helena",
+  "line": "UP",
+  "hex": "#fee000"
+ },
+ {
+  "code": "TCUP-03",
+  "name": "Amarelo Piquenique",
+  "line": "UP",
+  "hex": "#f8d000"
+ },
+ {
+  "code": "TCUP-04",
+  "name": "Laranja \"Chama da Mula-Sem-Cabeça\"",
+  "line": "UP",
+  "hex": "#ffb600"
+ },
+ {
+  "code": "TCUP-05",
+  "name": "Suco de Laranja",
+  "line": "UP",
+  "hex": "#f64c00"
+ },
+ {
+  "code": "TCUP-06",
+  "name": "Vermelho Flame",
+  "line": "UP",
+  "hex": "#ed2b00"
+ },
+ {
+  "code": "TCUP-07",
+  "name": "Vermelho Melancia",
+  "line": "UP",
+  "hex": "#ff3d10"
+ },
+ {
+  "code": "TCUP-08",
+  "name": "Vermelho Beterraba",
+  "line": "UP",
+  "hex": "#bf2102"
+ },
+ {
+  "code": "TCUP-09",
+  "name": "Gorro de Saci",
+  "line": "UP",
+  "hex": "#d50119"
+ },
+ {
+  "code": "TCUP-10",
+  "name": "Cabelo de Curupira",
+  "line": "UP",
+  "hex": "#ec0911"
+ },
+ {
+  "code": "TCUP-11",
+  "name": "Verde do Duende",
+  "line": "UP",
+  "hex": "#00d132"
+ },
+ {
+  "code": "TCUP-12",
+  "name": "Verde Brasil",
+  "line": "UP",
+  "hex": "#019e69"
+ },
+ {
+  "code": "TCUP-13",
+  "name": "Couro da Cuca",
+  "line": "UP",
+  "hex": "#265540",
+  "aprox": "estimada"
+ },
+ {
+  "code": "TCUP-14",
+  "name": "Escama do Boitatá",
+  "line": "UP",
+  "hex": "#2d5686",
+  "aprox": "estimada"
+ },
+ {
+  "code": "TCUP-15",
+  "name": "Arara Azul",
+  "line": "UP",
+  "hex": "#0f40d5"
+ },
+ {
+  "code": "TCUP-16",
+  "name": "Ultra Branco",
+  "line": "UP",
+  "hex": "#ffffff"
+ },
+ {
+  "code": "TCUP-17",
+  "name": "Marrom \"Noz Moscada\"",
+  "line": "UP",
+  "hex": "#502012"
+ },
+ {
+  "code": "TCUP-18",
+  "name": "Marrom \"Pelo de Lobisomem\"",
+  "line": "UP",
+  "hex": "#86531d"
+ },
+ {
+  "code": "TCUP-19",
+  "name": "Azul Oceano",
+  "line": "UP",
+  "hex": "#012da1"
+ },
+ {
+  "code": "TCUP-20",
+  "name": "Azul do Charía",
+  "line": "UP",
+  "hex": "#4140da",
+  "aprox": "estimada"
+ },
+ {
+  "code": "TCUP-21",
+  "name": "Roxo Puro",
+  "line": "UP",
+  "hex": "#531bcb"
+ },
+ {
+  "code": "TCUP-22",
+  "name": "Ultra Preto",
+  "line": "UP",
+  "hex": "#000000"
+ },
+ {
+  "code": "TCUP-23",
+  "name": "Rosa Cessna",
+  "line": "UP",
+  "hex": "#f194c0"
+ },
+ {
+  "code": "TCUP-24",
+  "name": "Rosa Nina",
+  "line": "UP",
+  "hex": "#fb1074"
+ },
+ {
+  "code": "TCUP-25",
+  "name": "Azul Marshmallow",
+  "line": "UP",
+  "hex": "#5ec3fe"
+ }
+]
