@@ -81,10 +81,15 @@ test('Tom Colors: uma linha de ingredientes, só com as cores medidas em amostra
   assert.equal(s.quimica, 'acrilica');
   assert.equal(s.paints.length, tc.filter((p) => p.line === 'Acrylic Colors' && !p.aprox).length);
   assert.ok(s.paints.every((p) => !p.aprox && p.line === 'Acrylic Colors'));
-  assert.equal(sets.list.filter((x) => x.tab === 'tomcolors').length, 2);
+  assert.equal(sets.list.filter((x) => x.tab === 'tomcolors').length, 3);
   // a UP (ultra-pigmentada) é uma linha à parte, só com as cores de círculo oficial (nenhuma aproximada)
   const up = sets.get('tomcolors-up');
   assert.equal(up.id, 'tomcolors-up');
   assert.equal(up.paints.length, tc.filter((p) => p.line === 'UP' && !p.aprox).length);
   assert.equal(up.paints.length, 22); // as 3 estimadas ficam de fora das misturas
+  // conjunto combinado: Acrylic Colors + UP na mesma receita
+  const junto = sets.get('tomcolors-acrylic-up');
+  assert.equal(junto.id, 'tomcolors-acrylic-up');
+  assert.equal(junto.paints.length, s.paints.length + up.paints.length);
+  assert.ok(junto.porCodigo.has('TC-0001') && junto.porCodigo.has('TCUP-06'));
 });

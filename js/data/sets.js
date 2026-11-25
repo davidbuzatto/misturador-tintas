@@ -47,6 +47,9 @@ export const INGREDIENT_SETS = [
   { id: 'scale75-flow', marca: 'Scale75', rotulo: 'Flow', quimica: 'oleo', tab: 'scale75', line: 'Flow' },
   { id: 'tomcolors-acrylic', marca: 'Tom Colors', rotulo: 'Acrylic Colors', quimica: 'acrilica', tab: 'tomcolors', line: 'Acrylic Colors' },
   { id: 'tomcolors-up', marca: 'Tom Colors', rotulo: 'UP', quimica: 'acrilica', tab: 'tomcolors', line: 'UP' },
+  // As duas linhas Tom Colors são tinta acrílica base água compatível entre si: este conjunto deixa usar as cores básicas da
+  // Acrylic Colors (fosca) junto com as primárias ultra-pigmentadas da UP na mesma receita.
+  { id: 'tomcolors-acrylic-up', marca: 'Tom Colors', rotulo: 'Acrylic Colors + UP', quimica: 'acrilica', tab: 'tomcolors', line: ['Acrylic Colors', 'UP'] },
   // Phoenix: toda cor existe nos dois tipos (Duco e poliéster); como uma receita usa uma química só, são duas linhas com as mesmas cores
   { id: 'phoenix-duco', marca: 'Phoenix', rotulo: 'Duco', quimica: 'lacquer', tab: 'phoenix' },
   { id: 'phoenix-poliester', marca: 'Phoenix', rotulo: 'Poliéster', quimica: 'poliester', tab: 'phoenix' },

@@ -92,6 +92,7 @@ export default {
   'set.phoenix-poliester': 'Polyester',
   'line.Acrylic': 'Acrylic',
   'set.talento-acrylic': 'Acrylic Color + Arts + Game',
+  'set.tomcolors-acrylic-up': 'Acrylic Colors + UP',
   'line.Artes': 'Arts',
   'line.Metallic Artes': 'Metallic Arts',
   'mix.empty': 'No paints yet. Click “add paint”.',
