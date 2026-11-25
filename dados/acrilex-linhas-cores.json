@@ -1,0 +1,902 @@
+[
+ {
+  "code": "Brilhante 519",
+  "name": "Branco",
+  "line": "Brilhante",
+  "hex": "#f2f9f8",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 538",
+  "name": "Amarelo Pêssego",
+  "line": "Brilhante",
+  "hex": "#efbb5f",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 504",
+  "name": "Amarelo Limão",
+  "line": "Brilhante",
+  "hex": "#e7e923",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 505",
+  "name": "Amarelo Ouro",
+  "line": "Brilhante",
+  "hex": "#f5d11d",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 517",
+  "name": "Laranja",
+  "line": "Brilhante",
+  "hex": "#eb4e1c",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 507",
+  "name": "Vermelho Fogo",
+  "line": "Brilhante",
+  "hex": "#e51d24",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 508",
+  "name": "Vermelho Escarlate",
+  "line": "Brilhante",
+  "hex": "#d01e25",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 565",
+  "name": "Vinho",
+  "line": "Brilhante",
+  "hex": "#5c1022",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 537",
+  "name": "Rosa",
+  "line": "Brilhante",
+  "hex": "#ec8eb1",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 542",
+  "name": "Rosa Escuro",
+  "line": "Brilhante",
+  "hex": "#e11543",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 528",
+  "name": "Lilás",
+  "line": "Brilhante",
+  "hex": "#ab91cf",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 516",
+  "name": "Violeta",
+  "line": "Brilhante",
+  "hex": "#3c2568",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 503",
+  "name": "Azul Celeste",
+  "line": "Brilhante",
+  "hex": "#4470bf",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 501",
+  "name": "Azul Turquesa",
+  "line": "Brilhante",
+  "hex": "#293f98",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 510",
+  "name": "Verde Folha",
+  "line": "Brilhante",
+  "hex": "#5f9e31",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 513",
+  "name": "Verde Musgo",
+  "line": "Brilhante",
+  "hex": "#387430",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 545",
+  "name": "Verde Oliva",
+  "line": "Brilhante",
+  "hex": "#292d17",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 506",
+  "name": "Cerâmica",
+  "line": "Brilhante",
+  "hex": "#661e16",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 531",
+  "name": "Marrom",
+  "line": "Brilhante",
+  "hex": "#461d16",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Brilhante 520",
+  "name": "Preto",
+  "line": "Brilhante",
+  "hex": "#11100f",
+  "finish": "Gloss"
+ },
+ {
+  "code": "Neon 102",
+  "name": "Amarelo Limão",
+  "line": "Neon",
+  "hex": "#eaeb14",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Neon 105",
+  "name": "Laranja",
+  "line": "Neon",
+  "hex": "#f38817",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Neon 107",
+  "name": "Maravilha",
+  "line": "Neon",
+  "hex": "#ea249a",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Neon 103",
+  "name": "Vermelho",
+  "line": "Neon",
+  "hex": "#ed2747",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Neon 101",
+  "name": "Verde",
+  "line": "Neon",
+  "hex": "#68c431",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Neon 109",
+  "name": "Azul",
+  "line": "Neon",
+  "hex": "#3961b6",
+  "finish": "Fluo"
+ },
+ {
+  "code": "Metal 562",
+  "name": "Branco Metálico",
+  "line": "Metal Colors",
+  "hex": "#e4e0cc",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 499",
+  "name": "Rose Gold",
+  "line": "Metal Colors",
+  "hex": "#f9dbcf",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 537",
+  "name": "Rosa",
+  "line": "Metal Colors",
+  "hex": "#e4729f",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 555",
+  "name": "Vermelho",
+  "line": "Metal Colors",
+  "hex": "#e12d46",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 528",
+  "name": "Lilás",
+  "line": "Metal Colors",
+  "hex": "#b79bc9",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 549",
+  "name": "Magenta",
+  "line": "Metal Colors",
+  "hex": "#8d549a",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 535",
+  "name": "Azul Mar",
+  "line": "Metal Colors",
+  "hex": "#385e8c",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 513",
+  "name": "Verde Musgo",
+  "line": "Metal Colors",
+  "hex": "#488236",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 545",
+  "name": "Verde Oliva",
+  "line": "Metal Colors",
+  "hex": "#476734",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 533",
+  "name": "Prata",
+  "line": "Metal Colors",
+  "hex": "#b3b7aa",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 599",
+  "name": "Alumínio",
+  "line": "Metal Colors",
+  "hex": "#95a2b2",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 532",
+  "name": "Ouro",
+  "line": "Metal Colors",
+  "hex": "#bd9843",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 598",
+  "name": "Dourado Solar",
+  "line": "Metal Colors",
+  "hex": "#9e661e",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 548",
+  "name": "Ouro Velho",
+  "line": "Metal Colors",
+  "hex": "#98551e",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 644",
+  "name": "Ouro Negro",
+  "line": "Metal Colors",
+  "hex": "#93672b",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 556",
+  "name": "Bronze",
+  "line": "Metal Colors",
+  "hex": "#65551e",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 534",
+  "name": "Cobre",
+  "line": "Metal Colors",
+  "hex": "#8f331d",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Metal 520",
+  "name": "Preto",
+  "line": "Metal Colors",
+  "hex": "#474749",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Chalk 417",
+  "name": "Branco Polar",
+  "line": "Chalk",
+  "hex": "#f6faf9",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 519",
+  "name": "Branco",
+  "line": "Chalk",
+  "hex": "#f9fbf8",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 839",
+  "name": "Moscatel",
+  "line": "Chalk",
+  "hex": "#a8b54a",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 849",
+  "name": "Açafrão",
+  "line": "Chalk",
+  "hex": "#ddb60f",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 863",
+  "name": "Laranja Bohemian",
+  "line": "Chalk",
+  "hex": "#ba541e",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 853",
+  "name": "Trigo",
+  "line": "Chalk",
+  "hex": "#f4efdb",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 859",
+  "name": "Areia Rosada",
+  "line": "Chalk",
+  "hex": "#f5e5df",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 862",
+  "name": "Rosa Elisabete",
+  "line": "Chalk",
+  "hex": "#e3c7d0",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 857",
+  "name": "Batom",
+  "line": "Chalk",
+  "hex": "#aa437b",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 816",
+  "name": "Vermelho Nepal",
+  "line": "Chalk",
+  "hex": "#4a1619",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 865",
+  "name": "Duna",
+  "line": "Chalk",
+  "hex": "#9d8d80",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 864",
+  "name": "Glicinia",
+  "line": "Chalk",
+  "hex": "#c5b9d4",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 880",
+  "name": "Amazonita",
+  "line": "Chalk",
+  "hex": "#daece6",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 877",
+  "name": "Tempestade",
+  "line": "Chalk",
+  "hex": "#354e6f",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 874",
+  "name": "Azul Industrial",
+  "line": "Chalk",
+  "hex": "#151b1c",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 852",
+  "name": "Urban",
+  "line": "Chalk",
+  "hex": "#99ab94",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 878",
+  "name": "Provençal",
+  "line": "Chalk",
+  "hex": "#50746f",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 842",
+  "name": "Cimento",
+  "line": "Chalk",
+  "hex": "#29352f",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 847",
+  "name": "Floresta",
+  "line": "Chalk",
+  "hex": "#1e2016",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 520",
+  "name": "Preto",
+  "line": "Chalk",
+  "hex": "#141211",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 585",
+  "name": "Capuccino",
+  "line": "Chalk",
+  "hex": "#655343",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 359",
+  "name": "Ristretto",
+  "line": "Chalk",
+  "hex": "#362f2f",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 452",
+  "name": "Baunilha",
+  "line": "Chalk",
+  "hex": "#c4b694",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 453",
+  "name": "Capim Dourado",
+  "line": "Chalk",
+  "hex": "#daae6a",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 454",
+  "name": "Cúrcuma",
+  "line": "Chalk",
+  "hex": "#da7e32",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 455",
+  "name": "Doce de Abóbora",
+  "line": "Chalk",
+  "hex": "#e44236",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 456",
+  "name": "Siciliano",
+  "line": "Chalk",
+  "hex": "#c0df37",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 473",
+  "name": "Tiffani",
+  "line": "Chalk",
+  "hex": "#138b93",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 457",
+  "name": "Naval",
+  "line": "Chalk",
+  "hex": "#273273",
+  "finish": "Matte"
+ },
+ {
+  "code": "Chalk 458",
+  "name": "Púrpura Noturna",
+  "line": "Chalk",
+  "hex": "#553a62",
+  "finish": "Matte"
+ },
+ {
+  "code": "Acrylic 319",
+  "name": "Branco de Titânio",
+  "line": "Acrylic Colors",
+  "hex": "#ece9e8",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 310",
+  "name": "Cor de Carne Clara",
+  "line": "Acrylic Colors",
+  "hex": "#efeda2",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 326",
+  "name": "Amarelo Pêssego",
+  "line": "Acrylic Colors",
+  "hex": "#e5d082",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 342",
+  "name": "Amarelo Nápoles",
+  "line": "Acrylic Colors",
+  "hex": "#e8b74c",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 304",
+  "name": "Amarelo Nápoles Carne",
+  "line": "Acrylic Colors",
+  "hex": "#edab86",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 323",
+  "name": "Amarelo Limão",
+  "line": "Acrylic Colors",
+  "hex": "#e4e127",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 340",
+  "name": "Amarelo de Cádmio Claro",
+  "line": "Acrylic Colors",
+  "hex": "#e8d813",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 324",
+  "name": "Amarelo de Cádmio",
+  "line": "Acrylic Colors",
+  "hex": "#e7c31c",
+  "finish": "Satin",
+  "aprox": "gota"
+ },
+ {
+  "code": "Acrylic 302",
+  "name": "Amarelo Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#ea9e1c",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 339",
+  "name": "Amarelo Indiano",
+  "line": "Acrylic Colors",
+  "hex": "#ca812c",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 360",
+  "name": "Amarelo Ocre",
+  "line": "Acrylic Colors",
+  "hex": "#aa7d25",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 341",
+  "name": "Amarelo de Cádmio Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#ee6e2f",
+  "finish": "Satin",
+  "aprox": "gota"
+ },
+ {
+  "code": "Acrylic 325",
+  "name": "Laranja de Cádmio",
+  "line": "Acrylic Colors",
+  "hex": "#dc4f26",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 335",
+  "name": "Laca Orquídea",
+  "line": "Acrylic Colors",
+  "hex": "#e899cc",
+  "finish": "Satin",
+  "aprox": "gota"
+ },
+ {
+  "code": "Acrylic 316",
+  "name": "Rosa Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#dc3876",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 315",
+  "name": "Magenta",
+  "line": "Acrylic Colors",
+  "hex": "#b11b4d",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 366",
+  "name": "Vermelho Venezza",
+  "line": "Acrylic Colors",
+  "hex": "#9d4124",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 343",
+  "name": "Vermelho de Cádmio Claro",
+  "line": "Acrylic Colors",
+  "hex": "#c52d29",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 312",
+  "name": "Vermelho de Cádmio",
+  "line": "Acrylic Colors",
+  "hex": "#d83229",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 350",
+  "name": "Vermelho Claro",
+  "line": "Acrylic Colors",
+  "hex": "#ca2c2a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 344",
+  "name": "Vermelho de Cádmio Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#c23a2e",
+  "finish": "Satin",
+  "aprox": "gota"
+ },
+ {
+  "code": "Acrylic 328",
+  "name": "Laca Gerânio",
+  "line": "Acrylic Colors",
+  "hex": "#c43430",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 379",
+  "name": "Carmim",
+  "line": "Acrylic Colors",
+  "hex": "#a5332d",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 346",
+  "name": "Alizarin Crimson",
+  "line": "Acrylic Colors",
+  "hex": "#552d2a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 321",
+  "name": "Violeta Cobalto",
+  "line": "Acrylic Colors",
+  "hex": "#8a74bc",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 330",
+  "name": "Violeta Permanente Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#241b23",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 306",
+  "name": "Azul Hortênsia",
+  "line": "Acrylic Colors",
+  "hex": "#adb5dc",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 363",
+  "name": "Azul Turquesa",
+  "line": "Acrylic Colors",
+  "hex": "#5b9ac8",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 347",
+  "name": "Azul Cerúleo",
+  "line": "Acrylic Colors",
+  "hex": "#6985c5",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 308",
+  "name": "Azul Cobalto",
+  "line": "Acrylic Colors",
+  "hex": "#3f459e",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 348",
+  "name": "Ultramar Claro",
+  "line": "Acrylic Colors",
+  "hex": "#2f2954",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 305",
+  "name": "Azul Ftalocianina",
+  "line": "Acrylic Colors",
+  "hex": "#2d2d5a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 331",
+  "name": "Azul da Prússia",
+  "line": "Acrylic Colors",
+  "hex": "#24262f",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 364",
+  "name": "Verde Inglês nº 5",
+  "line": "Acrylic Colors",
+  "hex": "#55a33d",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 322",
+  "name": "Verde Musgo",
+  "line": "Acrylic Colors",
+  "hex": "#316932",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 332",
+  "name": "Verde Permanente Escuro",
+  "line": "Acrylic Colors",
+  "hex": "#1c302a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 334",
+  "name": "Verde Oliva",
+  "line": "Acrylic Colors",
+  "hex": "#365829",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 354",
+  "name": "Terra Verde",
+  "line": "Acrylic Colors",
+  "hex": "#2e4534",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 353",
+  "name": "Verde Vessie",
+  "line": "Acrylic Colors",
+  "hex": "#364234",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 365",
+  "name": "Verde de Hooker",
+  "line": "Acrylic Colors",
+  "hex": "#272823",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 336",
+  "name": "Terra de Siena Natural",
+  "line": "Acrylic Colors",
+  "hex": "#a87032",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 357",
+  "name": "Terra de Siena Queimada",
+  "line": "Acrylic Colors",
+  "hex": "#a76140",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 355",
+  "name": "Sombra Natural",
+  "line": "Acrylic Colors",
+  "hex": "#54492a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 337",
+  "name": "Marrom Van Dyck",
+  "line": "Acrylic Colors",
+  "hex": "#49372a",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 356",
+  "name": "Sombra Queimada",
+  "line": "Acrylic Colors",
+  "hex": "#252319",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 396",
+  "name": "Sépia",
+  "line": "Acrylic Colors",
+  "hex": "#403832",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 311",
+  "name": "Gris Neutro",
+  "line": "Acrylic Colors",
+  "hex": "#bfd4dd",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 399",
+  "name": "Gris de Payne",
+  "line": "Acrylic Colors",
+  "hex": "#393f3f",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 320",
+  "name": "Preto",
+  "line": "Acrylic Colors",
+  "hex": "#252623",
+  "finish": "Satin"
+ },
+ {
+  "code": "Acrylic 389",
+  "name": "Branco Iridescente",
+  "line": "Acrylic Colors",
+  "hex": "#d3d0c1",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Acrylic 386",
+  "name": "Prata Iridescente",
+  "line": "Acrylic Colors",
+  "hex": "#b6b9af",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Acrylic 385",
+  "name": "Ouro Iridescente",
+  "line": "Acrylic Colors",
+  "hex": "#ccad3e",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Acrylic 387",
+  "name": "Cobre Iridescente",
+  "line": "Acrylic Colors",
+  "hex": "#ba7340",
+  "finish": "Metallic"
+ },
+ {
+  "code": "Acrylic 388",
+  "name": "Bronze Iridescente",
+  "line": "Acrylic Colors",
+  "hex": "#65592b",
+  "finish": "Metallic"
+ }
+]

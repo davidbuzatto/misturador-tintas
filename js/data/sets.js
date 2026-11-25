@@ -23,7 +23,14 @@ export const DEFAULT_SET = 'acrilex';
  * `anchors` fixa as âncoras (códigos); sem ela, são escolhidas automaticamente.
  */
 export const INGREDIENT_SETS = [
-  { id: 'acrilex', marca: 'Acrilex', rotulo: 'Matte', quimica: 'acrilica', tab: 'acrilex', anchors: ['519', '520', '505', '559', '555', '549', '504', '503'] },
+  { id: 'acrilex', marca: 'Acrilex', rotulo: 'Matte', quimica: 'acrilica', tab: 'acrilex', line: 'Fosca', anchors: ['519', '520', '505', '559', '555', '549', '504', '503'] },
+  // Acrilex: as outras linhas acrílicas de artesanato, sozinhas ou combinadas com a Fosca (a mesma base água). Metal Colors, Neon e
+  // as iridescentes da Acrylic Colors ficam só no catálogo.
+  { id: 'acrilex-brilhante', marca: 'Acrilex', rotulo: 'Brilhante', quimica: 'acrilica', tab: 'acrilex', line: 'Brilhante' },
+  { id: 'acrilex-chalk', marca: 'Acrilex', rotulo: 'Chalk', quimica: 'acrilica', tab: 'acrilex', line: 'Chalk' },
+  { id: 'acrilex-colors', marca: 'Acrilex', rotulo: 'Acrylic Colors', quimica: 'acrilica', tab: 'acrilex', line: 'Acrylic Colors' },
+  { id: 'acrilex-fosca-brilhante', marca: 'Acrilex', rotulo: 'Fosca + Brilhante', quimica: 'acrilica', tab: 'acrilex', line: ['Fosca', 'Brilhante'] },
+  { id: 'acrilex-fosca-brilhante-chalk', marca: 'Acrilex', rotulo: 'Fosca + Brilhante + Chalk', quimica: 'acrilica', tab: 'acrilex', line: ['Fosca', 'Brilhante', 'Chalk'] },
   { id: 'tamiya-acrilica', marca: 'Tamiya', rotulo: 'Acrylic', quimica: 'acrilica', tab: 'tamiya', line: 'Acrylic' },
   { id: 'tamiya-lacquer', marca: 'Tamiya', rotulo: 'Lacquer', quimica: 'lacquer', tab: 'tamiya', line: 'Lacquer' },
   { id: 'revell-aqua', marca: 'Revell', rotulo: 'Aqua Color', quimica: 'acrilica', tab: 'revell', line: 'Aqua Color' },

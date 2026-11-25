@@ -45,6 +45,7 @@ const ARQUIVOS = [
   'js/ui/suggestions.js',
   'js/ui/targets.js',
   'dados/acrilex-cores-oficial.json',
+  'dados/acrilex-linhas-cores.json',
   'dados/ak-cores.json',
   'dados/ammo-cores.json',
   'dados/fs595-cores.json',

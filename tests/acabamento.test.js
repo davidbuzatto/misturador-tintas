@@ -8,7 +8,7 @@ const r = (f) => JSON.parse(fs.readFileSync(new URL(`../dados/${f}`, import.meta
 const c = buildCatalogs({
   ac: r('acrilex-cores-oficial.json'), tm: r('tamiya-cores-oficial.json'), rv: r('revell-cores-oficial.json'),
   fs: r('fs595-cores.json'), vl: r('vallejo-cores.json'), mr: r('mrcolor-cores.json'), hb: r('humbrol-cores.json'),
-  ral: r('ral-cores.json'), ak: r('ak-cores.json'), am: r('ammo-cores.json'), sc: r('scale75-cores.json'), tc: r('tomcolors-cores.json'), px: r('phoenix-cores.json'), tl: r('talento-cores.json'),
+  ral: r('ral-cores.json'), ak: r('ak-cores.json'), am: r('ammo-cores.json'), sc: r('scale75-cores.json'), tc: r('tomcolors-cores.json'), px: r('phoenix-cores.json'), tl: r('talento-cores.json'), al: r('acrilex-linhas-cores.json'),
 });
 const tipo = (aba, code) => acabamentoDe(aba, c[aba].find((p) => p.code === code)).tipo;
 
@@ -58,9 +58,10 @@ test('filtrarCatalogo e contarPorTipo', () => {
 });
 
 test('Acrilex: todas as 95 cores são fosca, declarada pelo catálogo (não inferida)', () => {
-  assert.equal(c.acrilex.length, 95);
-  for (const p of c.acrilex) assert.deepEqual(acabamentoDe('acrilex', p), { tipo: 'matte', inferido: false }, p.code);
-  assert.deepEqual(contarPorTipo(c.acrilex, 'acrilex'), { matte: 95 });
+  const fosca = c.acrilex.filter((p) => p.line === 'Fosca');
+  assert.equal(fosca.length, 95);
+  for (const p of fosca) assert.deepEqual(acabamentoDe('acrilex', p), { tipo: 'matte', inferido: false }, p.code);
+  assert.deepEqual(contarPorTipo(fosca, 'acrilex'), { matte: 95 });
 });
 
 test('Revell: o acabamento informado pelo catálogo chega a todas as cores', () => {

@@ -29,7 +29,7 @@ const catalogos = buildCatalogs({
   am: ler('ammo-cores.json'),
   sc: ler('scale75-cores.json'),
   tc: ler('tomcolors-cores.json'),
-  px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'),
+  px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'), al: ler('acrilex-linhas-cores.json'),
 });
 const sets = buildSets(catalogos);
 
@@ -48,7 +48,7 @@ test('linhas de ingredientes: ids únicos, padrão existe e cada uma tem tintas'
 
 test('Acrilex: nenhuma tinta é descartada e as âncoras são as fixas de antes', () => {
   const acrilex = sets.get('acrilex');
-  assert.equal(acrilex.paints.length, catalogos.acrilex.length);
+  assert.equal(acrilex.paints.length, catalogos.acrilex.filter((p) => p.line === 'Fosca').length);
   assert.equal(acrilex.excluidas, 0);
   assert.deepEqual([...acrilex.anchors], ['519', '520', '505', '559', '555', '549', '504', '503']);
 });

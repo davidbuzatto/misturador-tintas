@@ -14,6 +14,7 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
 | `extrair-humbrol.mjs` | imagens do site <https://uk.humbrol.com/catalogue> | rede, ffmpeg | `dados/humbrol-cores.json` |
 | `extrair-scale75.mjs` | site oficial <https://scale75.com> (11 coleções) | rede (Node puro; usa `png.mjs`) | `dados/scale75-cores.json`, `scale75-medidas.json`, `scale75-conferir.md` |
 | `extrair-tomcolors.mjs` | loja oficial <https://www.tomcolors.com.br> (20 páginas de categoria) | rede, ffmpeg | `dados/tomcolors-cores.json`, `tomcolors-medidas.json`, `tomcolors-conferir.md` |
+| `extrair-acrilex-linhas.py` | Catálogo Manualidades 2025 da Acrilex (PDF), mais `acrilex-nomes.json` (códigos e nomes das linhas Brilhante, Neon, Metal Colors, Chalk e Acrylic Colors) | Python com pdfplumber, Pillow e `pdftoppm` (poppler) | `dados/acrilex-linhas-cores.json` |
 | `extrair-talento.py` | catálogo de modelismo em PDF da Talento (V23-4), mais `talento-nomes.json` | Python com pdfplumber, Pillow e `pdftoppm` (poppler) | `dados/talento-cores.json` |
 | `extrair-phoenix.mjs` | site da loja <https://phoenix-special-colors.com.br/products> | rede (Node puro) | `dados/phoenix-cores.json` |
 

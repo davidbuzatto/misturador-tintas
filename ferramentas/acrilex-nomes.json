@@ -1,0 +1,19 @@
+{
+  "_obs": "Nomes e códigos como impressos no Catálogo Manualidades 2025 da Acrilex. `pagina` é onde está a cartela; `finish` e `prefixo` valem para a seção.",
+  "secoes": [
+    { "linha": "Brilhante", "pagina": 39, "finish": "Gloss", "prefixo": "Brilhante ", "janela": "padrao",
+      "itens": ["519 Branco", "538 Amarelo Pêssego", "504 Amarelo Limão", "505 Amarelo Ouro", "517 Laranja", "507 Vermelho Fogo", "508 Vermelho Escarlate", "565 Vinho", "537 Rosa", "542 Rosa Escuro", "528 Lilás", "516 Violeta", "503 Azul Celeste", "501 Azul Turquesa", "510 Verde Folha", "513 Verde Musgo", "545 Verde Oliva", "506 Cerâmica", "531 Marrom", "520 Preto"] },
+    { "linha": "Neon", "pagina": 41, "finish": "Fluo", "prefixo": "Neon ", "janela": "padrao",
+      "itens": ["102 Amarelo Limão", "105 Laranja", "107 Maravilha", "103 Vermelho", "101 Verde", "109 Azul"] },
+    { "linha": "Metal Colors", "pagina": 43, "finish": "Metallic", "prefixo": "Metal ", "janela": "padrao",
+      "itens": ["562 Branco Metálico", "499 Rose Gold", "537 Rosa", "555 Vermelho", "528 Lilás", "549 Magenta", "535 Azul Mar", "513 Verde Musgo", "545 Verde Oliva", "533 Prata", "599 Alumínio", "532 Ouro", "598 Dourado Solar", "548 Ouro Velho", "644 Ouro Negro", "556 Bronze", "534 Cobre", "520 Preto"] },
+    { "linha": "Chalk", "pagina": 45, "finish": "Matte", "prefixo": "Chalk ", "janela": "padrao",
+      "itens": ["417 Branco Polar", "519 Branco", "839 Moscatel", "849 Açafrão", "863 Laranja Bohemian", "853 Trigo", "859 Areia Rosada", "862 Rosa Elisabete", "857 Batom", "816 Vermelho Nepal", "865 Duna", "864 Glicinia", "880 Amazonita", "877 Tempestade", "874 Azul Industrial", "852 Urban", "878 Provençal", "842 Cimento", "847 Floresta", "520 Preto", "585 Capuccino", "359 Ristretto", "452 Baunilha", "453 Capim Dourado", "454 Cúrcuma", "455 Doce de Abóbora", "456 Siciliano", "473 Tiffani", "457 Naval", "458 Púrpura Noturna"] },
+    { "linha": "Acrylic Colors", "pagina": 92, "finish": "Satin", "prefixo": "Acrylic ", "janela": "tubo",
+      "itens": ["319 Branco de Titânio", "310 Cor de Carne Clara", "326 Amarelo Pêssego", "342 Amarelo Nápoles", "304 Amarelo Nápoles Carne", "323 Amarelo Limão", "340 Amarelo de Cádmio Claro", "324 Amarelo de Cádmio", "302 Amarelo Escuro", "339 Amarelo Indiano", "360 Amarelo Ocre", "341 Amarelo de Cádmio Escuro", "325 Laranja de Cádmio", "335 Laca Orquídea", "316 Rosa Escuro", "315 Magenta", "366 Vermelho Venezza", "343 Vermelho de Cádmio Claro", "312 Vermelho de Cádmio", "350 Vermelho Claro", "344 Vermelho de Cádmio Escuro", "328 Laca Gerânio", "379 Carmim", "346 Alizarin Crimson", "321 Violeta Cobalto", "330 Violeta Permanente Escuro", "306 Azul Hortênsia", "363 Azul Turquesa", "347 Azul Cerúleo", "308 Azul Cobalto", "348 Ultramar Claro", "305 Azul Ftalocianina", "331 Azul da Prússia", "364 Verde Inglês nº 5", "322 Verde Musgo", "332 Verde Permanente Escuro"] },
+    { "linha": "Acrylic Colors", "pagina": 93, "finish": "Satin", "prefixo": "Acrylic ", "janela": "tubo", "ate": 230,
+      "itens": ["334 Verde Oliva", "354 Terra Verde", "353 Verde Vessie", "365 Verde de Hooker", "336 Terra de Siena Natural", "357 Terra de Siena Queimada", "355 Sombra Natural", "337 Marrom Van Dyck", "356 Sombra Queimada", "396 Sépia", "311 Gris Neutro", "399 Gris de Payne", "320 Preto"] },
+    { "linha": "Acrylic Colors", "pagina": 93, "finish": "Metallic", "prefixo": "Acrylic ", "janela": "tubo", "de": 270,
+      "itens": ["389 Branco Iridescente", "386 Prata Iridescente", "385 Ouro Iridescente", "387 Cobre Iridescente", "388 Bronze Iridescente"] }
+  ]
+}

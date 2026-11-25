@@ -99,7 +99,7 @@ function revellLabel(d) {
 
 /**
  * Monta os catálogos normalizados a partir dos JSONs brutos (função pura, sem rede).
- * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[], px?: object[], tl?: object[]}} raw conteúdo de
+ * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[], px?: object[], tl?: object[], al?: object[]}} raw conteúdo de
  *        `acrilex-cores-oficial`, `tamiya-cores-oficial`, `revell-cores-oficial`,
  *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores`, `scale75-cores`, `tomcolors-cores`, `phoenix-cores` e `talento-cores`.
  * @returns {Object<string, CatalogPaint[]>} catálogos por chave
@@ -107,15 +107,20 @@ function revellLabel(d) {
  *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`, `talento`)
  *          marcam cada tinta com `line`.
  */
-export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [], px = [], tl = [] }) {
+export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [], px = [], tl = [], al = [] }) {
   // Tamiya: aditivos (sem cor) ficam de fora; linhas por base química (acrílica primeiro)
   const tamiya = (base, line) =>
     tm.filter((d) => d.hex && !d.aditivo && d.base === base).map((d) => ({ code: d.code, name: d.name, hex: d.hex, line }));
   const revell = (linha) =>
     rv.filter((d) => d.linha === linha).map((d) => ({ code: d.sku, name: revellLabel(d), hex: d.hex, line: linha, finish: d.finish }));
   return {
-    // Acrilex: a cartela é toda da Tinta Acrílica Fosca (o catálogo não traz o acabamento por cor)
-    acrilex: ac.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: 'Matte' })),
+    // Acrilex: a Fosca (a cartela original, toda fosca) e as outras linhas acrílicas do Catálogo Manualidades 2025 (Brilhante,
+    // Chalk, Acrylic Colors, Metal Colors, Neon). Fora da Fosca, o código leva o nome da linha ("Brilhante 519"), porque os
+    // números se repetem entre as linhas; `aprox` marca as gotas de tinta com brilho (Acrylic Colors).
+    acrilex: [
+      ...ac.map((d) => ({ code: d.code, name: d.name, hex: d.hex, line: 'Fosca', finish: 'Matte' })),
+      ...al.map((d) => ({ code: d.code, name: d.name, hex: d.hex, line: d.line, finish: d.finish, ...(d.aprox ? { aprox: d.aprox } : {}) })),
+    ],
     tamiya: [...tamiya('acrilica_mini', 'Acrylic') /* X- (brilhante) e XF- (fosco) */, ...tamiya('lacquer', 'Lacquer') /* LP- */],
     revell: [...revell('Aqua Color'), ...revell('Email Color')],
     // FS 595: o 1º dígito do código já indica o acabamento (1 gloss, 2 semi-gloss, 3 flat)
@@ -217,7 +222,7 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
  * @returns {Promise<Object<string, CatalogPaint[]>>} catálogos por chave (ver {@link buildCatalogs}).
  */
 export async function loadCatalogs() {
-  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl] = await Promise.all([
+  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al] = await Promise.all([
     // (a ordem segue a de `buildCatalogs`)
     loadJson('acrilex-cores-oficial.json'),
     loadJson('tamiya-cores-oficial.json'),
@@ -233,8 +238,9 @@ export async function loadCatalogs() {
     loadJson('tomcolors-cores.json'),
     loadJson('phoenix-cores.json'),
     loadJson('talento-cores.json'),
+    loadJson('acrilex-linhas-cores.json'),
   ]);
-  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl });
+  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al });
 }
 
 /**

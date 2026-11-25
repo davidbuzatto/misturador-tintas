@@ -56,8 +56,8 @@ test('buildCatalogs: catálogos antigos inalterados e Tamiya dividido sem perda'
   // Revell: o acabamento (campo novo) também sai da comparação com o arquivo de referência
   const semLinha = (lista) => lista.map(({ line, finish, ...resto }) => resto);
   // Acrilex: as mesmas cores de antes; a única diferença é o acabamento (fosca) declarado em todas
-  assert.deepEqual(cat.acrilex.map(({ finish, ...resto }) => resto), golden.acrilex);
-  assert.ok(cat.acrilex.every((p) => p.finish === 'Matte'));
+  assert.deepEqual(cat.acrilex.map(({ finish, line, ...resto }) => resto), golden.acrilex);
+  assert.ok(cat.acrilex.every((p) => p.finish === 'Matte' && p.line === 'Fosca')); // sem as outras linhas (`al` não foi passado)
   // Revell: um catálogo com duas linhas == os dois catálogos originais (Aqua primeiro)
   assert.deepEqual(semLinha(cat.revell), [...golden.revellA, ...golden.revellE]);
   assert.deepEqual(catalogLines(cat.revell), ['Aqua Color', 'Email Color']);
@@ -121,7 +121,7 @@ test('buildCatalogs inclui Vallejo e catalogLines lista as linhas', async () => 
     am: ler('ammo-cores.json'),
     sc: ler('scale75-cores.json'),
     tc: ler('tomcolors-cores.json'),
-    px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'),
+    px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'), al: ler('acrilex-linhas-cores.json'),
   });
   assert.equal(cat.vallejo.length, ler('vallejo-cores.json').length);
   assert.deepEqual(catalogLines(cat.vallejo).slice(0, 2), ['Model Color', 'Liquid Metal']);
