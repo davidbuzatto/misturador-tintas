@@ -19,7 +19,7 @@ export const DEFAULT_SET = 'acrilex';
 
 /**
  * Definição dos conjuntos. `marca`/`rotulo` aparecem no seletor; `quimica` é uma chave de texto
- * ("acrilica", "lacquer", "esmalte", "oleo"); `tab`/`line` apontam para o catálogo (e a linha dentro dele).
+ * ("acrilica", "lacquer", "esmalte", "oleo", "poliester"); `tab`/`line` apontam para o catálogo (e a linha dentro dele).
  * `anchors` fixa as âncoras (códigos); sem ela, são escolhidas automaticamente.
  */
 export const INGREDIENT_SETS = [
@@ -47,6 +47,9 @@ export const INGREDIENT_SETS = [
   { id: 'scale75-flow', marca: 'Scale75', rotulo: 'Flow', quimica: 'oleo', tab: 'scale75', line: 'Flow' },
   { id: 'tomcolors-acrylic', marca: 'Tom Colors', rotulo: 'Acrylic Colors', quimica: 'acrilica', tab: 'tomcolors', line: 'Acrylic Colors' },
   { id: 'tomcolors-up', marca: 'Tom Colors', rotulo: 'UP', quimica: 'acrilica', tab: 'tomcolors', line: 'UP' },
+  // Phoenix: toda cor existe nos dois tipos (Duco e poliéster); como uma receita usa uma química só, são duas linhas com as mesmas cores
+  { id: 'phoenix-duco', marca: 'Phoenix', rotulo: 'Duco', quimica: 'lacquer', tab: 'phoenix' },
+  { id: 'phoenix-poliester', marca: 'Phoenix', rotulo: 'Poliéster', quimica: 'poliester', tab: 'phoenix' },
 ];
 
 /** Séries (campo `series`) cujas tintas o modelo de mistura não representa. */

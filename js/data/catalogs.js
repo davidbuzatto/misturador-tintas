@@ -33,7 +33,7 @@ import { lineName, t } from '../i18n/index.js';
  * Catálogos disponíveis como cor-alvo, na ordem em que as abas aparecem.
  * `free` não é um catálogo: é a aba de cor livre (seletor de cor).
  */
-export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'tomcolors', 'acrilex', 'free'];
+export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'tomcolors', 'phoenix', 'acrilex', 'free'];
 
 /**
  * Abas de versões anteriores → aba equivalente atual (Tamiya e Revell já tiveram uma aba por
@@ -65,6 +65,7 @@ export const CATALOG_NAMES = {
   ammo: 'AMMO',
   scale75: 'Scale75',
   tomcolors: 'Tom Colors',
+  phoenix: 'Phoenix',
   acrilex: 'Acrilex',
 };
 
@@ -97,15 +98,15 @@ function revellLabel(d) {
 
 /**
  * Monta os catálogos normalizados a partir dos JSONs brutos (função pura, sem rede).
- * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[]}} raw conteúdo de
+ * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[], px?: object[]}} raw conteúdo de
  *        `acrilex-cores-oficial`, `tamiya-cores-oficial`, `revell-cores-oficial`,
- *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores`, `scale75-cores` e `tomcolors-cores`.
+ *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores`, `scale75-cores`, `tomcolors-cores` e `phoenix-cores`.
  * @returns {Object<string, CatalogPaint[]>} catálogos por chave
- *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`, `tomcolors`).
- *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`, `tomcolors`)
+ *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`).
+ *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`)
  *          marcam cada tinta com `line`.
  */
-export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [] }) {
+export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [], px = [] }) {
   // Tamiya: aditivos (sem cor) ficam de fora; linhas por base química (acrílica primeiro)
   const tamiya = (base, line) =>
     tm.filter((d) => d.hex && !d.aditivo && d.base === base).map((d) => ({ code: d.code, name: d.name, hex: d.hex, line }));
@@ -188,6 +189,15 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
       ...(d.finish ? { finish: d.finish } : {}),
       ...(d.aprox ? { aprox: d.aprox } : {}),
     })),
+    // Phoenix Special Colors (tintas automotivas Duco e poliéster para modelismo): a linha é o padrão da cor (FS, RLM, RAL…).
+    // As cores são valores digitais escolhidos pela própria loja, não medidas de tinta.
+    phoenix: px.map((d) => ({
+      code: d.code,
+      name: d.name,
+      hex: d.hex,
+      line: d.line,
+      ...(d.finish ? { finish: d.finish } : {}),
+    })),
   };
 }
 
@@ -196,7 +206,7 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
  * @returns {Promise<Object<string, CatalogPaint[]>>} catálogos por chave (ver {@link buildCatalogs}).
  */
 export async function loadCatalogs() {
-  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc] = await Promise.all([
+  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px] = await Promise.all([
     // (a ordem segue a de `buildCatalogs`)
     loadJson('acrilex-cores-oficial.json'),
     loadJson('tamiya-cores-oficial.json'),
@@ -210,8 +220,9 @@ export async function loadCatalogs() {
     loadJson('ammo-cores.json'),
     loadJson('scale75-cores.json'),
     loadJson('tomcolors-cores.json'),
+    loadJson('phoenix-cores.json'),
   ]);
-  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc });
+  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px });
 }
 
 /**

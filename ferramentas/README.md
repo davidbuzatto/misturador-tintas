@@ -14,6 +14,7 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
 | `extrair-humbrol.mjs` | imagens do site <https://uk.humbrol.com/catalogue> | rede, ffmpeg | `dados/humbrol-cores.json` |
 | `extrair-scale75.mjs` | site oficial <https://scale75.com> (11 coleções) | rede (Node puro; usa `png.mjs`) | `dados/scale75-cores.json`, `scale75-medidas.json`, `scale75-conferir.md` |
 | `extrair-tomcolors.mjs` | loja oficial <https://www.tomcolors.com.br> (20 páginas de categoria) | rede, ffmpeg | `dados/tomcolors-cores.json`, `tomcolors-medidas.json`, `tomcolors-conferir.md` |
+| `extrair-phoenix.mjs` | site da loja <https://phoenix-special-colors.com.br/products> | rede (Node puro) | `dados/phoenix-cores.json` |
 
 "poppler" são os programas `pdftohtml` e `pdftoppm`; `ffmpeg` decodifica as imagens da Humbrol. Todos precisam estar no `PATH`.
 
@@ -55,6 +56,15 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
   chega a ser usado hoje). **A cor final da linha UP é a tinta aplicada num cartão branco**, que aparece em fotos de cada anúncio (a poça sob o frasco é mais escura nas cores frias, e o círculo do anúncio, mais escuro ainda: nos verdes, azuis, roxos e marrons a diferença chega a ΔE 20 a 35). O script mede o maior componente "não branco" cercado de branco; onde a tinta encosta na luva ou é clara demais, a caixa foi marcada à mão. As três fontes de cada tinta ficam em `tomcolors-up-fontes.json` (círculo, poça amostrada à mão e cartão). Cinco cores da UP (TCUP-09, 10, 13, 14 e 20) só aparecem no conjunto e não têm foto de cartão; ficam em `tomcolors-extras.json`: os dois vermelhos usam a poça (as fontes concordam nos vermelhos) e as três escuras e frias têm a cor **estimada** por regressão em Lab (poça → cartão, aprendida nas outras 18; erro típico de ΔE 7 a 20) e `aprox: "estimada"`. Brancos sobre fundo branco e as imagens sem amostra vão para
   `tomcolors-conferir.md`; as cores conferidas à mão ficam em `tomcolors-correcoes.json` e valem sobre a medida (também
   criam a cor das tintas sem amostra). Como o JPEG é decodificado pelo `ffmpeg`, ele precisa estar no `PATH`.
+- **Phoenix:** o site é um aplicativo React (Vite) e o catálogo inteiro está **embutido no JavaScript empacotado**
+  (`assets/index-*.js`) como um arranjo de objetos `{id, name, color, category, standard}`. O script baixa a página, acha o
+  arquivo, localiza o arranjo pelo primeiro objeto (`id:1`) e lê cada objeto sem executar o código. Não há imagens de
+  tinta: a cor é o hexadecimal que a loja escolheu (diferença mediana de ΔE 4,1 para o nosso FS 595, até 13, e 2,5 para o
+  RAL). Entram as 597 cores únicas dos 10 padrões; ficam de fora os pigmentos em pó e os sets. O **código** ganha o prefixo
+  do padrão (`FS 11136`, `RAL 1000`, `USN #5`); onde o site não traz código (Regia Aeronautica, IJN…), o nome é o código;
+  números FS repetidos com nomes diferentes entram no código. Toda cor existe em Duco e em poliéster (30 ou 60 ml, fosco,
+  acetinado ou brilhante), por isso há duas linhas de ingredientes. Se o site mudar a estrutura, o script avisa que não
+  achou o arquivo ou o arranjo.
 - **Equivalências:** os scripts da AK (págs. 16–22) e da AMMO (págs. 97–105) também leem as tabelas de conversão e
   gravam `ref` (referência de norma) e `equiv` (equivalências em outras marcas).
 

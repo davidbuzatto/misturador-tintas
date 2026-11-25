@@ -1,0 +1,3589 @@
+[
+ {
+  "code": "FS 11136",
+  "name": "Carmine Vine Red",
+  "line": "Federal Standard",
+  "hex": "#934041"
+ },
+ {
+  "code": "FS 11140",
+  "name": "Osha Safety Red",
+  "line": "Federal Standard",
+  "hex": "#a13c3f"
+ },
+ {
+  "code": "FS 11328",
+  "name": "Red",
+  "line": "Federal Standard",
+  "hex": "#b24f56"
+ },
+ {
+  "code": "FS 11302",
+  "name": "Orange Red",
+  "line": "Federal Standard",
+  "hex": "#be4d49"
+ },
+ {
+  "code": "FS 11350",
+  "name": "Coast Guard Buoy Red",
+  "line": "Federal Standard",
+  "hex": "#b03f43"
+ },
+ {
+  "code": "FS 20061",
+  "name": "Maroon (Hull Red)",
+  "line": "Federal Standard",
+  "hex": "#664949"
+ },
+ {
+  "code": "FS 20109",
+  "name": "Red Brown",
+  "line": "Federal Standard",
+  "hex": "#86534c"
+ },
+ {
+  "code": "FS 20122",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#75594a"
+ },
+ {
+  "code": "FS 20400",
+  "name": "Tan special",
+  "line": "Federal Standard",
+  "hex": "#cb9d77"
+ },
+ {
+  "code": "FS 30045",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#5b4a47"
+ },
+ {
+  "code": "FS 30108",
+  "name": "Red Brown",
+  "line": "Federal Standard",
+  "hex": "#5f463d"
+ },
+ {
+  "code": "FS 30118",
+  "name": "Dark Earth",
+  "line": "Federal Standard",
+  "hex": "#705b43"
+ },
+ {
+  "code": "FS 30140",
+  "name": "Brown special",
+  "line": "Federal Standard",
+  "hex": "#7c6150"
+ },
+ {
+  "code": "FS 30215 Brown (F-5B Senna)",
+  "name": "Brown (F-5B Senna)",
+  "line": "Federal Standard",
+  "hex": "#92674b"
+ },
+ {
+  "code": "FS 30219",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#937561"
+ },
+ {
+  "code": "FS 30227",
+  "name": "Field Drab",
+  "line": "Federal Standard",
+  "hex": "#9b8070"
+ },
+ {
+  "code": "FS 30233",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#9f7063"
+ },
+ {
+  "code": "FS 30257",
+  "name": "Earth Yellow (Israel, etc.)",
+  "line": "Federal Standard",
+  "hex": "#ba8a5d"
+ },
+ {
+  "code": "FS 30266",
+  "name": "Yellow Sand (RAF, etc.)",
+  "line": "Federal Standard",
+  "hex": "#a78255"
+ },
+ {
+  "code": "FS 30279 Sand/Pink tan",
+  "name": "Sand/Pink tan",
+  "line": "Federal Standard",
+  "hex": "#af9281"
+ },
+ {
+  "code": "FS 31136",
+  "name": "Intern. Red/Carc Aircraft Red",
+  "line": "Federal Standard",
+  "hex": "#92413e"
+ },
+ {
+  "code": "FS 31433",
+  "name": "Red Convés",
+  "line": "Federal Standard",
+  "hex": "#c59180"
+ },
+ {
+  "code": "FS 31667",
+  "name": "Tan",
+  "line": "Federal Standard",
+  "hex": "#e8c6a8"
+ },
+ {
+  "code": "FS 32169",
+  "name": "Orange (Fiery Red)",
+  "line": "Federal Standard",
+  "hex": "#ad5637"
+ },
+ {
+  "code": "FS 36440",
+  "name": "Light Gull Grey",
+  "line": "Federal Standard",
+  "hex": "#aeada3"
+ },
+ {
+  "code": "FS 36375 Medium Gray",
+  "name": "Medium Gray",
+  "line": "Federal Standard",
+  "hex": "#9aa4aa"
+ },
+ {
+  "code": "FS 13432",
+  "name": "Yellow",
+  "line": "Federal Standard",
+  "hex": "#ed9532"
+ },
+ {
+  "code": "FS 13523",
+  "name": "Tan",
+  "line": "Federal Standard",
+  "hex": "#d8b786"
+ },
+ {
+  "code": "FS 13613",
+  "name": "Buff",
+  "line": "Federal Standard",
+  "hex": "#e8c6a2"
+ },
+ {
+  "code": "FS 13538",
+  "name": "Amarelo (amarelo hélice)",
+  "line": "Federal Standard",
+  "hex": "#f39f20"
+ },
+ {
+  "code": "FS 13655",
+  "name": "Osha Safety Yellow (Esquadrilha)",
+  "line": "Federal Standard",
+  "hex": "#fdb31c"
+ },
+ {
+  "code": "FS 33070 Olive Drab CAMO",
+  "name": "Olive Drab CAMO",
+  "line": "Federal Standard",
+  "hex": "#564f3e"
+ },
+ {
+  "code": "FS 33105",
+  "name": "Field drab camouflage (A-10)",
+  "line": "Federal Standard",
+  "hex": "#715b42"
+ },
+ {
+  "code": "FS 33245",
+  "name": "Ochre (A-10)",
+  "line": "Federal Standard",
+  "hex": "#a67b53"
+ },
+ {
+  "code": "FS 14255",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#948664"
+ },
+ {
+  "code": "FS 24148",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#637776"
+ },
+ {
+  "code": "FS 24159",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#757b70"
+ },
+ {
+  "code": "FS 24201",
+  "name": "Green Special",
+  "line": "Federal Standard",
+  "hex": "#8a806d"
+ },
+ {
+  "code": "FS 34097",
+  "name": "Field green",
+  "line": "Federal Standard",
+  "hex": "#5d634a"
+ },
+ {
+  "code": "FS 34098",
+  "name": "IDF Green",
+  "line": "Federal Standard",
+  "hex": "#666143"
+ },
+ {
+  "code": "FS 34102",
+  "name": "Forest green",
+  "line": "Federal Standard",
+  "hex": "#5a5c46"
+ },
+ {
+  "code": "FS 34138",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#587649"
+ },
+ {
+  "code": "FS 34031",
+  "name": "Aircraft Green CAMO",
+  "line": "Federal Standard",
+  "hex": "#484743"
+ },
+ {
+  "code": "FS 14050",
+  "name": "Army Green, NATO Green",
+  "line": "Federal Standard",
+  "hex": "#4d504b"
+ },
+ {
+  "code": "FS 34052",
+  "name": "Dark Olive Green",
+  "line": "Federal Standard",
+  "hex": "#4c4e48"
+ },
+ {
+  "code": "FS 34064",
+  "name": "Dark green",
+  "line": "Federal Standard",
+  "hex": "#4c4c42"
+ },
+ {
+  "code": "FS 34079",
+  "name": "Army forest green",
+  "line": "Federal Standard",
+  "hex": "#555649"
+ },
+ {
+  "code": "FS 34080",
+  "name": "Field Green (P-40E FAB)",
+  "line": "Federal Standard",
+  "hex": "#545046"
+ },
+ {
+  "code": "FS 34082",
+  "name": "Dark Green CAMO",
+  "line": "Federal Standard",
+  "hex": "#585c44"
+ },
+ {
+  "code": "FS 34084",
+  "name": "Dark Green CAMO",
+  "line": "Federal Standard",
+  "hex": "#46443e"
+ },
+ {
+  "code": "FS 34087 Olive drab",
+  "name": "Olive drab",
+  "line": "Federal Standard",
+  "hex": "#544e42"
+ },
+ {
+  "code": "FS 34088",
+  "name": "Army Forest Green CAMO",
+  "line": "Federal Standard",
+  "hex": "#685f4d"
+ },
+ {
+  "code": "FS 34089",
+  "name": "Light green CAMO",
+  "line": "Federal Standard",
+  "hex": "#625f3b"
+ },
+ {
+  "code": "FS 34092",
+  "name": "Gunship Green - ANA 612",
+  "line": "Federal Standard",
+  "hex": "#4a5a52"
+ },
+ {
+  "code": "FS 34094",
+  "name": "Green 383 CAMO",
+  "line": "Federal Standard",
+  "hex": "#505546"
+ },
+ {
+  "code": "FS 34151",
+  "name": "Interior Green WW2",
+  "line": "Federal Standard",
+  "hex": "#68633c"
+ },
+ {
+  "code": "FS 34170",
+  "name": "Navair Flat Green #1",
+  "line": "Federal Standard",
+  "hex": "#616154"
+ },
+ {
+  "code": "FS 34227",
+  "name": "Pale Green",
+  "line": "Federal Standard",
+  "hex": "#7a8a6e"
+ },
+ {
+  "code": "FS 34424",
+  "name": "Light Grey Green",
+  "line": "Federal Standard",
+  "hex": "#abac95"
+ },
+ {
+  "code": "FS 34226",
+  "name": "Dark IDF Green",
+  "line": "Federal Standard",
+  "hex": "#7b8676"
+ },
+ {
+  "code": "FS 34258",
+  "name": "Medium Green",
+  "line": "Federal Standard",
+  "hex": "#82815a"
+ },
+ {
+  "code": "FS 34504",
+  "name": "\"Sky\" Green",
+  "line": "Federal Standard",
+  "hex": "#a0c4a0"
+ },
+ {
+  "code": "FS 34583",
+  "name": "Green Pale Sand",
+  "line": "Federal Standard",
+  "hex": "#b4b598"
+ },
+ {
+  "code": "Verde Suécia",
+  "name": "Verde Suécia",
+  "line": "Federal Standard",
+  "hex": "#6b8e6b"
+ },
+ {
+  "code": "FS 15056",
+  "name": "Blue (Esquadrilha da Fumaça T-27)",
+  "line": "Federal Standard",
+  "hex": "#364974"
+ },
+ {
+  "code": "FS 15090",
+  "name": "Dot Highway Blue",
+  "line": "Federal Standard",
+  "hex": "#215d79"
+ },
+ {
+  "code": "FS 15095",
+  "name": "Post Office Light Blue (Fumaça A-29)",
+  "line": "Federal Standard",
+  "hex": "#226da6"
+ },
+ {
+  "code": "FS 15102",
+  "name": "Osha Safety Blue",
+  "line": "Federal Standard",
+  "hex": "#2d698f"
+ },
+ {
+  "code": "FS 15125",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#00748a"
+ },
+ {
+  "code": "FS 15187",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#009bbe"
+ },
+ {
+  "code": "FS 15450",
+  "name": "Air Superiority Blue",
+  "line": "Federal Standard",
+  "hex": "#8ab9cc"
+ },
+ {
+  "code": "FS 25526",
+  "name": "Pastel Blue",
+  "line": "Federal Standard",
+  "hex": "#c6c3b7"
+ },
+ {
+  "code": "FS 25550",
+  "name": "Light Blue",
+  "line": "Federal Standard",
+  "hex": "#c6d8da"
+ },
+ {
+  "code": "FS 25630",
+  "name": "Light Blue",
+  "line": "Federal Standard",
+  "hex": "#d5d4cd"
+ },
+ {
+  "code": "FS 35042",
+  "name": "Sea Blue (USNavy WW2 navios)",
+  "line": "Federal Standard",
+  "hex": "#3e464a"
+ },
+ {
+  "code": "FS 35044",
+  "name": "Aircraft Insignia Blue",
+  "line": "Federal Standard",
+  "hex": "#393c49"
+ },
+ {
+  "code": "FS 15051",
+  "name": "RCAF Snowbird Blue",
+  "line": "Federal Standard",
+  "hex": "#335375"
+ },
+ {
+  "code": "FS 35052",
+  "name": "Sea Blue (F-4K Royal Navy)",
+  "line": "Federal Standard",
+  "hex": "#334f6b"
+ },
+ {
+  "code": "FS 35109",
+  "name": "Medium blue grey",
+  "line": "Federal Standard",
+  "hex": "#466b7e"
+ },
+ {
+  "code": "FS 35164",
+  "name": "Navy Intermediate Blue",
+  "line": "Federal Standard",
+  "hex": "#61727e"
+ },
+ {
+  "code": "FS 35189",
+  "name": "Blue grey USN",
+  "line": "Federal Standard",
+  "hex": "#6f868c"
+ },
+ {
+  "code": "FS 35190",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#5b8c9f"
+ },
+ {
+  "code": "FS 15200",
+  "name": "Sky Blue",
+  "line": "Federal Standard",
+  "hex": "#4eb7cb"
+ },
+ {
+  "code": "FS 35231",
+  "name": "Azure Blue",
+  "line": "Federal Standard",
+  "hex": "#698aad"
+ },
+ {
+  "code": "FS 35237",
+  "name": "Blue grey",
+  "line": "Federal Standard",
+  "hex": "#7a898e"
+ },
+ {
+  "code": "FS 35240",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#6e92b1"
+ },
+ {
+  "code": "FS 35260",
+  "name": "Forest Service Blue",
+  "line": "Federal Standard",
+  "hex": "#2babc9"
+ },
+ {
+  "code": "FS 35352",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#829c98"
+ },
+ {
+  "code": "FS 35450",
+  "name": "Air Superiority blue",
+  "line": "Federal Standard",
+  "hex": "#84b2c5"
+ },
+ {
+  "code": "FS 35526",
+  "name": "Light sky blue",
+  "line": "Federal Standard",
+  "hex": "#a4bbbe"
+ },
+ {
+  "code": "FS 35550",
+  "name": "Sky blue",
+  "line": "Federal Standard",
+  "hex": "#c5d8d9"
+ },
+ {
+  "code": "FS 35622",
+  "name": "Light blue",
+  "line": "Federal Standard",
+  "hex": "#c7d1c7"
+ },
+ {
+  "code": "FS 35630",
+  "name": "Blue",
+  "line": "Federal Standard",
+  "hex": "#d3d2ca"
+ },
+ {
+  "code": "PLA Navy Grey - Pale Grey",
+  "name": "PLA Navy Grey - Pale Grey",
+  "line": "Federal Standard",
+  "hex": "#a4a9ad"
+ },
+ {
+  "code": "IJN Grey (Marinha chinesa)",
+  "name": "IJN Grey (Marinha chinesa)",
+  "line": "Federal Standard",
+  "hex": "#8e9196"
+ },
+ {
+  "code": "FS 16473",
+  "name": "Aircraft Grey/NASA Grey",
+  "line": "Federal Standard",
+  "hex": "#a2aba8"
+ },
+ {
+  "code": "FS 26044",
+  "name": "Grey",
+  "line": "Federal Standard",
+  "hex": "#484e53"
+ },
+ {
+  "code": "FS 26118",
+  "name": "Medium Gunship Grey",
+  "line": "Federal Standard",
+  "hex": "#5d646b"
+ },
+ {
+  "code": "FS 26132",
+  "name": "Slate Grey",
+  "line": "Federal Standard",
+  "hex": "#6c6f72"
+ },
+ {
+  "code": "FS 36251",
+  "name": "Agressor grey",
+  "line": "Federal Standard",
+  "hex": "#828585"
+ },
+ {
+  "code": "FS 36270 Grey",
+  "name": "Grey",
+  "line": "Federal Standard",
+  "hex": "#84898c"
+ },
+ {
+  "code": "FS 36293",
+  "name": "Greenish blue",
+  "line": "Federal Standard",
+  "hex": "#898f90"
+ },
+ {
+  "code": "FS 36300",
+  "name": "Aircraft Grey CAMO",
+  "line": "Federal Standard",
+  "hex": "#90989f"
+ },
+ {
+  "code": "FS 36307",
+  "name": "Light sea grey",
+  "line": "Federal Standard",
+  "hex": "#96978f"
+ },
+ {
+  "code": "FS 36306",
+  "name": "Grey",
+  "line": "Federal Standard",
+  "hex": "#988e86"
+ },
+ {
+  "code": "FS 26173",
+  "name": "Ocean Grey",
+  "line": "Federal Standard",
+  "hex": "#7a8187"
+ },
+ {
+  "code": "FS 26176",
+  "name": "Dark Gull Grey",
+  "line": "Federal Standard",
+  "hex": "#767f88"
+ },
+ {
+  "code": "FS 26187",
+  "name": "Gray",
+  "line": "Federal Standard",
+  "hex": "#757d7e"
+ },
+ {
+  "code": "FS 26231",
+  "name": "Grey #23",
+  "line": "Federal Standard",
+  "hex": "#838889"
+ },
+ {
+  "code": "FS 26270",
+  "name": "Interior Haze Grey #27",
+  "line": "Federal Standard",
+  "hex": "#898f91"
+ },
+ {
+  "code": "FS 26280",
+  "name": "Gray (RAF, AMX FAB, etc.)",
+  "line": "Federal Standard",
+  "hex": "#8f938f"
+ },
+ {
+  "code": "FS 26307",
+  "name": "Light Grey USAF",
+  "line": "Federal Standard",
+  "hex": "#95968d"
+ },
+ {
+  "code": "FS 36081",
+  "name": "Dark Ghost Grey",
+  "line": "Federal Standard",
+  "hex": "#585a5a"
+ },
+ {
+  "code": "FS 36118",
+  "name": "Gunship grey CAMO",
+  "line": "Federal Standard",
+  "hex": "#5b6269"
+ },
+ {
+  "code": "FS 36170",
+  "name": "Navy Blue Grey CAMO",
+  "line": "Federal Standard",
+  "hex": "#6c6c6b"
+ },
+ {
+  "code": "FS 36173",
+  "name": "Ocean grey",
+  "line": "Federal Standard",
+  "hex": "#70787e"
+ },
+ {
+  "code": "FS 36176",
+  "name": "Dark Ghost grey",
+  "line": "Federal Standard",
+  "hex": "#6c7881"
+ },
+ {
+  "code": "FS 36231",
+  "name": "Dark Gull grey",
+  "line": "Federal Standard",
+  "hex": "#7e8385"
+ },
+ {
+  "code": "FS 36270 Neutral grey",
+  "name": "Neutral grey",
+  "line": "Federal Standard",
+  "hex": "#84898c"
+ },
+ {
+  "code": "FS 36280",
+  "name": "Dark Grey Blue",
+  "line": "Federal Standard",
+  "hex": "#898d8b"
+ },
+ {
+  "code": "FS 36314",
+  "name": "Grey",
+  "line": "Federal Standard",
+  "hex": "#8f9591"
+ },
+ {
+  "code": "FS 36320",
+  "name": "Dark compass ghost grey",
+  "line": "Federal Standard",
+  "hex": "#8a969e"
+ },
+ {
+  "code": "FS 36357",
+  "name": "Light grey",
+  "line": "Federal Standard",
+  "hex": "#9f9b8f"
+ },
+ {
+  "code": "FS 36373",
+  "name": "Light compass ghost grey",
+  "line": "Federal Standard",
+  "hex": "#9ca2a2"
+ },
+ {
+  "code": "FS 36375 Light Ghost Grey",
+  "name": "Light Ghost Grey",
+  "line": "Federal Standard",
+  "hex": "#9aa4aa"
+ },
+ {
+  "code": "FS 36463",
+  "name": "Light grey",
+  "line": "Federal Standard",
+  "hex": "#a5a9a8"
+ },
+ {
+  "code": "FS 36473",
+  "name": "Agressor grey",
+  "line": "Federal Standard",
+  "hex": "#9da8a6"
+ },
+ {
+  "code": "FS 36492",
+  "name": "Coast Guard Grey",
+  "line": "Federal Standard",
+  "hex": "#babab4"
+ },
+ {
+  "code": "FS 36495",
+  "name": "Light Grey",
+  "line": "Federal Standard",
+  "hex": "#c2c7c4"
+ },
+ {
+  "code": "FS 36622",
+  "name": "Light Grey / Off White",
+  "line": "Federal Standard",
+  "hex": "#c3c0b4"
+ },
+ {
+  "code": "FS 37875",
+  "name": "Insignia White",
+  "line": "Federal Standard",
+  "hex": "#e5e5d8"
+ },
+ {
+  "code": "FS 37778",
+  "name": "Off White",
+  "line": "Federal Standard",
+  "hex": "#e9dfc7"
+ },
+ {
+  "code": "FS 37886",
+  "name": "Off White (Deck)",
+  "line": "Federal Standard",
+  "hex": "#efe8d5"
+ },
+ {
+  "code": "FS 27875",
+  "name": "Off White/ Insignia white",
+  "line": "Federal Standard",
+  "hex": "#e9e9de"
+ },
+ {
+  "code": "FS 37925",
+  "name": "Light Gull Grey",
+  "line": "Federal Standard",
+  "hex": "#f1f0e3"
+ },
+ {
+  "code": "Aves Branco",
+  "name": "Aves Branco",
+  "line": "Federal Standard",
+  "hex": "#ffffff"
+ },
+ {
+  "code": "FS 17038",
+  "name": "Flat Black",
+  "line": "Federal Standard",
+  "hex": "#3a3a3a"
+ },
+ {
+  "code": "FS 27038",
+  "name": "Black",
+  "line": "Federal Standard",
+  "hex": "#3c3d3e"
+ },
+ {
+  "code": "FS 37038",
+  "name": "Black",
+  "line": "Federal Standard",
+  "hex": "#393a3a"
+ },
+ {
+  "code": "IJN Black",
+  "name": "IJN Black",
+  "line": "Federal Standard",
+  "hex": "#1c1c1c"
+ },
+ {
+  "code": "FS 10032",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#48403f"
+ },
+ {
+  "code": "FS 10055",
+  "name": "DoT Highway Brown",
+  "line": "Federal Standard",
+  "hex": "#6e4d40"
+ },
+ {
+  "code": "FS 10080",
+  "name": "Seal Brown, NASA Safety Brown",
+  "line": "Federal Standard",
+  "hex": "#635147"
+ },
+ {
+  "code": "FS 10091",
+  "name": "Dark Oak",
+  "line": "Federal Standard",
+  "hex": "#7f4c3f"
+ },
+ {
+  "code": "FS 10260",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#c9a36f"
+ },
+ {
+  "code": "FS 10324",
+  "name": "Tan",
+  "line": "Federal Standard",
+  "hex": "#af9384"
+ },
+ {
+  "code": "FS 12197",
+  "name": "International Orange",
+  "line": "Federal Standard",
+  "hex": "#c54f3b"
+ },
+ {
+  "code": "FS 12215",
+  "name": "Orange",
+  "line": "Federal Standard",
+  "hex": "#ce5e3e"
+ },
+ {
+  "code": "FS 12243",
+  "name": "Fluorescent Orange",
+  "line": "Federal Standard",
+  "hex": "#d76b3a"
+ },
+ {
+  "code": "FS 12246",
+  "name": "Orange",
+  "line": "Federal Standard",
+  "hex": "#d75c3c"
+ },
+ {
+  "code": "FS 13507",
+  "name": "Yellow",
+  "line": "Federal Standard",
+  "hex": "#fca629"
+ },
+ {
+  "code": "FS 13578",
+  "name": "Cream",
+  "line": "Federal Standard",
+  "hex": "#d8c2a1"
+ },
+ {
+  "code": "FS 13591",
+  "name": "Cream",
+  "line": "Federal Standard",
+  "hex": "#f3c138"
+ },
+ {
+  "code": "FS 13670",
+  "name": "Lime Yellow",
+  "line": "Federal Standard",
+  "hex": "#d9cc66"
+ },
+ {
+  "code": "FS 13695",
+  "name": "Fluorescent Yellow",
+  "line": "Federal Standard",
+  "hex": "#f3c885"
+ },
+ {
+  "code": "FS 14052",
+  "name": "USMC Green",
+  "line": "Federal Standard",
+  "hex": "#4d4e48"
+ },
+ {
+  "code": "FS 14062",
+  "name": "Marine Corps Green",
+  "line": "Federal Standard",
+  "hex": "#3e5848"
+ },
+ {
+  "code": "FS 14064",
+  "name": "Dark Green",
+  "line": "Federal Standard",
+  "hex": "#53514a"
+ },
+ {
+  "code": "FS 14079",
+  "name": "Forest Green",
+  "line": "Federal Standard",
+  "hex": "#56574c"
+ },
+ {
+  "code": "FS 14084",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#494742"
+ },
+ {
+  "code": "FS 34087 Olive Drab",
+  "name": "Olive Drab",
+  "line": "Federal Standard",
+  "hex": "#544e42"
+ },
+ {
+  "code": "FS 14090",
+  "name": "Army Green",
+  "line": "Federal Standard",
+  "hex": "#2d6e4f"
+ },
+ {
+  "code": "FS 34095",
+  "name": "Field Green",
+  "line": "Federal Standard",
+  "hex": "#52553f"
+ },
+ {
+  "code": "FS 14110",
+  "name": "Dark Green",
+  "line": "Federal Standard",
+  "hex": "#446b48"
+ },
+ {
+  "code": "FS 14115",
+  "name": "Interior Green",
+  "line": "Federal Standard",
+  "hex": "#35765b"
+ },
+ {
+  "code": "FS 14120",
+  "name": "Forest Green",
+  "line": "Federal Standard",
+  "hex": "#0c7d60"
+ },
+ {
+  "code": "FS 14187 Dark Blue Green",
+  "name": "Dark Blue Green",
+  "line": "Federal Standard",
+  "hex": "#5b7b43"
+ },
+ {
+  "code": "FS 14193",
+  "name": "Coast Guard Green",
+  "line": "Federal Standard",
+  "hex": "#369156"
+ },
+ {
+  "code": "FS 14260",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#689a7d"
+ },
+ {
+  "code": "FS 15044",
+  "name": "Navy Blue",
+  "line": "Federal Standard",
+  "hex": "#3d444d"
+ },
+ {
+  "code": "FS 15050",
+  "name": "Sea Blue",
+  "line": "Federal Standard",
+  "hex": "#394d62"
+ },
+ {
+  "code": "FS 15052",
+  "name": "Insignia Blue",
+  "line": "Federal Standard",
+  "hex": "#325274"
+ },
+ {
+  "code": "FS 15065",
+  "name": "Peacock Blue",
+  "line": "Federal Standard",
+  "hex": "#1d6081"
+ },
+ {
+  "code": "FS 15109",
+  "name": "Mariner Blue",
+  "line": "Federal Standard",
+  "hex": "#507181"
+ },
+ {
+  "code": "FS 15177",
+  "name": "Postal Blue",
+  "line": "Federal Standard",
+  "hex": "#5b8195"
+ },
+ {
+  "code": "FS 15180",
+  "name": "Cyan Blue",
+  "line": "Federal Standard",
+  "hex": "#1c76a7"
+ },
+ {
+  "code": "FS 16099",
+  "name": "Dark Grey",
+  "line": "Federal Standard",
+  "hex": "#5a6266"
+ },
+ {
+  "code": "FS 16160",
+  "name": "Camouflage Grey",
+  "line": "Federal Standard",
+  "hex": "#867259"
+ },
+ {
+  "code": "FS 16165",
+  "name": "Gray Green",
+  "line": "Federal Standard",
+  "hex": "#787467"
+ },
+ {
+  "code": "FS 16187",
+  "name": "Mechanic Gray",
+  "line": "Federal Standard",
+  "hex": "#767e7f"
+ },
+ {
+  "code": "FS 16251",
+  "name": "Aggressor Grey",
+  "line": "Federal Standard",
+  "hex": "#86898a"
+ },
+ {
+  "code": "FS 16307",
+  "name": "Light Grey",
+  "line": "Federal Standard",
+  "hex": "#969890"
+ },
+ {
+  "code": "FS 16350",
+  "name": "Camouflage Grey",
+  "line": "Federal Standard",
+  "hex": "#958c7a"
+ },
+ {
+  "code": "FS 16376",
+  "name": "Light Grey",
+  "line": "Federal Standard",
+  "hex": "#a1a299"
+ },
+ {
+  "code": "FS 16440",
+  "name": "Gull Grey",
+  "line": "Federal Standard",
+  "hex": "#b5b4ac"
+ },
+ {
+  "code": "FS 17142",
+  "name": "Insignia Red",
+  "line": "Federal Standard",
+  "hex": "#935e83"
+ },
+ {
+  "code": "FS 17178",
+  "name": "Brick Red",
+  "line": "Federal Standard",
+  "hex": "#c3c6c8"
+ },
+ {
+  "code": "FS 17855",
+  "name": "Deck Grey",
+  "line": "Federal Standard",
+  "hex": "#ecdcbb"
+ },
+ {
+  "code": "FS 17875",
+  "name": "Insignia White",
+  "line": "Federal Standard",
+  "hex": "#e8e8dd"
+ },
+ {
+  "code": "FS 17100",
+  "name": "Purple",
+  "line": "Federal Standard",
+  "hex": "#6d5675"
+ },
+ {
+  "code": "FS 20059",
+  "name": "Hull Red",
+  "line": "Federal Standard",
+  "hex": "#5e4e4a"
+ },
+ {
+  "code": "FS 20152",
+  "name": "Maroon",
+  "line": "Federal Standard",
+  "hex": "#8e5049"
+ },
+ {
+  "code": "FS 21105",
+  "name": "Radiant Orange",
+  "line": "Federal Standard",
+  "hex": "#9a3f3f"
+ },
+ {
+  "code": "FS 22190",
+  "name": "Orange Red",
+  "line": "Federal Standard",
+  "hex": "#cf4a3c"
+ },
+ {
+  "code": "FS 22246",
+  "name": "Orange",
+  "line": "Federal Standard",
+  "hex": "#d95e3c"
+ },
+ {
+  "code": "FS 23538",
+  "name": "Insignia Yellow",
+  "line": "Federal Standard",
+  "hex": "#f3a125"
+ },
+ {
+  "code": "FS 24052",
+  "name": "Forest Green",
+  "line": "Federal Standard",
+  "hex": "#4d4e49"
+ },
+ {
+  "code": "FS 24064",
+  "name": "Dark Green",
+  "line": "Federal Standard",
+  "hex": "#54524a"
+ },
+ {
+  "code": "FS 24079",
+  "name": "Forest Green",
+  "line": "Federal Standard",
+  "hex": "#55574d"
+ },
+ {
+  "code": "FS 34090",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#1f6a49"
+ },
+ {
+  "code": "FS 34108",
+  "name": "Medium Green",
+  "line": "Federal Standard",
+  "hex": "#476654"
+ },
+ {
+  "code": "FS 14187 Oxygen Tank Green",
+  "name": "Oxygen Tank Green",
+  "line": "Federal Standard",
+  "hex": "#5b7b43"
+ },
+ {
+  "code": "FS 24260",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#67977b"
+ },
+ {
+  "code": "FS 24516",
+  "name": "Green",
+  "line": "Federal Standard",
+  "hex": "#b3c4b3"
+ },
+ {
+  "code": "FS 30037",
+  "name": "Bark Brown",
+  "line": "Federal Standard",
+  "hex": "#584e4c"
+ },
+ {
+  "code": "FS 33538",
+  "name": "Yellow International",
+  "line": "Federal Standard",
+  "hex": "#f6a11d"
+ },
+ {
+  "code": "FS 30097",
+  "name": "Earth Brown",
+  "line": "Federal Standard",
+  "hex": "#625143"
+ },
+ {
+  "code": "FS 30099",
+  "name": "Earth Brown",
+  "line": "Federal Standard",
+  "hex": "#69574a"
+ },
+ {
+  "code": "FS 30117",
+  "name": "Wood Brown",
+  "line": "Federal Standard",
+  "hex": "#805d4d"
+ },
+ {
+  "code": "FS 30215 Brown",
+  "name": "Brown",
+  "line": "Federal Standard",
+  "hex": "#92674b"
+ },
+ {
+  "code": "FS 30145",
+  "name": "Desert Tan",
+  "line": "Federal Standard",
+  "hex": "#7f634b"
+ },
+ {
+  "code": "FS 30160",
+  "name": "Earth Brown",
+  "line": "Federal Standard",
+  "hex": "#774650"
+ },
+ {
+  "code": "FS 30277",
+  "name": "Tan",
+  "line": "Federal Standard",
+  "hex": "#9d8b72"
+ },
+ {
+  "code": "FS 30279 Desert Sand",
+  "name": "Desert Sand",
+  "line": "Federal Standard",
+  "hex": "#af9281"
+ },
+ {
+  "code": "FS 30372",
+  "name": "Light Tan",
+  "line": "Federal Standard",
+  "hex": "#ab9985"
+ },
+ {
+  "code": "FS 30475",
+  "name": "Tan",
+  "line": "Federal Standard",
+  "hex": "#caa888"
+ },
+ {
+  "code": "FS 33070 Olive Drab",
+  "name": "Olive Drab",
+  "line": "Federal Standard",
+  "hex": "#564f3e"
+ },
+ {
+  "code": "FS 33275",
+  "name": "Tan Camouflage",
+  "line": "Federal Standard",
+  "hex": "#b98031"
+ },
+ {
+  "code": "FS 33303",
+  "name": "Sand Camouflage",
+  "line": "Federal Standard",
+  "hex": "#a29074"
+ },
+ {
+  "code": "FS 33448",
+  "name": "Medium Buff",
+  "line": "Federal Standard",
+  "hex": "#bb9e7b"
+ },
+ {
+  "code": "FS 33481",
+  "name": "Wheat",
+  "line": "Federal Standard",
+  "hex": "#caa64a"
+ },
+ {
+  "code": "FS 33510",
+  "name": "Egg Shell",
+  "line": "Federal Standard",
+  "hex": "#c0ab90"
+ },
+ {
+  "code": "FS 33531",
+  "name": "Sand",
+  "line": "Federal Standard",
+  "hex": "#cab49e"
+ },
+ {
+  "code": "FS 33617",
+  "name": "Cream",
+  "line": "Federal Standard",
+  "hex": "#d4bea3"
+ },
+ {
+  "code": "FS 33637",
+  "name": "Parchment",
+  "line": "Federal Standard",
+  "hex": "#e1a125"
+ },
+ {
+  "code": "FS 33655",
+  "name": "Pale Yellow",
+  "line": "Federal Standard",
+  "hex": "#fbb000"
+ },
+ {
+  "code": "FS 33690",
+  "name": "Fluorescent Yellow",
+  "line": "Federal Standard",
+  "hex": "#e1cbab"
+ },
+ {
+  "code": "FS 33711",
+  "name": "Beige",
+  "line": "Federal Standard",
+  "hex": "#e7c9a6"
+ },
+ {
+  "code": "FS 37722",
+  "name": "Gloss Grey",
+  "line": "Federal Standard",
+  "hex": "#dad3c4"
+ },
+ {
+  "code": "FS 38901",
+  "name": "Fluorescent Green",
+  "line": "Federal Standard",
+  "hex": "#16a042"
+ },
+ {
+  "code": "RLM 00",
+  "name": "Transparent",
+  "line": "RLM",
+  "hex": "#fafafa",
+  "finish": "Clear"
+ },
+ {
+  "code": "RLM 01",
+  "name": "Silber",
+  "line": "RLM",
+  "hex": "#c0c0c0",
+  "finish": "Metallic"
+ },
+ {
+  "code": "RLM 02",
+  "name": "Grau",
+  "line": "RLM",
+  "hex": "#8b8b7a"
+ },
+ {
+  "code": "RLM 04",
+  "name": "Gelb",
+  "line": "RLM",
+  "hex": "#e5b700"
+ },
+ {
+  "code": "RLM 21",
+  "name": "Weiss",
+  "line": "RLM",
+  "hex": "#f5f5f5"
+ },
+ {
+  "code": "RLM 22",
+  "name": "Schwarz",
+  "line": "RLM",
+  "hex": "#1a1a1a"
+ },
+ {
+  "code": "RLM 23",
+  "name": "Rot",
+  "line": "RLM",
+  "hex": "#9e2a2b"
+ },
+ {
+  "code": "RLM 24",
+  "name": "Dunkelblau",
+  "line": "RLM",
+  "hex": "#1e3a5f"
+ },
+ {
+  "code": "RLM 25",
+  "name": "Hellgrün",
+  "line": "RLM",
+  "hex": "#8fbc8f"
+ },
+ {
+  "code": "RLM 26",
+  "name": "Braun",
+  "line": "RLM",
+  "hex": "#5c4033"
+ },
+ {
+  "code": "RLM 27",
+  "name": "Gelb",
+  "line": "RLM",
+  "hex": "#f5d033"
+ },
+ {
+  "code": "RLM 61",
+  "name": "Dunkelbraun",
+  "line": "RLM",
+  "hex": "#5c4033"
+ },
+ {
+  "code": "RLM 62",
+  "name": "Grün",
+  "line": "RLM",
+  "hex": "#4a5d23"
+ },
+ {
+  "code": "RLM 63",
+  "name": "Hellgrau",
+  "line": "RLM",
+  "hex": "#a9a9a9"
+ },
+ {
+  "code": "RLM 65",
+  "name": "Hellblau",
+  "line": "RLM",
+  "hex": "#87ceeb"
+ },
+ {
+  "code": "RLM 66",
+  "name": "Schwarzgrau",
+  "line": "RLM",
+  "hex": "#4a4a4a"
+ },
+ {
+  "code": "RLM 70",
+  "name": "Schwarzgrün",
+  "line": "RLM",
+  "hex": "#2d3129"
+ },
+ {
+  "code": "RLM 71",
+  "name": "Dunkelgrün",
+  "line": "RLM",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "RLM 72",
+  "name": "Grün",
+  "line": "RLM",
+  "hex": "#4a5240"
+ },
+ {
+  "code": "RLM 73",
+  "name": "Grün",
+  "line": "RLM",
+  "hex": "#556b2f"
+ },
+ {
+  "code": "RLM 74",
+  "name": "Graugrün",
+  "line": "RLM",
+  "hex": "#5a6352"
+ },
+ {
+  "code": "RLM 75",
+  "name": "Grauviolett",
+  "line": "RLM",
+  "hex": "#6b6b7a"
+ },
+ {
+  "code": "RLM 76",
+  "name": "Lichtblau",
+  "line": "RLM",
+  "hex": "#b4d7e8"
+ },
+ {
+  "code": "RLM 77",
+  "name": "Hellgrau",
+  "line": "RLM",
+  "hex": "#c5c5c5"
+ },
+ {
+  "code": "RLM 78",
+  "name": "Hellblau",
+  "line": "RLM",
+  "hex": "#add8e6"
+ },
+ {
+  "code": "RLM 79",
+  "name": "Sandgelb",
+  "line": "RLM",
+  "hex": "#c4a661"
+ },
+ {
+  "code": "RLM 80",
+  "name": "Olivgrün",
+  "line": "RLM",
+  "hex": "#6b5f2e"
+ },
+ {
+  "code": "RLM 81",
+  "name": "Braunviolett",
+  "line": "RLM",
+  "hex": "#5c4a4a"
+ },
+ {
+  "code": "RLM 82",
+  "name": "Hellgrün",
+  "line": "RLM",
+  "hex": "#6b7355"
+ },
+ {
+  "code": "RLM 83",
+  "name": "Dunkelgrün",
+  "line": "RLM",
+  "hex": "#3a4230"
+ },
+ {
+  "code": "RLM 84",
+  "name": "Graublau",
+  "line": "RLM",
+  "hex": "#6d8b9c"
+ },
+ {
+  "code": "BS 381C 102",
+  "name": "Light Blue",
+  "line": "British Standard",
+  "hex": "#87ceeb"
+ },
+ {
+  "code": "BS 381C 104",
+  "name": "Azure Blue",
+  "line": "British Standard",
+  "hex": "#4a90b5"
+ },
+ {
+  "code": "BS 381C 108",
+  "name": "Aircraft Blue",
+  "line": "British Standard",
+  "hex": "#1f3a5f"
+ },
+ {
+  "code": "BS 381C 110",
+  "name": "Roundel Blue",
+  "line": "British Standard",
+  "hex": "#14517b"
+ },
+ {
+  "code": "BS 381C 216",
+  "name": "Olive Drab",
+  "line": "British Standard",
+  "hex": "#6b5f2e"
+ },
+ {
+  "code": "BS 381C 220",
+  "name": "Dark Olive",
+  "line": "British Standard",
+  "hex": "#3a4230"
+ },
+ {
+  "code": "BS 381C 241",
+  "name": "Dark Green",
+  "line": "British Standard",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "BS 381C 283",
+  "name": "Aircraft Grey Green",
+  "line": "British Standard",
+  "hex": "#5a6352"
+ },
+ {
+  "code": "BS 381C 298",
+  "name": "Olive Drab",
+  "line": "British Standard",
+  "hex": "#6b5b3d"
+ },
+ {
+  "code": "BS 381C 350",
+  "name": "Dark Earth",
+  "line": "British Standard",
+  "hex": "#6b4423"
+ },
+ {
+  "code": "BS 381C 361",
+  "name": "Light Stone",
+  "line": "British Standard",
+  "hex": "#d4b896"
+ },
+ {
+  "code": "BS 381C 388",
+  "name": "Beige",
+  "line": "British Standard",
+  "hex": "#c9b896"
+ },
+ {
+  "code": "BS 381C 450",
+  "name": "Dark Earth",
+  "line": "British Standard",
+  "hex": "#5c4033"
+ },
+ {
+  "code": "BS 381C 499",
+  "name": "Dark Stone",
+  "line": "British Standard",
+  "hex": "#87714d"
+ },
+ {
+  "code": "BS 381C 538",
+  "name": "Post Office Red",
+  "line": "British Standard",
+  "hex": "#9e2a2b"
+ },
+ {
+  "code": "BS 381C 627",
+  "name": "Light Aircraft Grey",
+  "line": "British Standard",
+  "hex": "#a9a9a9"
+ },
+ {
+  "code": "BS 381C 629",
+  "name": "Dark Camouflage Grey",
+  "line": "British Standard",
+  "hex": "#5a6169"
+ },
+ {
+  "code": "BS 381C 632",
+  "name": "Dark Admiralty Grey",
+  "line": "British Standard",
+  "hex": "#4a5660"
+ },
+ {
+  "code": "BS 381C 634",
+  "name": "Slate",
+  "line": "British Standard",
+  "hex": "#6b7075"
+ },
+ {
+  "code": "BS 381C 636",
+  "name": "Medium Grey",
+  "line": "British Standard",
+  "hex": "#767d84"
+ },
+ {
+  "code": "BS 381C 637",
+  "name": "Light Grey",
+  "line": "British Standard",
+  "hex": "#9ca5ab"
+ },
+ {
+  "code": "BS 381C 638",
+  "name": "Dark Sea Grey",
+  "line": "British Standard",
+  "hex": "#636b73"
+ },
+ {
+  "code": "BS 381C 639",
+  "name": "Light Slate Grey",
+  "line": "British Standard",
+  "hex": "#8d959d"
+ },
+ {
+  "code": "BS 381C 640",
+  "name": "Extra Dark Sea Grey",
+  "line": "British Standard",
+  "hex": "#4b4f54"
+ },
+ {
+  "code": "BS 381C 642",
+  "name": "Night",
+  "line": "British Standard",
+  "hex": "#1a1a1a"
+ },
+ {
+  "code": "BS 381C 693",
+  "name": "Aircraft Grey",
+  "line": "British Standard",
+  "hex": "#8b9095"
+ },
+ {
+  "code": "RAL 1000",
+  "name": "Grünbeige",
+  "line": "RAL",
+  "hex": "#ccc58f"
+ },
+ {
+  "code": "RAL 1001",
+  "name": "Beige",
+  "line": "RAL",
+  "hex": "#d1bc8a"
+ },
+ {
+  "code": "RAL 1002",
+  "name": "Sandgelb",
+  "line": "RAL",
+  "hex": "#d2aa6d"
+ },
+ {
+  "code": "RAL 1003",
+  "name": "Signalgelb",
+  "line": "RAL",
+  "hex": "#f9a800"
+ },
+ {
+  "code": "RAL 1004",
+  "name": "Goldgelb",
+  "line": "RAL",
+  "hex": "#e49e00"
+ },
+ {
+  "code": "RAL 1005",
+  "name": "Honiggelb",
+  "line": "RAL",
+  "hex": "#cb8e00"
+ },
+ {
+  "code": "RAL 1006",
+  "name": "Maisgelb",
+  "line": "RAL",
+  "hex": "#e29000"
+ },
+ {
+  "code": "RAL 1007",
+  "name": "Narzissengelb",
+  "line": "RAL",
+  "hex": "#e88c00"
+ },
+ {
+  "code": "RAL 1011",
+  "name": "Braunbeige",
+  "line": "RAL",
+  "hex": "#af804f"
+ },
+ {
+  "code": "RAL 1012",
+  "name": "Zitronengelb",
+  "line": "RAL",
+  "hex": "#ddaf27"
+ },
+ {
+  "code": "RAL 1013",
+  "name": "Perlweiß",
+  "line": "RAL",
+  "hex": "#e3d9c6"
+ },
+ {
+  "code": "RAL 1014",
+  "name": "Elfenbein",
+  "line": "RAL",
+  "hex": "#ddc49a"
+ },
+ {
+  "code": "RAL 1015",
+  "name": "Hellelfenbein",
+  "line": "RAL",
+  "hex": "#e6d2b5"
+ },
+ {
+  "code": "RAL 1016",
+  "name": "Schwefelgelb",
+  "line": "RAL",
+  "hex": "#f1dd38"
+ },
+ {
+  "code": "RAL 1017",
+  "name": "Safrangelb",
+  "line": "RAL",
+  "hex": "#f6a950"
+ },
+ {
+  "code": "RAL 1018",
+  "name": "Zinkgelb",
+  "line": "RAL",
+  "hex": "#faca30"
+ },
+ {
+  "code": "RAL 1019",
+  "name": "Graubeige",
+  "line": "RAL",
+  "hex": "#a4957d"
+ },
+ {
+  "code": "RAL 1020",
+  "name": "Olivgelb",
+  "line": "RAL",
+  "hex": "#9a9464"
+ },
+ {
+  "code": "RAL 1021",
+  "name": "Rapsgelb",
+  "line": "RAL",
+  "hex": "#eec900"
+ },
+ {
+  "code": "RAL 2000",
+  "name": "Gelborange",
+  "line": "RAL",
+  "hex": "#dd7907"
+ },
+ {
+  "code": "RAL 2001",
+  "name": "Rotorange",
+  "line": "RAL",
+  "hex": "#be4e20"
+ },
+ {
+  "code": "RAL 2002",
+  "name": "Blutorange",
+  "line": "RAL",
+  "hex": "#c63927"
+ },
+ {
+  "code": "RAL 2003",
+  "name": "Pastellorange",
+  "line": "RAL",
+  "hex": "#fa842b"
+ },
+ {
+  "code": "RAL 2004",
+  "name": "Reinorange",
+  "line": "RAL",
+  "hex": "#e75b12"
+ },
+ {
+  "code": "RAL 3000",
+  "name": "Feuerrot",
+  "line": "RAL",
+  "hex": "#ab2524"
+ },
+ {
+  "code": "RAL 3001",
+  "name": "Signalrot",
+  "line": "RAL",
+  "hex": "#a02128"
+ },
+ {
+  "code": "RAL 3002",
+  "name": "Karminrot",
+  "line": "RAL",
+  "hex": "#a1232b"
+ },
+ {
+  "code": "RAL 3003",
+  "name": "Rubinrot",
+  "line": "RAL",
+  "hex": "#8d1d2c"
+ },
+ {
+  "code": "RAL 3004",
+  "name": "Purpurrot",
+  "line": "RAL",
+  "hex": "#701f29"
+ },
+ {
+  "code": "RAL 3005",
+  "name": "Weinrot",
+  "line": "RAL",
+  "hex": "#5e2028"
+ },
+ {
+  "code": "RAL 4001",
+  "name": "Rotlila",
+  "line": "RAL",
+  "hex": "#816183"
+ },
+ {
+  "code": "RAL 5000",
+  "name": "Violettblau",
+  "line": "RAL",
+  "hex": "#384c70"
+ },
+ {
+  "code": "RAL 5001",
+  "name": "Grünblau",
+  "line": "RAL",
+  "hex": "#1f4764"
+ },
+ {
+  "code": "RAL 5002",
+  "name": "Ultramarinblau",
+  "line": "RAL",
+  "hex": "#2b2c7c"
+ },
+ {
+  "code": "RAL 5003",
+  "name": "Saphirblau",
+  "line": "RAL",
+  "hex": "#2a3756"
+ },
+ {
+  "code": "RAL 5004",
+  "name": "Schwarzblau",
+  "line": "RAL",
+  "hex": "#1d1f2a"
+ },
+ {
+  "code": "RAL 5005",
+  "name": "Signalblau",
+  "line": "RAL",
+  "hex": "#154889"
+ },
+ {
+  "code": "RAL 5007",
+  "name": "Brillantblau",
+  "line": "RAL",
+  "hex": "#41678d"
+ },
+ {
+  "code": "RAL 5008",
+  "name": "Graublau",
+  "line": "RAL",
+  "hex": "#313c48"
+ },
+ {
+  "code": "RAL 5009",
+  "name": "Azurblau",
+  "line": "RAL",
+  "hex": "#2e5978"
+ },
+ {
+  "code": "RAL 5010",
+  "name": "Enzianblau",
+  "line": "RAL",
+  "hex": "#13447c"
+ },
+ {
+  "code": "RAL 5011",
+  "name": "Stahlblau",
+  "line": "RAL",
+  "hex": "#232c3f"
+ },
+ {
+  "code": "RAL 5012",
+  "name": "Lichtblau",
+  "line": "RAL",
+  "hex": "#3481b8"
+ },
+ {
+  "code": "RAL 5013",
+  "name": "Kobaltblau",
+  "line": "RAL",
+  "hex": "#232d53"
+ },
+ {
+  "code": "RAL 5014",
+  "name": "Taubenblau",
+  "line": "RAL",
+  "hex": "#6c7c98"
+ },
+ {
+  "code": "RAL 5015",
+  "name": "Himmelblau",
+  "line": "RAL",
+  "hex": "#2874b2"
+ },
+ {
+  "code": "RAL 5017",
+  "name": "Verkehrsblau",
+  "line": "RAL",
+  "hex": "#0e518d"
+ },
+ {
+  "code": "RAL 5018",
+  "name": "Türkisblau",
+  "line": "RAL",
+  "hex": "#21888f"
+ },
+ {
+  "code": "RAL 5019",
+  "name": "Capriblau",
+  "line": "RAL",
+  "hex": "#1a5784"
+ },
+ {
+  "code": "RAL 5020",
+  "name": "Ozeanblau",
+  "line": "RAL",
+  "hex": "#0b4151"
+ },
+ {
+  "code": "RAL 5021",
+  "name": "Wasserblau",
+  "line": "RAL",
+  "hex": "#07737a"
+ },
+ {
+  "code": "RAL 5022",
+  "name": "Nachtblau",
+  "line": "RAL",
+  "hex": "#2f2a5a"
+ },
+ {
+  "code": "RAL 5023",
+  "name": "Fernblau",
+  "line": "RAL",
+  "hex": "#4d668e"
+ },
+ {
+  "code": "RAL 5024",
+  "name": "Pastellblau",
+  "line": "RAL",
+  "hex": "#6a93b0"
+ },
+ {
+  "code": "RAL 6000",
+  "name": "Patinagrün",
+  "line": "RAL",
+  "hex": "#587246"
+ },
+ {
+  "code": "RAL 6001",
+  "name": "Smaragdgrün",
+  "line": "RAL",
+  "hex": "#366735"
+ },
+ {
+  "code": "RAL 6002",
+  "name": "Laubgrün",
+  "line": "RAL",
+  "hex": "#325928"
+ },
+ {
+  "code": "RAL 6003",
+  "name": "Olivgrün",
+  "line": "RAL",
+  "hex": "#50533c"
+ },
+ {
+  "code": "RAL 6004",
+  "name": "Blaugrün",
+  "line": "RAL",
+  "hex": "#024442"
+ },
+ {
+  "code": "RAL 6005",
+  "name": "Moosgrün",
+  "line": "RAL",
+  "hex": "#114232"
+ },
+ {
+  "code": "RAL 6006",
+  "name": "Grauoliv",
+  "line": "RAL",
+  "hex": "#3c392e"
+ },
+ {
+  "code": "RAL 6007",
+  "name": "Flaschengrün",
+  "line": "RAL",
+  "hex": "#2c3222"
+ },
+ {
+  "code": "RAL 6008",
+  "name": "Braungrün",
+  "line": "RAL",
+  "hex": "#37342a"
+ },
+ {
+  "code": "RAL 6009",
+  "name": "Tannengrün",
+  "line": "RAL",
+  "hex": "#27352a"
+ },
+ {
+  "code": "RAL 6010",
+  "name": "Grasgrün",
+  "line": "RAL",
+  "hex": "#4d6f39"
+ },
+ {
+  "code": "RAL 6011",
+  "name": "Resedagrün",
+  "line": "RAL",
+  "hex": "#6b7c59"
+ },
+ {
+  "code": "RAL 6012",
+  "name": "Schwarzgrün",
+  "line": "RAL",
+  "hex": "#2d3a35"
+ },
+ {
+  "code": "RAL 6013",
+  "name": "Schilfgrün",
+  "line": "RAL",
+  "hex": "#7c765a"
+ },
+ {
+  "code": "RAL 6014",
+  "name": "Gelboliv",
+  "line": "RAL",
+  "hex": "#474135"
+ },
+ {
+  "code": "RAL 6015",
+  "name": "Schwarzoliv",
+  "line": "RAL",
+  "hex": "#3d3d36"
+ },
+ {
+  "code": "RAL 6016",
+  "name": "Türkisgrün",
+  "line": "RAL",
+  "hex": "#026a52"
+ },
+ {
+  "code": "RAL 6017",
+  "name": "Maigrün",
+  "line": "RAL",
+  "hex": "#587f40"
+ },
+ {
+  "code": "RAL 6018",
+  "name": "Gelbgrün",
+  "line": "RAL",
+  "hex": "#61993b"
+ },
+ {
+  "code": "RAL 6019",
+  "name": "Weißgrün",
+  "line": "RAL",
+  "hex": "#b7d9b1"
+ },
+ {
+  "code": "RAL 6020",
+  "name": "Chromoxidgrün",
+  "line": "RAL",
+  "hex": "#354733"
+ },
+ {
+  "code": "RAL 6021",
+  "name": "Blassgrün",
+  "line": "RAL",
+  "hex": "#86a47c"
+ },
+ {
+  "code": "RAL 6022",
+  "name": "Braunoliv",
+  "line": "RAL",
+  "hex": "#3e3c32"
+ },
+ {
+  "code": "RAL 6024",
+  "name": "Verkehrsgrün",
+  "line": "RAL",
+  "hex": "#008754"
+ },
+ {
+  "code": "RAL 6025",
+  "name": "Farngrün",
+  "line": "RAL",
+  "hex": "#5e6e3b"
+ },
+ {
+  "code": "RAL 6026",
+  "name": "Opalgrün",
+  "line": "RAL",
+  "hex": "#005d52"
+ },
+ {
+  "code": "RAL 6027",
+  "name": "Lichtgrün",
+  "line": "RAL",
+  "hex": "#7ebab5"
+ },
+ {
+  "code": "RAL 6028",
+  "name": "Kieferngrün",
+  "line": "RAL",
+  "hex": "#2d5546"
+ },
+ {
+  "code": "RAL 6029",
+  "name": "Minzgrün",
+  "line": "RAL",
+  "hex": "#007243"
+ },
+ {
+  "code": "RAL 7000",
+  "name": "Fehgrau",
+  "line": "RAL",
+  "hex": "#7e8b92"
+ },
+ {
+  "code": "RAL 7001",
+  "name": "Silbergrau",
+  "line": "RAL",
+  "hex": "#8f999f"
+ },
+ {
+  "code": "RAL 7002",
+  "name": "Olivgrau",
+  "line": "RAL",
+  "hex": "#817f68"
+ },
+ {
+  "code": "RAL 7003",
+  "name": "Moosgrau",
+  "line": "RAL",
+  "hex": "#7a7b6d"
+ },
+ {
+  "code": "RAL 7004",
+  "name": "Signalgrau",
+  "line": "RAL",
+  "hex": "#9ea0a1"
+ },
+ {
+  "code": "RAL 7005",
+  "name": "Mausgrau",
+  "line": "RAL",
+  "hex": "#6b716f"
+ },
+ {
+  "code": "RAL 7006",
+  "name": "Beigegrau",
+  "line": "RAL",
+  "hex": "#756f61"
+ },
+ {
+  "code": "RAL 7008",
+  "name": "Khakigrau",
+  "line": "RAL",
+  "hex": "#745e3d"
+ },
+ {
+  "code": "RAL 7009",
+  "name": "Grüngrau",
+  "line": "RAL",
+  "hex": "#5b6259"
+ },
+ {
+  "code": "RAL 7010",
+  "name": "Zeltgrau",
+  "line": "RAL",
+  "hex": "#575d57"
+ },
+ {
+  "code": "RAL 7011",
+  "name": "Eisengrau",
+  "line": "RAL",
+  "hex": "#555d61"
+ },
+ {
+  "code": "RAL 7012",
+  "name": "Basaltgrau",
+  "line": "RAL",
+  "hex": "#596163"
+ },
+ {
+  "code": "RAL 7013",
+  "name": "Braungrau",
+  "line": "RAL",
+  "hex": "#575044"
+ },
+ {
+  "code": "RAL 7015",
+  "name": "Schiefergrau",
+  "line": "RAL",
+  "hex": "#51565c"
+ },
+ {
+  "code": "RAL 7016",
+  "name": "Anthrazitgrau",
+  "line": "RAL",
+  "hex": "#373f43"
+ },
+ {
+  "code": "RAL 7021",
+  "name": "Schwarzgrau",
+  "line": "RAL",
+  "hex": "#2e3234"
+ },
+ {
+  "code": "RAL 7022",
+  "name": "Umbragrau",
+  "line": "RAL",
+  "hex": "#4b4d46"
+ },
+ {
+  "code": "RAL 7023",
+  "name": "Betongrau",
+  "line": "RAL",
+  "hex": "#818479"
+ },
+ {
+  "code": "RAL 7024",
+  "name": "Graphitgrau",
+  "line": "RAL",
+  "hex": "#474a50"
+ },
+ {
+  "code": "RAL 7026",
+  "name": "Granitgrau",
+  "line": "RAL",
+  "hex": "#374447"
+ },
+ {
+  "code": "RAL 7030",
+  "name": "Steingrau",
+  "line": "RAL",
+  "hex": "#939388"
+ },
+ {
+  "code": "RAL 7031",
+  "name": "Blaugrau",
+  "line": "RAL",
+  "hex": "#5d6970"
+ },
+ {
+  "code": "RAL 7032",
+  "name": "Kieselgrau",
+  "line": "RAL",
+  "hex": "#b9b9a8"
+ },
+ {
+  "code": "RAL 7033",
+  "name": "Zementgrau",
+  "line": "RAL",
+  "hex": "#818979"
+ },
+ {
+  "code": "RAL 7034",
+  "name": "Gelbgrau",
+  "line": "RAL",
+  "hex": "#939176"
+ },
+ {
+  "code": "RAL 7035",
+  "name": "Lichtgrau",
+  "line": "RAL",
+  "hex": "#cbd0cc"
+ },
+ {
+  "code": "RAL 7036",
+  "name": "Platingrau",
+  "line": "RAL",
+  "hex": "#9a9697"
+ },
+ {
+  "code": "RAL 7037",
+  "name": "Staubgrau",
+  "line": "RAL",
+  "hex": "#7c7f7e"
+ },
+ {
+  "code": "RAL 7038",
+  "name": "Achatgrau",
+  "line": "RAL",
+  "hex": "#b4b8b0"
+ },
+ {
+  "code": "RAL 7039",
+  "name": "Quarzgrau",
+  "line": "RAL",
+  "hex": "#6b645a"
+ },
+ {
+  "code": "RAL 7040",
+  "name": "Fenstergrau",
+  "line": "RAL",
+  "hex": "#9da3a6"
+ },
+ {
+  "code": "RAL 7042",
+  "name": "Verkehrsgrau A",
+  "line": "RAL",
+  "hex": "#8e9291"
+ },
+ {
+  "code": "RAL 7043",
+  "name": "Verkehrsgrau B",
+  "line": "RAL",
+  "hex": "#4e5451"
+ },
+ {
+  "code": "RAL 7044",
+  "name": "Seidengrau",
+  "line": "RAL",
+  "hex": "#bdbdb2"
+ },
+ {
+  "code": "RAL 7045",
+  "name": "Telegrau 1",
+  "line": "RAL",
+  "hex": "#91969a"
+ },
+ {
+  "code": "RAL 7046",
+  "name": "Telegrau 2",
+  "line": "RAL",
+  "hex": "#82898e"
+ },
+ {
+  "code": "RAL 7047",
+  "name": "Telegrau 4",
+  "line": "RAL",
+  "hex": "#cfd0cf"
+ },
+ {
+  "code": "RAL 8000",
+  "name": "Grünbraun",
+  "line": "RAL",
+  "hex": "#887142"
+ },
+ {
+  "code": "RAL 8001",
+  "name": "Ockerbraun",
+  "line": "RAL",
+  "hex": "#9c6b30"
+ },
+ {
+  "code": "RAL 8002",
+  "name": "Signalbraun",
+  "line": "RAL",
+  "hex": "#7b5141"
+ },
+ {
+  "code": "RAL 8003",
+  "name": "Lehmbraun",
+  "line": "RAL",
+  "hex": "#80542f"
+ },
+ {
+  "code": "RAL 8004",
+  "name": "Kupferbraun",
+  "line": "RAL",
+  "hex": "#8f4e35"
+ },
+ {
+  "code": "RAL 8007",
+  "name": "Rehbraun",
+  "line": "RAL",
+  "hex": "#6f4a2f"
+ },
+ {
+  "code": "RAL 8008",
+  "name": "Olivbraun",
+  "line": "RAL",
+  "hex": "#6f4f28"
+ },
+ {
+  "code": "RAL 8011",
+  "name": "Nußbraun",
+  "line": "RAL",
+  "hex": "#5a3a29"
+ },
+ {
+  "code": "RAL 8012",
+  "name": "Rotbraun",
+  "line": "RAL",
+  "hex": "#66332b"
+ },
+ {
+  "code": "RAL 8014",
+  "name": "Sepiabraun",
+  "line": "RAL",
+  "hex": "#4a3526"
+ },
+ {
+  "code": "RAL 8015",
+  "name": "Kastanienbraun",
+  "line": "RAL",
+  "hex": "#5e2f26"
+ },
+ {
+  "code": "RAL 8016",
+  "name": "Mahagonibraun",
+  "line": "RAL",
+  "hex": "#4c2f26"
+ },
+ {
+  "code": "RAL 8017",
+  "name": "Schokoladenbraun",
+  "line": "RAL",
+  "hex": "#44322d"
+ },
+ {
+  "code": "RAL 8019",
+  "name": "Graubraun",
+  "line": "RAL",
+  "hex": "#3d3635"
+ },
+ {
+  "code": "RAL 8022",
+  "name": "Schwarzbraun",
+  "line": "RAL",
+  "hex": "#211f20"
+ },
+ {
+  "code": "RAL 8023",
+  "name": "Orangebraun",
+  "line": "RAL",
+  "hex": "#a65e2f"
+ },
+ {
+  "code": "RAL 8024",
+  "name": "Beigebraun",
+  "line": "RAL",
+  "hex": "#79553c"
+ },
+ {
+  "code": "RAL 8025",
+  "name": "Blassbraun",
+  "line": "RAL",
+  "hex": "#755c49"
+ },
+ {
+  "code": "RAL 8028",
+  "name": "Terrabraun",
+  "line": "RAL",
+  "hex": "#4e3b31"
+ },
+ {
+  "code": "RAL 9001",
+  "name": "Cremeweiß",
+  "line": "RAL",
+  "hex": "#fdf4e3"
+ },
+ {
+  "code": "RAL 9002",
+  "name": "Grauweiß",
+  "line": "RAL",
+  "hex": "#e7ebda"
+ },
+ {
+  "code": "RAL 9003",
+  "name": "Signalweiß",
+  "line": "RAL",
+  "hex": "#f4f8f4"
+ },
+ {
+  "code": "RAL 9004",
+  "name": "Signalschwarz",
+  "line": "RAL",
+  "hex": "#2e3032"
+ },
+ {
+  "code": "RAL 9005",
+  "name": "Tiefschwarz",
+  "line": "RAL",
+  "hex": "#0e0e10"
+ },
+ {
+  "code": "RAL 9006",
+  "name": "Weißaluminium",
+  "line": "RAL",
+  "hex": "#a5a8a6",
+  "finish": "Metallic"
+ },
+ {
+  "code": "RAL 9007",
+  "name": "Graualuminium",
+  "line": "RAL",
+  "hex": "#8f8f8c",
+  "finish": "Metallic"
+ },
+ {
+  "code": "RAL 9010",
+  "name": "Reinweiß",
+  "line": "RAL",
+  "hex": "#f7f9ef"
+ },
+ {
+  "code": "RAL 9011",
+  "name": "Graphitschwarz",
+  "line": "RAL",
+  "hex": "#292c2f"
+ },
+ {
+  "code": "RAL 9016",
+  "name": "Verkehrsweiß",
+  "line": "RAL",
+  "hex": "#f7fbf5"
+ },
+ {
+  "code": "RAL 9017",
+  "name": "Verkehrsschwarz",
+  "line": "RAL",
+  "hex": "#2a2d2f"
+ },
+ {
+  "code": "RAL 9018",
+  "name": "Papyrusweiß",
+  "line": "RAL",
+  "hex": "#cfd3cd"
+ },
+ {
+  "code": "ANA 501",
+  "name": "True Blue",
+  "line": "ANA",
+  "hex": "#09568d"
+ },
+ {
+  "code": "ANA 502",
+  "name": "Insignia Blue",
+  "line": "ANA",
+  "hex": "#172035"
+ },
+ {
+  "code": "ANA 503",
+  "name": "Willow Green",
+  "line": "ANA",
+  "hex": "#457725"
+ },
+ {
+  "code": "ANA 504",
+  "name": "Olive Drab",
+  "line": "ANA",
+  "hex": "#686b69"
+ },
+ {
+  "code": "ANA 505",
+  "name": "Lemon Yellow",
+  "line": "ANA",
+  "hex": "#ffbb00"
+ },
+ {
+  "code": "ANA 506",
+  "name": "Orange Yellow",
+  "line": "ANA",
+  "hex": "#f8a300"
+ },
+ {
+  "code": "ANA 507",
+  "name": "Aircraft Cream",
+  "line": "ANA",
+  "hex": "#f2cd88"
+ },
+ {
+  "code": "ANA 508",
+  "name": "International Orange",
+  "line": "ANA",
+  "hex": "#d24600"
+ },
+ {
+  "code": "ANA 509",
+  "name": "Insignia Red",
+  "line": "ANA",
+  "hex": "#ae0000"
+ },
+ {
+  "code": "ANA 510",
+  "name": "Maroon",
+  "line": "ANA",
+  "hex": "#421814"
+ },
+ {
+  "code": "ANA 511",
+  "name": "Insignia White",
+  "line": "ANA",
+  "hex": "#f0e9ee"
+ },
+ {
+  "code": "ANA 512",
+  "name": "Aircraft Gray",
+  "line": "ANA",
+  "hex": "#a2a7ad"
+ },
+ {
+  "code": "ANA 513",
+  "name": "Engine Gray",
+  "line": "ANA",
+  "hex": "#47484a"
+ },
+ {
+  "code": "ANA 514",
+  "name": "Instrument Black",
+  "line": "ANA",
+  "hex": "#1c1d22"
+ },
+ {
+  "code": "ANA 515",
+  "name": "Black",
+  "line": "ANA",
+  "hex": "#0b0b0d"
+ },
+ {
+  "code": "ANA 516",
+  "name": "Strata Blue",
+  "line": "ANA",
+  "hex": "#122b3e"
+ },
+ {
+  "code": "ANA 601",
+  "name": "Aircraft White",
+  "line": "ANA",
+  "hex": "#f1eaee"
+ },
+ {
+  "code": "ANA 602",
+  "name": "Light Blue",
+  "line": "ANA",
+  "hex": "#5b7e9a"
+ },
+ {
+  "code": "ANA 603",
+  "name": "Sea Blue",
+  "line": "ANA",
+  "hex": "#1b3a4b"
+ },
+ {
+  "code": "ANA 604",
+  "name": "Black",
+  "line": "ANA",
+  "hex": "#0a0a0a"
+ },
+ {
+  "code": "ANA 605",
+  "name": "Insignia Red",
+  "line": "ANA",
+  "hex": "#af2b1e"
+ },
+ {
+  "code": "ANA 606",
+  "name": "Semi-Gloss Sea Blue",
+  "line": "ANA",
+  "hex": "#1e2f4d"
+ },
+ {
+  "code": "ANA 607",
+  "name": "Non-Spec. Dark Green",
+  "line": "ANA",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "ANA 608",
+  "name": "Intermediate Blue",
+  "line": "ANA",
+  "hex": "#4a7c9b"
+ },
+ {
+  "code": "ANA 609",
+  "name": "Azure Blue",
+  "line": "ANA",
+  "hex": "#4a90b5"
+ },
+ {
+  "code": "ANA 610",
+  "name": "Sky",
+  "line": "ANA",
+  "hex": "#a0c4a0"
+ },
+ {
+  "code": "ANA 611",
+  "name": "Interior Green",
+  "line": "ANA",
+  "hex": "#8da580"
+ },
+ {
+  "code": "ANA 612",
+  "name": "Medium Green",
+  "line": "ANA",
+  "hex": "#5a6352"
+ },
+ {
+  "code": "ANA 613",
+  "name": "Olive Drab",
+  "line": "ANA",
+  "hex": "#6b5f2e"
+ },
+ {
+  "code": "ANA 614",
+  "name": "Neutral Gray",
+  "line": "ANA",
+  "hex": "#848b91"
+ },
+ {
+  "code": "ANA 615",
+  "name": "Dark Insignia Blue",
+  "line": "ANA",
+  "hex": "#1f3a5f"
+ },
+ {
+  "code": "ANA 617",
+  "name": "Light Green",
+  "line": "ANA",
+  "hex": "#6b7355"
+ },
+ {
+  "code": "ANA 619",
+  "name": "Light Gray",
+  "line": "ANA",
+  "hex": "#9ca5ab"
+ },
+ {
+  "code": "ANA 620",
+  "name": "Insignia White (Gloss)",
+  "line": "ANA",
+  "hex": "#f5f5f0"
+ },
+ {
+  "code": "ANA 621",
+  "name": "Dark Gull Grey",
+  "line": "ANA",
+  "hex": "#727a82"
+ },
+ {
+  "code": "ANA 622",
+  "name": "Jet Black",
+  "line": "ANA",
+  "hex": "#0d0d0d"
+ },
+ {
+  "code": "ANA 623",
+  "name": "Gloss Sea Blue",
+  "line": "ANA",
+  "hex": "#1b3a4b"
+ },
+ {
+  "code": "ANA 625",
+  "name": "Light Gull Grey",
+  "line": "ANA",
+  "hex": "#afb7bf"
+ },
+ {
+  "code": "ANA 626",
+  "name": "Gloss Insignia Blue",
+  "line": "ANA",
+  "hex": "#14517b"
+ },
+ {
+  "code": "IJA #1",
+  "name": "Gray Green",
+  "line": "IJA",
+  "hex": "#738a6c"
+ },
+ {
+  "code": "IJA #7",
+  "name": "Dark Olive",
+  "line": "IJA",
+  "hex": "#5e5a4b"
+ },
+ {
+  "code": "IJA #21",
+  "name": "Green",
+  "line": "IJA",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "IJA #39",
+  "name": "Spinach Green",
+  "line": "IJA",
+  "hex": "#515a4b"
+ },
+ {
+  "code": "IJA Dark Green",
+  "name": "Dark Green",
+  "line": "IJA",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "IJA Olive Green",
+  "name": "Olive Green",
+  "line": "IJA",
+  "hex": "#4a5d23"
+ },
+ {
+  "code": "IJA Leaf Green",
+  "name": "Leaf Green",
+  "line": "IJA",
+  "hex": "#5f8a5f"
+ },
+ {
+  "code": "IJA Light Green-Gray",
+  "name": "Light Green-Gray",
+  "line": "IJA",
+  "hex": "#a8b5a0"
+ },
+ {
+  "code": "IJA Blue-Gray",
+  "name": "Blue-Gray",
+  "line": "IJA",
+  "hex": "#5d7b93"
+ },
+ {
+  "code": "IJA Light Gray",
+  "name": "Light Gray",
+  "line": "IJA",
+  "hex": "#a9a9a9"
+ },
+ {
+  "code": "IJA Olive Gray",
+  "name": "Olive Gray",
+  "line": "IJA",
+  "hex": "#6b6b5a"
+ },
+ {
+  "code": "IJA Medium Brown",
+  "name": "Medium Brown",
+  "line": "IJA",
+  "hex": "#8b6914"
+ },
+ {
+  "code": "IJA/IJN Red Brown",
+  "name": "Red Brown",
+  "line": "IJA",
+  "hex": "#6d3b31"
+ },
+ {
+  "code": "IJA Orange Yellow",
+  "name": "Orange Yellow",
+  "line": "IJA",
+  "hex": "#f5d033"
+ },
+ {
+  "code": "IJA/IJN Medium Yellow",
+  "name": "Medium Yellow",
+  "line": "IJA",
+  "hex": "#e5b700"
+ },
+ {
+  "code": "IJA/IJN Dark Yellow",
+  "name": "Dark Yellow",
+  "line": "IJA",
+  "hex": "#c4a661"
+ },
+ {
+  "code": "IJA Dark Beige",
+  "name": "Dark Beige",
+  "line": "IJA",
+  "hex": "#c9b896"
+ },
+ {
+  "code": "IJA Khaki Brown",
+  "name": "Khaki Brown",
+  "line": "IJA",
+  "hex": "#87714d"
+ },
+ {
+  "code": "IJN Ash Grey",
+  "name": "Ash Grey",
+  "line": "IJN",
+  "hex": "#736f5a"
+ },
+ {
+  "code": "IJN Dark Green (D2)",
+  "name": "Dark Green (D2)",
+  "line": "IJN",
+  "hex": "#39433f"
+ },
+ {
+  "code": "IJN Black Green",
+  "name": "Black Green",
+  "line": "IJN",
+  "hex": "#2d3129"
+ },
+ {
+  "code": "IJN Dark Black Green",
+  "name": "Dark Black Green",
+  "line": "IJN",
+  "hex": "#1c2420"
+ },
+ {
+  "code": "IJN Deep Dark Green",
+  "name": "Deep Dark Green",
+  "line": "IJN",
+  "hex": "#263230"
+ },
+ {
+  "code": "IJN Light Gray",
+  "name": "Light Gray",
+  "line": "IJN",
+  "hex": "#9ca5ab"
+ },
+ {
+  "code": "IJN Medium Brown",
+  "name": "Medium Brown",
+  "line": "IJN",
+  "hex": "#6b4423"
+ },
+ {
+  "code": "Aotake Blue",
+  "name": "Aotake Blue",
+  "line": "IJN",
+  "hex": "#3e8ead"
+ },
+ {
+  "code": "Aotake Green",
+  "name": "Aotake Green",
+  "line": "IJN",
+  "hex": "#4b8b7f"
+ },
+ {
+  "code": "IJN Gray (Warship)",
+  "name": "Gray (Warship)",
+  "line": "IJN",
+  "hex": "#8e9196"
+ },
+ {
+  "code": "IJN Sasebo Gray",
+  "name": "Sasebo Gray",
+  "line": "IJN",
+  "hex": "#7a8188"
+ },
+ {
+  "code": "IJN Kure Gray",
+  "name": "Kure Gray",
+  "line": "IJN",
+  "hex": "#6d747a"
+ },
+ {
+  "code": "IJN Maizuru Gray",
+  "name": "Maizuru Gray",
+  "line": "IJN",
+  "hex": "#848b91"
+ },
+ {
+  "code": "IJN Yokosuka Gray",
+  "name": "Yokosuka Gray",
+  "line": "IJN",
+  "hex": "#929da5"
+ },
+ {
+  "code": "IJN Hull Red",
+  "name": "Hull Red",
+  "line": "IJN",
+  "hex": "#5c1a1b"
+ },
+ {
+  "code": "Azzurro 11",
+  "name": "Azzurro 11",
+  "line": "Regia Aeronautica",
+  "hex": "#1a5276"
+ },
+ {
+  "code": "Bianco Avorio 11",
+  "name": "Bianco Avorio 11",
+  "line": "Regia Aeronautica",
+  "hex": "#e8e0c8"
+ },
+ {
+  "code": "Bianco Neve 6",
+  "name": "Bianco Neve 6",
+  "line": "Regia Aeronautica",
+  "hex": "#bfc7cf"
+ },
+ {
+  "code": "Bruno 10",
+  "name": "Bruno 10",
+  "line": "Regia Aeronautica",
+  "hex": "#7b5544"
+ },
+ {
+  "code": "Bruno Mimetico",
+  "name": "Bruno Mimetico",
+  "line": "Regia Aeronautica",
+  "hex": "#87714d"
+ },
+ {
+  "code": "Giallo Cromo 7",
+  "name": "Giallo Cromo 7",
+  "line": "Regia Aeronautica",
+  "hex": "#ffe135"
+ },
+ {
+  "code": "Giallo Mimetico 1",
+  "name": "Giallo Mimetico 1",
+  "line": "Regia Aeronautica",
+  "hex": "#c8b896"
+ },
+ {
+  "code": "Giallo Mimetico 2",
+  "name": "Giallo Mimetico 2",
+  "line": "Regia Aeronautica",
+  "hex": "#d4b896"
+ },
+ {
+  "code": "Giallo Mimetico 3",
+  "name": "Giallo Mimetico 3",
+  "line": "Regia Aeronautica",
+  "hex": "#cc7722"
+ },
+ {
+  "code": "Giallo Mimetico 4",
+  "name": "Giallo Mimetico 4",
+  "line": "Regia Aeronautica",
+  "hex": "#d4b896"
+ },
+ {
+  "code": "Grigio Azzurro Chiaro 1",
+  "name": "Grigio Azzurro Chiaro 1",
+  "line": "Regia Aeronautica",
+  "hex": "#727a82"
+ },
+ {
+  "code": "Grigio Azzurro Chiaro 2",
+  "name": "Grigio Azzurro Chiaro 2",
+  "line": "Regia Aeronautica",
+  "hex": "#9ca5ab"
+ },
+ {
+  "code": "Grigio Azzurro Scuro 1",
+  "name": "Grigio Azzurro Scuro 1",
+  "line": "Regia Aeronautica",
+  "hex": "#4a5157"
+ },
+ {
+  "code": "Grigio Azzurro Scuro 2",
+  "name": "Grigio Azzurro Scuro 2",
+  "line": "Regia Aeronautica",
+  "hex": "#5e6368"
+ },
+ {
+  "code": "Grigio Mimetico",
+  "name": "Grigio Mimetico",
+  "line": "Regia Aeronautica",
+  "hex": "#7a9ba0"
+ },
+ {
+  "code": "Rosso 8",
+  "name": "Rosso 8",
+  "line": "Regia Aeronautica",
+  "hex": "#af2b1e"
+ },
+ {
+  "code": "Rosso Mimetico",
+  "name": "Rosso Mimetico",
+  "line": "Regia Aeronautica",
+  "hex": "#8b2332"
+ },
+ {
+  "code": "Rosso Ruggine",
+  "name": "Rosso Ruggine",
+  "line": "Regia Aeronautica",
+  "hex": "#b7410e"
+ },
+ {
+  "code": "Sabia",
+  "name": "Sabia",
+  "line": "Regia Aeronautica",
+  "hex": "#d4b896"
+ },
+ {
+  "code": "Verde 9",
+  "name": "Verde 9",
+  "line": "Regia Aeronautica",
+  "hex": "#3d4035"
+ },
+ {
+  "code": "Verde Anticorrosione",
+  "name": "Verde Anticorrosione",
+  "line": "Regia Aeronautica",
+  "hex": "#6b8e4e"
+ },
+ {
+  "code": "Verde Azzurro Chiaro",
+  "name": "Verde Azzurro Chiaro",
+  "line": "Regia Aeronautica",
+  "hex": "#a0c4a0"
+ },
+ {
+  "code": "Verde Bottiglia",
+  "name": "Verde Bottiglia",
+  "line": "Regia Aeronautica",
+  "hex": "#4f5d2f"
+ },
+ {
+  "code": "Verde Mimetico 1",
+  "name": "Verde Mimetico 1",
+  "line": "Regia Aeronautica",
+  "hex": "#7a9570"
+ },
+ {
+  "code": "Verde Mimetico 2",
+  "name": "Verde Mimetico 2",
+  "line": "Regia Aeronautica",
+  "hex": "#5a6352"
+ },
+ {
+  "code": "Verde Mimetico 3",
+  "name": "Verde Mimetico 3",
+  "line": "Regia Aeronautica",
+  "hex": "#228b22"
+ },
+ {
+  "code": "Verde Mimetico 4",
+  "name": "Verde Mimetico 4",
+  "line": "Regia Aeronautica",
+  "hex": "#4a5240"
+ },
+ {
+  "code": "Verde Mimetico Chiaro",
+  "name": "Verde Mimetico Chiaro",
+  "line": "Regia Aeronautica",
+  "hex": "#8fbc8f"
+ },
+ {
+  "code": "Verde Mimetico Scuro 1940",
+  "name": "Verde Mimetico Scuro 1940",
+  "line": "Regia Aeronautica",
+  "hex": "#3a4230"
+ },
+ {
+  "code": "Verde Olivo Scuro",
+  "name": "Verde Olivo Scuro",
+  "line": "Regia Aeronautica",
+  "hex": "#3c4033"
+ },
+ {
+  "code": "Verde Olivo Scuro 2",
+  "name": "Verde Olivo Scuro 2",
+  "line": "Regia Aeronautica",
+  "hex": "#4a5335"
+ },
+ {
+  "code": "Vernice Per Interni",
+  "name": "Vernice Per Interni",
+  "line": "Regia Aeronautica",
+  "hex": "#8da580"
+ },
+ {
+  "code": "Azzurro Sublalare",
+  "name": "Azzurro Sublalare",
+  "line": "Regia Aeronautica",
+  "hex": "#87ceeb"
+ },
+ {
+  "code": "Giallo Cromo per Interni",
+  "name": "Giallo Cromo per Interni",
+  "line": "Regia Aeronautica",
+  "hex": "#f5d033"
+ },
+ {
+  "code": "Giallo Sabbia Chiaro",
+  "name": "Giallo Sabbia Chiaro",
+  "line": "Regia Aeronautica",
+  "hex": "#e8d4a8"
+ },
+ {
+  "code": "Giallo Sabbia Scuro",
+  "name": "Giallo Sabbia Scuro",
+  "line": "Regia Aeronautica",
+  "hex": "#c19a6b"
+ },
+ {
+  "code": "Grigio-Verde Chiaro",
+  "name": "Grigio-Verde Chiaro",
+  "line": "Regia Aeronautica",
+  "hex": "#a8b5a0"
+ },
+ {
+  "code": "Nocciola Chiaro",
+  "name": "Nocciola Chiaro",
+  "line": "Regia Aeronautica",
+  "hex": "#d2b48c"
+ },
+ {
+  "code": "Giallo Mimetico 1916",
+  "name": "Giallo Mimetico 1916",
+  "line": "Regia Aeronautica",
+  "hex": "#d2aa6d"
+ },
+ {
+  "code": "AMT-1",
+  "name": "Light Brown",
+  "line": "Soviet & Russian",
+  "hex": "#c4a661"
+ },
+ {
+  "code": "AMT-4",
+  "name": "Camouflage Green",
+  "line": "Soviet & Russian",
+  "hex": "#4a5240"
+ },
+ {
+  "code": "AMT-6",
+  "name": "Black",
+  "line": "Soviet & Russian",
+  "hex": "#1a1a1a"
+ },
+ {
+  "code": "AMT-7",
+  "name": "Light Blue",
+  "line": "Soviet & Russian",
+  "hex": "#87ceeb"
+ },
+ {
+  "code": "AMT-11",
+  "name": "Blue Grey",
+  "line": "Soviet & Russian",
+  "hex": "#6d8b9c"
+ },
+ {
+  "code": "AMT-12",
+  "name": "Dark Grey",
+  "line": "Soviet & Russian",
+  "hex": "#4a5157"
+ },
+ {
+  "code": "A-14f",
+  "name": "Steel Primer",
+  "line": "Soviet & Russian",
+  "hex": "#c0c0c0",
+  "finish": "Metallic"
+ },
+ {
+  "code": "A-18",
+  "name": "Blue",
+  "line": "Soviet & Russian",
+  "hex": "#4682b4"
+ },
+ {
+  "code": "A-19",
+  "name": "Green",
+  "line": "Soviet & Russian",
+  "hex": "#4f7942"
+ },
+ {
+  "code": "A-21m",
+  "name": "Light Brown",
+  "line": "Soviet & Russian",
+  "hex": "#c19a6b"
+ },
+ {
+  "code": "A-24m",
+  "name": "Green",
+  "line": "Soviet & Russian",
+  "hex": "#556b2f"
+ },
+ {
+  "code": "A-26m",
+  "name": "Black",
+  "line": "Soviet & Russian",
+  "hex": "#0d0d0d"
+ },
+ {
+  "code": "A-28m",
+  "name": "Blue",
+  "line": "Soviet & Russian",
+  "hex": "#5b7e9a"
+ },
+ {
+  "code": "AE-09",
+  "name": "Light Gray",
+  "line": "Soviet & Russian",
+  "hex": "#b5bdc5"
+ },
+ {
+  "code": "AE-14",
+  "name": "Light Blue",
+  "line": "Soviet & Russian",
+  "hex": "#add8e6"
+ },
+ {
+  "code": "AII Green (Protective)",
+  "name": "AII Green (Protective)",
+  "line": "Soviet & Russian",
+  "hex": "#4b5320"
+ },
+ {
+  "code": "AII Blue",
+  "name": "AII Blue",
+  "line": "Soviet & Russian",
+  "hex": "#4682b4"
+ },
+ {
+  "code": "AII Light Blue (Underside)",
+  "name": "AII Light Blue (Underside)",
+  "line": "Soviet & Russian",
+  "hex": "#87ceeb"
+ },
+ {
+  "code": "ALG-1",
+  "name": "Yellowish Primer",
+  "line": "Soviet & Russian",
+  "hex": "#e8d4a8"
+ },
+ {
+  "code": "3B",
+  "name": "Dark Green",
+  "line": "Soviet & Russian",
+  "hex": "#3d4a33"
+ },
+ {
+  "code": "4BO",
+  "name": "Camouflage Green",
+  "line": "Soviet & Russian",
+  "hex": "#4a5335"
+ },
+ {
+  "code": "USN #5",
+  "name": "Navy Gray",
+  "line": "USN",
+  "hex": "#5a6169"
+ },
+ {
+  "code": "USN #20",
+  "name": "Deck Gray",
+  "line": "USN",
+  "hex": "#5a5a5a"
+ },
+ {
+  "code": "USN 5-N",
+  "name": "Navy Blue",
+  "line": "USN",
+  "hex": "#1e2f4d"
+ },
+ {
+  "code": "USN 5-O",
+  "name": "Ocean Gray",
+  "line": "USN",
+  "hex": "#636b73"
+ },
+ {
+  "code": "USN 5-H",
+  "name": "Haze Gray",
+  "line": "USN",
+  "hex": "#8d959d"
+ },
+ {
+  "code": "USN 5-S",
+  "name": "Sea Blue",
+  "line": "USN",
+  "hex": "#1b3a4b"
+ },
+ {
+  "code": "USN 5-D",
+  "name": "Dark Gray",
+  "line": "USN",
+  "hex": "#2e3234"
+ },
+ {
+  "code": "USN 5-L",
+  "name": "Light Gray",
+  "line": "USN",
+  "hex": "#b5bdc5"
+ },
+ {
+  "code": "USN 20B",
+  "name": "Deck Blue",
+  "line": "USN",
+  "hex": "#2a4066"
+ },
+ {
+  "code": "USN #7",
+  "name": "Navy Gray (5-N)",
+  "line": "USN",
+  "hex": "#3d4a4f"
+ },
+ {
+  "code": "USN #17",
+  "name": "Ocean Gray (5-O)",
+  "line": "USN",
+  "hex": "#545b61"
+ },
+ {
+  "code": "USN #27",
+  "name": "Haze Gray (5-H)",
+  "line": "USN",
+  "hex": "#8b9198"
+ },
+ {
+  "code": "USN #37",
+  "name": "Light Gray (5-L)",
+  "line": "USN",
+  "hex": "#afb7bf"
+ },
+ {
+  "code": "Green 1A",
+  "name": "Green 1A",
+  "line": "USN",
+  "hex": "#4b5320"
+ },
+ {
+  "code": "Green 2A",
+  "name": "Green 2A",
+  "line": "USN",
+  "hex": "#556b2f"
+ },
+ {
+  "code": "USN #3",
+  "name": "Black",
+  "line": "USN",
+  "hex": "#0a0a0a"
+ },
+ {
+  "code": "USN #4 Deck Gray 20",
+  "name": "Deck Gray 20",
+  "line": "USN",
+  "hex": "#5a5a5a"
+ },
+ {
+  "code": "USN #4 Brown",
+  "name": "Brown",
+  "line": "USN",
+  "hex": "#8b4726"
+ },
+ {
+  "code": "Sapphire Blue (1B)",
+  "name": "Sapphire Blue (1B)",
+  "line": "USN",
+  "hex": "#14517b"
+ },
+ {
+  "code": "Mountbatten Pink",
+  "name": "Mountbatten Pink",
+  "line": "USN",
+  "hex": "#997a8d"
+ },
+ {
+  "code": "Thayer Blue",
+  "name": "Thayer Blue",
+  "line": "USN",
+  "hex": "#4a7c9b"
+ },
+ {
+  "code": "USN #46",
+  "name": "Outside Gray",
+  "line": "USN",
+  "hex": "#c8d0d8"
+ },
+ {
+  "code": "USN #16",
+  "name": "Medium Gray",
+  "line": "USN",
+  "hex": "#6d747a"
+ },
+ {
+  "code": "USN #11",
+  "name": "Outside Gray",
+  "line": "USN",
+  "hex": "#5a5a5a"
+ },
+ {
+  "code": "Red Mahogany Flight Deck",
+  "name": "Red Mahogany Flight Deck",
+  "line": "USN",
+  "hex": "#5e2028"
+ },
+ {
+  "code": "USN #82",
+  "name": "Black (Matt)",
+  "line": "USN",
+  "hex": "#0d0d0d"
+ },
+ {
+  "code": "USN 5-NG",
+  "name": "Navy Green",
+  "line": "USN",
+  "hex": "#3d5c5d"
+ }
+]
