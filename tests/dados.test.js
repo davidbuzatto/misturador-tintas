@@ -53,8 +53,11 @@ test('buildCatalogs: catálogos antigos inalterados e Tamiya dividido sem perda'
     ak: [],
     am: [],
   });
-  const semLinha = (lista) => lista.map(({ line, ...resto }) => resto);
-  assert.deepEqual(cat.acrilex, golden.acrilex);
+  // Revell: o acabamento (campo novo) também sai da comparação com o arquivo de referência
+  const semLinha = (lista) => lista.map(({ line, finish, ...resto }) => resto);
+  // Acrilex: as mesmas cores de antes; a única diferença é o acabamento (fosca) declarado em todas
+  assert.deepEqual(cat.acrilex.map(({ finish, ...resto }) => resto), golden.acrilex);
+  assert.ok(cat.acrilex.every((p) => p.finish === 'Matte'));
   // Revell: um catálogo com duas linhas == os dois catálogos originais (Aqua primeiro)
   assert.deepEqual(semLinha(cat.revell), [...golden.revellA, ...golden.revellE]);
   assert.deepEqual(catalogLines(cat.revell), ['Aqua Color', 'Email Color']);

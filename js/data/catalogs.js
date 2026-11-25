@@ -112,9 +112,10 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
   const tamiya = (base, line) =>
     tm.filter((d) => d.hex && !d.aditivo && d.base === base).map((d) => ({ code: d.code, name: d.name, hex: d.hex, line }));
   const revell = (linha) =>
-    rv.filter((d) => d.linha === linha).map((d) => ({ code: d.sku, name: revellLabel(d), hex: d.hex, line: linha }));
+    rv.filter((d) => d.linha === linha).map((d) => ({ code: d.sku, name: revellLabel(d), hex: d.hex, line: linha, finish: d.finish }));
   return {
-    acrilex: ac.map((d) => ({ code: d.code, name: d.name, hex: d.hex })),
+    // Acrilex: a cartela é toda da Tinta Acrílica Fosca (o catálogo não traz o acabamento por cor)
+    acrilex: ac.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: 'Matte' })),
     tamiya: [...tamiya('acrilica_mini', 'Acrylic') /* X- (brilhante) e XF- (fosco) */, ...tamiya('lacquer', 'Lacquer') /* LP- */],
     revell: [...revell('Aqua Color'), ...revell('Email Color')],
     // FS 595: o 1º dígito do código já indica o acabamento (1 gloss, 2 semi-gloss, 3 flat)

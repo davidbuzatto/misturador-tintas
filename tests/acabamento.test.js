@@ -56,3 +56,16 @@ test('filtrarCatalogo e contarPorTipo', () => {
   assert.ok(filtrarCatalogo(c.vallejo, 'vallejo', { linha: 'Model Air' }).every((p) => p.line === 'Model Air'));
   assert.equal(filtrarCatalogo(c.tamiya, 'tamiya').length, c.tamiya.length);
 });
+
+test('Acrilex: todas as 95 cores são fosca, declarada pelo catálogo (não inferida)', () => {
+  assert.equal(c.acrilex.length, 95);
+  for (const p of c.acrilex) assert.deepEqual(acabamentoDe('acrilex', p), { tipo: 'matte', inferido: false }, p.code);
+  assert.deepEqual(contarPorTipo(c.acrilex, 'acrilex'), { matte: 95 });
+});
+
+test('Revell: o acabamento informado pelo catálogo chega a todas as cores', () => {
+  assert.equal(c.revell.length, 171);
+  assert.ok(c.revell.every((p) => p.finish), 'cor sem acabamento');
+  assert.deepEqual(contarPorTipo(c.revell, 'revell'), { gloss: 26, matte: 86, satin: 35, metallic: 14, clear: 10 }); // Silk = acetinado; os "Clear" (nome) viram transparente mesmo declarados Gloss/Matte
+  assert.deepEqual(acabamentoDe('revell', c.revell.find((p) => p.code === '36104')), { tipo: 'gloss', inferido: false });
+});
