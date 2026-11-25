@@ -1,6 +1,6 @@
 {
   "name": "Misturador de Tintas",
-  "short_name": "Tintas",
+  "short_name": "Misturador de Tintas",
   "description": "Misturador de tintas para plastimodelismo: receitas por mistura espectral (Kubelka-Munk), com catálogos de 14 marcas.",
   "lang": "pt-BR",
   "start_url": "./",
