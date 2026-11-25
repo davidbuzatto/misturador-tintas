@@ -9,6 +9,7 @@ import { TARGET_TABS, catalogName, displayName, targetOf } from '../data/catalog
 import { lineName, t } from '../i18n/index.js';
 import { buildLinks } from '../data/equivalences.js';
 import { deToPaint, nearest } from '../color/nearest.js';
+import { acabamentoDe } from '../data/acabamento.js';
 import { $, ativavel, deText, dicaAprox, eAprox, esc } from './dom.js';
 
 /** Quantas tintas parecidas mostrar por catálogo. */
@@ -62,7 +63,7 @@ export function createEquivalents(ctx) {
       (oficial ? ` · ${t('eq.tip.official', { fontes: fontes.join(t('eq.and')) })}` : '') +
       ` — ${t('eq.tip.click')}`;
     el.innerHTML =
-      `<span class="sw${eAprox(paint) ? ' deg' : ''}" style="background:${paint.hex}"></span>` +
+      `<span class="sw${acabamentoDe(aba, paint).tipo === 'metallic' ? ' met' : ''}${eAprox(paint) ? ' deg' : ''}" style="background-color:${paint.hex}"></span>` +
       `<span class="eqtxt">${esc(displayName(paint))}<b>${esc(sub)}</b></span>` +
       (eAprox(paint) ? `<span class="aprox" title="${esc(dicaAprox(paint))}">≈</span>` : '') +
       (oficial ? `<span class="badge">${esc(selo)}</span>` : '') +

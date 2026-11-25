@@ -90,7 +90,9 @@ export function createTargets(ctx) {
       if (q && (p.code + ' ' + displayName(p)).toLowerCase().indexOf(q) < 0) return;
       const c = document.createElement('div');
       const escolhida = !!state.target.ref && state.target.ref.tab === state.tab && state.target.ref.code === p.code;
-      const { tipo, inferido } = state.showFinish ? acabamentoDe(state.tab, p) : { tipo: null, inferido: false };
+      const acab = acabamentoDe(state.tab, p);
+      // o brilho metálico da amostra aparece sempre; a opção "mostrar acabamento" controla só a etiqueta de texto
+      const { tipo, inferido } = state.showFinish ? acab : { tipo: null, inferido: false };
       c.className = 'cell' + (eAprox(p) ? ' deg' : '') + (escolhida ? ' sel' : '');
       c.setAttribute('aria-pressed', escolhida);
       c.title =
@@ -102,7 +104,7 @@ export function createTargets(ctx) {
       // "Todas as linhas": mostra a linha junto do código para distinguir
       const sub = p.code + (line === ALL_LINES && p.line ? ` · ${lineName(p.line)}` : '') + (p.series ? ` · ${p.series}` : '');
       c.innerHTML =
-        `<span class="sw${tipo === 'metallic' ? ' met' : ''}" style="background-color:${p.hex}"></span>` +
+        `<span class="sw${acab.tipo === 'metallic' ? ' met' : ''}" style="background-color:${p.hex}"></span>` +
         `<span>${esc(displayName(p))}<b>${esc(sub)}</b>${tipo ? `<i class="tag">${esc(t(`fin.${tipo}`))}</i>` : ''}${eAprox(p) ? `<i class="tag">${esc(t('approx.tag'))}</i>` : ''}</span>`;
       ativavel(c, () => {
         state.target = targetOf(state.tab, p);

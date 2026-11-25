@@ -14,6 +14,7 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
 | `extrair-humbrol.mjs` | imagens do site <https://uk.humbrol.com/catalogue> | rede, ffmpeg | `dados/humbrol-cores.json` |
 | `extrair-scale75.mjs` | site oficial <https://scale75.com> (11 coleções) | rede (Node puro; usa `png.mjs`) | `dados/scale75-cores.json`, `scale75-medidas.json`, `scale75-conferir.md` |
 | `extrair-tomcolors.mjs` | loja oficial <https://www.tomcolors.com.br> (20 páginas de categoria) | rede, ffmpeg | `dados/tomcolors-cores.json`, `tomcolors-medidas.json`, `tomcolors-conferir.md` |
+| `extrair-talento.py` | catálogo de modelismo em PDF da Talento (V23-4), mais `talento-nomes.json` | Python com pdfplumber, Pillow e `pdftoppm` (poppler) | `dados/talento-cores.json` |
 | `extrair-phoenix.mjs` | site da loja <https://phoenix-special-colors.com.br/products> | rede (Node puro) | `dados/phoenix-cores.json` |
 
 "poppler" são os programas `pdftohtml` e `pdftoppm`; `ffmpeg` decodifica as imagens da Humbrol. Todos precisam estar no `PATH`.
@@ -65,6 +66,15 @@ necessários para usar o aplicativo**: os JSONs já estão no repositório. Serv
   números FS repetidos com nomes diferentes entram no código. Toda cor existe em Duco e em poliéster (30 ou 60 ml, fosco,
   acetinado ou brilhante), por isso há duas linhas de ingredientes. Se o site mudar a estrutura, o script avisa que não
   achou o arquivo ou o arranjo.
+- **Talento:** o PDF do catálogo tem as amostras como pinceladas vetoriais (curvas), mas **os textos são curvas também**,
+  sem camada de texto. O script acha cada pincelada pelo tamanho e pelo número de pontos da curva, ordena por linha e
+  coluna e lê a cor no miolo da amostra do PDF renderizado (o PDF está em CMYK; a renderização faz a conversão). Códigos e
+  nomes foram digitados do catálogo em `talento-nomes.json`, na mesma ordem das amostras, e o script confere se a contagem
+  bate. Duas pinceladas metálicas com textura são imagens e a do Branco das Artes só tem contorno; ambos os casos entram.
+  Ficam de fora os pigmentos em pó, os kits (repetem cores já listadas) e os produtos de diorama. As metálicas das Artes
+  repetem os números das de modelismo (400, 427), então o código ganha o prefixo "Artes "; as Clear não têm número, e o
+  nome é o código. 163, 164 e 205 são as brilhantes (a nota "*acabamento brilhante" do catálogo); as neon das Artes viram
+  acabamento `Fluo` e as Clear e Speed, `Clear`, e nenhuma dessas entra nas misturas.
 - **Equivalências:** os scripts da AK (págs. 16–22) e da AMMO (págs. 97–105) também leem as tabelas de conversão e
   gravam `ref` (referência de norma) e `equiv` (equivalências em outras marcas).
 

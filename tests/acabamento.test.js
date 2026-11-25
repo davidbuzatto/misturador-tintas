@@ -8,7 +8,7 @@ const r = (f) => JSON.parse(fs.readFileSync(new URL(`../dados/${f}`, import.meta
 const c = buildCatalogs({
   ac: r('acrilex-cores-oficial.json'), tm: r('tamiya-cores-oficial.json'), rv: r('revell-cores-oficial.json'),
   fs: r('fs595-cores.json'), vl: r('vallejo-cores.json'), mr: r('mrcolor-cores.json'), hb: r('humbrol-cores.json'),
-  ral: r('ral-cores.json'), ak: r('ak-cores.json'), am: r('ammo-cores.json'), sc: r('scale75-cores.json'), tc: r('tomcolors-cores.json'), px: r('phoenix-cores.json'),
+  ral: r('ral-cores.json'), ak: r('ak-cores.json'), am: r('ammo-cores.json'), sc: r('scale75-cores.json'), tc: r('tomcolors-cores.json'), px: r('phoenix-cores.json'), tl: r('talento-cores.json'),
 });
 const tipo = (aba, code) => acabamentoDe(aba, c[aba].find((p) => p.code === code)).tipo;
 

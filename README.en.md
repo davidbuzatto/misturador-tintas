@@ -3,7 +3,7 @@
 [Português](README.md) · **English**
 
 A web app for **scale modeling**: pick the paint line you own (Acrilex, Tamiya, Vallejo, Mr. Hobby, Humbrol, AK,
-AMMO, Scale75, Tom Colors, Phoenix…), the color you want to match (from any of 13 catalogs, including FS 595 and RAL) and the app computes the mix.
+AMMO, Scale75, Tom Colors, Phoenix, Talento…), the color you want to match (from any of 14 catalogs, including FS 595 and RAL) and the app computes the mix.
 Paint is treated as **pigment** (Kubelka-Munk spectral model), not as an RGB average, which is what makes the prediction
 land close to what happens on the bench. Plain JavaScript, ES modules, **no build step and no dependencies**.
 
@@ -15,7 +15,7 @@ The interface is available in Brazilian Portuguese and English (switch it at the
   (perceived color difference) to the target, and four mixing models side by side (pigment vs. RGB).
 - **Suggests recipes:** the automatic search finds mixes of 1 to 4 paints that approach the target, optionally using only
   the paints you own.
-- **Target color from any catalog:** more than 4,700 colors in 13 catalogs, or a free color (the "show finish" option labels swatches as matte, gloss, metallic, etc.).
+- **Target color from any catalog:** more than 5,000 colors in 14 catalogs, or a free color (the "show finish" option labels swatches as matte, gloss, metallic, etc.).
 - **Equivalents in other brands:** for the target (or for the computed mix), the closest paints in each brand (by ΔE00)
   and, when the manufacturer declares the equivalence, an **AMMO** or **AK** badge.
 - **Full catalog (browse only):** a button at the top of the page opens every paint of each brand, including the metallic,
@@ -70,6 +70,7 @@ photo or from a thin swatch): they are fine for browsing but are not used as mix
 | Scale75 | 549 | Scalecolor (with Metal n' Alchemy and Inktense), Fantasy & Games, Warfront, Instant Colors, FX Fluor, Scalecolor Artist, Flow (oil), Drop & Paint, Scalecolor Games | official site <https://scale75.com> (brush swatches; Drop & Paint and Scalecolor Games only have the bottle photo, so their color is approximate) |
 | Tom Colors | 179 | Acrylic Colors (TC), UP (TCUP) | official store <https://www.tomcolors.com.br> (brush swatches; for the UP line, the paint applied on a card in the ad photos; five UP colors sold only in the set have a paint puddle or an estimate; six Skin Tones only have photos of a painted head, so those colors are approximate) |
 | Phoenix | 597 | Federal Standard, RLM, British Standard, RAL, ANA, IJA, IJN, Regia Aeronautica, Soviet & Russian (AMT), USN | the shop's website catalog <https://phoenix-special-colors.com.br> (**Duco** and **polyester** automotive paints; the colors are digital values chosen by the shop, not measured from paint, and differ a little from the FS 595 and RAL charts) |
+| Talento | 282 | Acrylic Color, Metallic, Game, Artes, Metallic Artes, Clear, Speed | 2023/4 modeling catalog (PDF; the swatches are vector brush strokes, and the color is what the PDF shows, CMYK converted to RGB; powder pigments, kits and diorama products are left out) |
 | Acrilex | 95 | Matte ("Fosca") | 2025 catalog (PDF, swatches on pp. 36–37) |
 
 Each source has its own method, described in [`ferramentas/README.md`](ferramentas/README.md) (scripts to redo the
@@ -92,7 +93,7 @@ Each recipe uses **a single line**: paints with different chemistries (acrylic, 
 Metallic, pearl, translucent and fluorescent paints are hidden as ingredients, because the model is valid for opaque,
 matte pigments. "Owned" paints are stored per line. The automatic suggestion uses anchor paints (white, black, primaries),
 chosen by color proximity in each line (fixed for Acrilex); in lines with more than 120 paints, the pair search uses the 60
-closest to the target, so it answers in about 1 s. Phoenix sells every color in two types, **Duco** (lacquer) and **polyester**, so it shows up as two ingredient lines with the same colors.
+closest to the target, so it answers in about 1 s. Phoenix sells every color in two types, **Duco** (lacquer) and **polyester**, so it shows up as two ingredient lines with the same colors. For Talento, Acrylic Color, Artes and Game (the same water-based acrylic) form a single line; metallics, Clear, Speed and neon are only in the reference catalog.
 
 ### Equivalents in other brands
 

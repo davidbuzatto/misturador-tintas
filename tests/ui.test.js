@@ -89,7 +89,7 @@ test('guia passo a passo: o exemplo (Tamiya XF-18) existe nos dados e rende uma 
   const cat = buildCatalogs({
     ac: ler('acrilex-cores-oficial.json'), tm: ler('tamiya-cores-oficial.json'), rv: ler('revell-cores-oficial.json'),
     fs: ler('fs595-cores.json'), vl: ler('vallejo-cores.json'), mr: ler('mrcolor-cores.json'), hb: ler('humbrol-cores.json'),
-    ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: ler('scale75-cores.json'), tc: ler('tomcolors-cores.json'), px: ler('phoenix-cores.json'),
+    ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: ler('scale75-cores.json'), tc: ler('tomcolors-cores.json'), px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'),
   });
   const alvo = cat[EXEMPLO.tab].find((p) => p.code === EXEMPLO.code);
   assert.ok(alvo, 'a cor do exemplo sumiu dos dados');

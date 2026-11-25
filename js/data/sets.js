@@ -19,7 +19,7 @@ export const DEFAULT_SET = 'acrilex';
 
 /**
  * Definição dos conjuntos. `marca`/`rotulo` aparecem no seletor; `quimica` é uma chave de texto
- * ("acrilica", "lacquer", "esmalte", "oleo", "poliester"); `tab`/`line` apontam para o catálogo (e a linha dentro dele).
+ * ("acrilica", "lacquer", "esmalte", "oleo", "poliester"); `tab`/`line` apontam para o catálogo (e a linha, ou lista de linhas, dentro dele).
  * `anchors` fixa as âncoras (códigos); sem ela, são escolhidas automaticamente.
  */
 export const INGREDIENT_SETS = [
@@ -50,6 +50,10 @@ export const INGREDIENT_SETS = [
   // Phoenix: toda cor existe nos dois tipos (Duco e poliéster); como uma receita usa uma química só, são duas linhas com as mesmas cores
   { id: 'phoenix-duco', marca: 'Phoenix', rotulo: 'Duco', quimica: 'lacquer', tab: 'phoenix' },
   { id: 'phoenix-poliester', marca: 'Phoenix', rotulo: 'Poliéster', quimica: 'poliester', tab: 'phoenix' },
+  // Talento: a Acrylic Color (cores de modelismo, sem branco nem primárias foscos), a Artes (branco, preto e primárias) e a
+  // Game (cores saturadas, acetinadas) são a mesma tinta acrílica base água, então formam uma linha só. Metálicas, Clear,
+  // Speed e as neon ficam só no catálogo.
+  { id: 'talento-acrylic', marca: 'Talento', rotulo: 'Acrylic Color + Artes + Game', quimica: 'acrilica', tab: 'talento', line: ['Acrylic Color', 'Artes', 'Game'] },
 ];
 
 /** Séries (campo `series`) cujas tintas o modelo de mistura não representa. */
@@ -66,7 +70,7 @@ const NOME_NAO_MISTURAVEL = /\bmetall?ic\b|metaliz|^clear\b|\btransparent|\bfluo
 export function misturavel(p) {
   if (p.degrade) return false;
   if (p.aprox) return false; // cor aproximada (frasco ou amostra diluída): não serve de base para calcular misturas
-  if (p.finish === 'Metallic' || p.finish === 'Pearl') return false;
+  if (p.finish === 'Metallic' || p.finish === 'Pearl' || p.finish === 'Fluo' || p.finish === 'Clear') return false;
   if (p.series && SERIE_NAO_MISTURAVEL.test(p.series)) return false;
   return !NOME_NAO_MISTURAVEL.test(p.name);
 }
@@ -108,7 +112,7 @@ function ancorasAutomaticas(paints) {
 export function buildSets(catalogs) {
   /** @type {IngredientSet[]} */
   const list = INGREDIENT_SETS.map((def) => {
-    const doCatalogo = (catalogs[def.tab] || []).filter((p) => !def.line || p.line === def.line);
+    const doCatalogo = (catalogs[def.tab] || []).filter((p) => !def.line || [].concat(def.line).includes(p.line));
     const paints = doCatalogo.filter(misturavel);
     return {
       ...def,

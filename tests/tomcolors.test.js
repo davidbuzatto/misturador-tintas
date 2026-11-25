@@ -9,7 +9,7 @@ const dados = ler('tomcolors-cores.json');
 const catalogos = buildCatalogs({
   ac: ler('acrilex-cores-oficial.json'), tm: ler('tamiya-cores-oficial.json'), rv: ler('revell-cores-oficial.json'),
   fs: ler('fs595-cores.json'), vl: ler('vallejo-cores.json'), mr: ler('mrcolor-cores.json'), hb: ler('humbrol-cores.json'),
-  ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: ler('scale75-cores.json'), tc: dados, px: ler('phoenix-cores.json'),
+  ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: ler('scale75-cores.json'), tc: dados, px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'),
 });
 const tc = catalogos.tomcolors;
 const por = Object.fromEntries(tc.map((p) => [p.code, p]));

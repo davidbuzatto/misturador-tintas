@@ -12,7 +12,7 @@ const dados = ler('scale75-cores.json');
 const catalogos = buildCatalogs({
   ac: ler('acrilex-cores-oficial.json'), tm: ler('tamiya-cores-oficial.json'), rv: ler('revell-cores-oficial.json'),
   fs: ler('fs595-cores.json'), vl: ler('vallejo-cores.json'), mr: ler('mrcolor-cores.json'), hb: ler('humbrol-cores.json'),
-  ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: dados, tc: ler('tomcolors-cores.json'), px: ler('phoenix-cores.json'),
+  ral: ler('ral-cores.json'), ak: ler('ak-cores.json'), am: ler('ammo-cores.json'), sc: dados, tc: ler('tomcolors-cores.json'), px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'),
 });
 const sc = catalogos.scale75;
 const por = Object.fromEntries(sc.map((p) => [p.code, p]));
