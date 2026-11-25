@@ -6,8 +6,15 @@
 <title>Misturador de Tintas</title>
 <!-- Ícone: paleta de cores (SVG embutido em base64, sem arquivo externo) -->
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHBhdGggZmlsbD0iI2YzZTNjMyIgc3Ryb2tlPSIjOGE1YTJiIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTMyIDZDMTYgNiA1IDE3IDUgMzFjMCAxMyAxMCAyNCAyMiAyNCA1IDAgNi0zIDUtNi0xLTMgMS02IDUtNmg4YzggMCAxNC01IDE0LTEyQzU5IDE2IDQ3IDYgMzIgNnpNMjEgMzguNWE0LjUgNC41IDAgMSAwIDAgOSA0LjUgNC41IDAgMSAwIDAtOXoiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjIzIiByPSI1LjUiIGZpbGw9IiNlMDMxMzEiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjE2IiByPSI1LjUiIGZpbGw9IiNmNWM1MTgiLz48Y2lyY2xlIGN4PSI0NSIgY3k9IjIyIiByPSI1LjUiIGZpbGw9IiMxYzdlZDYiLz48Y2lyY2xlIGN4PSI0OSIgY3k9IjM1IiByPSI1LjUiIGZpbGw9IiMyZjllNDQiLz48L3N2Zz4=">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+<meta name="theme-color" content="#c2410c">
 <link rel="stylesheet" href="css/styles.css">
 <script type="module" src="js/main.js"></script>
+<script>
+// app instalável e disponível sem rede: só registra em contexto seguro (https ou localhost)
+if ('serviceWorker' in navigator && window.isSecureContext) addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+</script>
 </head>
 <body>
 <a class="skip" href="#main" data-i18n="a11y.skip">Ir para o conteúdo</a>

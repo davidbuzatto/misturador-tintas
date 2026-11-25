@@ -36,6 +36,14 @@ No topo da página há o guia **"Como usar, passo a passo"**, com um exemplo com
 Na primeira visita o app abre limpo (sem mistura nem receitas, com a Tamiya X-2 White como cor-alvo) e o guia começa fechado. Os dados ficam só no seu navegador (nada é enviado a servidor algum); o botão **"Restaurar configurações"**, no topo, apaga receitas, "tenho" e preferências e volta ao estado inicial. Atalhos: nos seletores de cor, **Enter** escolhe;
 na janela de tintas, a tecla **T** marca "tenho esta tinta" (também botão direito ou toque longo), **marcar as visíveis** marca de uma vez as tintas filtradas pela busca e **Esc** fecha.
 
+## Instalar no celular ou no computador
+
+O app é instalável (PWA) e, depois da primeira visita, funciona sem internet (útil na bancada). No Chrome ou Edge, use
+"Instalar app" no menu (ou o ícone de instalar na barra de endereço); no Android, "Adicionar à tela inicial"; no iPhone
+(Safari), Compartilhar → "Adicionar à Tela de Início". As receitas e as tintas marcadas ficam no armazenamento do
+navegador daquele aparelho, então use "exportar backup" para levá-las de um aparelho a outro. Uma versão nova do app
+aparece na abertura seguinte à publicação.
+
 ## Como executar
 
 Módulos ES e `fetch` não funcionam abrindo o `index.html` direto do disco (`file://`). Sirva a pasta por HTTP:

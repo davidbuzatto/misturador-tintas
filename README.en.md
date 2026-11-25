@@ -38,6 +38,13 @@ At the top of the page there is a **"How to use it, step by step"** guide, with 
 On the first visit the app opens clean (no mix or recipes, with Tamiya X-2 White as the target color) and the guide starts closed. Data stays in your browser (nothing is sent to any server); the **"Reset settings"** button at the top deletes recipes, "owned" paints and preferences and returns to the initial state. Shortcuts: in the color pickers, **Enter** chooses; in the
 paint dialog, the **T** key marks "I own this paint" (also right-click or long press), **mark the visible** marks every paint filtered by the search box at once, and **Esc** closes.
 
+## Installing on a phone or computer
+
+The app is installable (PWA) and, after the first visit, works offline (handy at the workbench). In Chrome or Edge use
+"Install app" in the menu (or the install icon in the address bar); on Android, "Add to Home screen"; on iPhone
+(Safari), Share → "Add to Home Screen". Saved recipes and "I have it" marks live in that device's browser storage, so use
+"export backup" to move them between devices. A new version of the app shows up the next time it is opened after publishing.
+
 ## Running it
 
 ES modules and `fetch` do not work when `index.html` is opened straight from disk (`file://`). Serve the folder over HTTP:
