@@ -210,8 +210,7 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
     // Talento (fabricante nacional, catálogo de modelismo em PDF): as linhas são Acrylic Color, Metallic, Game, Artes,
     // Metallic Artes, Clear e Speed. As cores são as amostras impressas no catálogo (CMYK convertido para RGB).
     // Artesanía Latina (loja oficial): tintas acrílicas de 20 ml, uma linha só; a cor é a da faixa da foto do produto.
-    // `aprox` marca a tinta cuja faixa não bate com o frasco (a cor veio da foto do frasco).
-    artesania: ar.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: d.finish, ...(d.aprox ? { aprox: d.aprox } : {}) })),
+    artesania: ar.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: d.finish })),
     // OcCre (loja oficial): tintas acrílicas de 20 ml, uma linha só; a cor é a da amostra digital (círculo) da foto do
     // produto. Foscas (tinta para modelismo naval), menos as metálicas (Gold, Copper, Silver).
     occre: oc.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: d.finish })),

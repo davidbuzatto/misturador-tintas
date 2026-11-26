@@ -96,7 +96,6 @@ export default {
   'set.acrilex': 'Fosca',
   'set.tamiya-acrilica': 'Acrílica',
   'set.artesania': 'Acrílica',
-  'approx.faixa': 'cor aproximada: a faixa de cor da foto da loja não bate com o frasco, e a cor foi lida da foto do frasco',
   'set.occre': 'Acrílica',
   'set.humbrol': 'Acrílica',
   'set.phoenix-poliester': 'Poliéster',

@@ -95,7 +95,6 @@ export default {
   'set.acrilex': 'Matte',
   'set.tamiya-acrilica': 'Acrylic',
   'set.artesania': 'Acrylic',
-  'approx.faixa': 'approximate color: the color band in the store photo does not match the bottle, so the color was read from the bottle photo',
   'set.occre': 'Acrylic',
   'set.humbrol': 'Acrylic',
   'set.phoenix-poliester': 'Polyester',

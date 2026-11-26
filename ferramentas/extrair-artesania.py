@@ -11,8 +11,7 @@ Método:
      as tintas comuns, 93% ou mais dos pixels da faixa ficam a poucos tons dessa cor);
   3. conferência com o frasco: a cor do líquido, logo abaixo do rótulo, quase sempre bate com a faixa;
   4. metálicas (Aluminium, Gold, Copper, Gun Metal Grey): a faixa é um degradê de brilho, então a cor vem do frasco;
-  5. Pen Duick Green: a faixa (verde-água bem claro) não bate com o frasco nem com a foto real do frasco (2ª imagem,
-     verde médio); a cor vem dessa foto e fica marcada como aproximada.
+  5. Pen Duick Green: a faixa (verde-água claro) é mais clara que o frasco; fica a cor da faixa, como nas demais.
 
 Uso:  python ferramentas/extrair-artesania.py [--saida dados/artesania-cores.json]
 Requer: Pillow e acesso à internet (baixa as imagens da loja).
@@ -28,9 +27,6 @@ from pathlib import Path
 from PIL import Image
 
 METALICAS = {'27760', '27761', '27762', '27763'}
-# tintas cuja faixa não serve: referência -> imagem (da própria loja) de onde a cor é lida, no frasco
-# (a imagem tem fundo cinza-claro, então a região do líquido, abaixo do rótulo, vai fixa: x0, y0, x1, y1 em pixels)
-FOTO_DO_FRASCO = {'27756': ('https://artesanialatina.net/us/6279-large_default/water-based-paint-pen-duick-green-20-ml.jpg', (350, 760, 520, 795))}
 
 
 def baixar(url):
@@ -79,11 +75,6 @@ def main():
         item = {'code': d['code'], 'name': d['name']}
         if d['code'] in METALICAS:
             item.update(hex=hexa(cor_do_frasco(img)), finish='Metallic')
-        elif d['code'] in FOTO_DO_FRASCO:
-            url, (x0, y0, x1, y1) = FOTO_DO_FRASCO[d['code']]
-            foto = baixar(url)
-            cor = mediana([foto.getpixel((x, y)) for y in range(y0, y1) for x in range(x0, x1)])
-            item.update(hex=hexa(cor), finish='Semi-matte', aprox='faixa')
         else:
             cor, chapada = cor_da_faixa(img)
             if chapada < 0.9:

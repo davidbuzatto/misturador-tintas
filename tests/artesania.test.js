@@ -45,14 +45,15 @@ test('Artesanía Latina: acabamento semifosco declarado e 4 metálicas', () => {
   for (const c of ['27760', '27761', '27762', '27763']) assert.equal(acabamentoDe('artesania', por[c]).tipo, 'metallic', c);
 });
 
-test('Artesanía Latina: Pen Duick Green é aproximada (faixa diferente do frasco)', () => {
-  assert.deepEqual(ar.filter((p) => p.aprox).map((p) => [p.code, p.aprox]), [['27756', 'faixa']]);
+test('Artesanía Latina: nenhuma cor aproximada; Pen Duick Green fica com a cor da faixa (verde-água claro)', () => {
+  assert.ok(ar.every((p) => !p.aprox));
+  assert.equal(por['27756'].hex, '#aeded0');
 });
 
 test('Artesanía Latina: conjunto de mistura sem metálicas nem a aproximada', () => {
   const s = buildSets(catalogos).get('artesania');
   assert.equal(s.id, 'artesania');
   assert.equal(s.quimica, 'acrilica');
-  assert.equal(s.paints.length, 43 - 4 - 1);
-  for (const c of ['27756', '27760', '27763']) assert.ok(!s.porCodigo.has(c), c);
+  assert.equal(s.paints.length, 43 - 4);
+  for (const c of ['27760', '27763']) assert.ok(!s.porCodigo.has(c), c);
 });
