@@ -29,7 +29,7 @@ const catalogos = buildCatalogs({
   am: ler('ammo-cores.json'),
   sc: ler('scale75-cores.json'),
   tc: ler('tomcolors-cores.json'),
-  px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'), al: ler('acrilex-linhas-cores.json'),
+  px: ler('phoenix-cores.json'), tl: ler('talento-cores.json'), al: ler('acrilex-linhas-cores.json'), ar: ler('artesania-cores.json'), oc: ler('occre-cores.json'),
 });
 const sets = buildSets(catalogos);
 

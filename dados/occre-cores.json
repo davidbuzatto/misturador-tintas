@@ -1,0 +1,140 @@
+[
+ {
+  "code": "19395",
+  "name": "White",
+  "hex": "#ffffff",
+  "finish": "Matte"
+ },
+ {
+  "code": "19396",
+  "name": "Black",
+  "hex": "#101211",
+  "finish": "Matte"
+ },
+ {
+  "code": "19397",
+  "name": "Bone",
+  "hex": "#fefbec",
+  "finish": "Matte"
+ },
+ {
+  "code": "19398",
+  "name": "Ochre",
+  "hex": "#9d824b",
+  "finish": "Matte"
+ },
+ {
+  "code": "19399",
+  "name": "Yellow",
+  "hex": "#fee912",
+  "finish": "Matte"
+ },
+ {
+  "code": "19400",
+  "name": "Dark Brown",
+  "hex": "#5e3d2e",
+  "finish": "Matte"
+ },
+ {
+  "code": "19401",
+  "name": "Orange",
+  "hex": "#ff943c",
+  "finish": "Matte"
+ },
+ {
+  "code": "19402",
+  "name": "Red",
+  "hex": "#e02130",
+  "finish": "Matte"
+ },
+ {
+  "code": "19403",
+  "name": "Light Blue",
+  "hex": "#9edef9",
+  "finish": "Matte"
+ },
+ {
+  "code": "19404",
+  "name": "Medium Blue",
+  "hex": "#7aa3b7",
+  "finish": "Matte"
+ },
+ {
+  "code": "19405",
+  "name": "Dark Blue",
+  "hex": "#2f5a9e",
+  "finish": "Matte"
+ },
+ {
+  "code": "19406",
+  "name": "Light Green",
+  "hex": "#7a9828",
+  "finish": "Matte"
+ },
+ {
+  "code": "19407",
+  "name": "Dark Green",
+  "hex": "#324e38",
+  "finish": "Matte"
+ },
+ {
+  "code": "19408",
+  "name": "Gold",
+  "hex": "#fad361",
+  "finish": "Metallic"
+ },
+ {
+  "code": "19409",
+  "name": "Copper",
+  "hex": "#dfb487",
+  "finish": "Metallic"
+ },
+ {
+  "code": "19410",
+  "name": "Silver",
+  "hex": "#ccc8c5",
+  "finish": "Metallic"
+ },
+ {
+  "code": "19411",
+  "name": "Dark Red",
+  "hex": "#64312d",
+  "finish": "Matte"
+ },
+ {
+  "code": "19412",
+  "name": "Light Grey (Grey-1)",
+  "hex": "#cccbc6",
+  "finish": "Matte"
+ },
+ {
+  "code": "19413",
+  "name": "Medium Grey (Grey-2)",
+  "hex": "#8b8d88",
+  "finish": "Matte"
+ },
+ {
+  "code": "19414",
+  "name": "Dark Grey (Grey-3)",
+  "hex": "#5c615b",
+  "finish": "Matte"
+ },
+ {
+  "code": "19415",
+  "name": "Light Ochre",
+  "hex": "#e7ba65",
+  "finish": "Matte"
+ },
+ {
+  "code": "19416",
+  "name": "Olive Green",
+  "hex": "#64612c",
+  "finish": "Matte"
+ },
+ {
+  "code": "19424",
+  "name": "Royal Blue",
+  "hex": "#223a66",
+  "finish": "Matte"
+ }
+]

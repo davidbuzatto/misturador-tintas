@@ -1,0 +1,261 @@
+[
+ {
+  "code": "27702",
+  "name": "Off White",
+  "hex": "#eeedf3",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27703",
+  "name": "Off Black",
+  "hex": "#000000",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27704",
+  "name": "Grey FS36375",
+  "hex": "#b6b5b1",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27705",
+  "name": "Grey RLM66",
+  "hex": "#454545",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27710",
+  "name": "Vivid Red",
+  "hex": "#ac3b37",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27711",
+  "name": "Hull Red",
+  "hex": "#692d2c",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27712",
+  "name": "Red FS11136",
+  "hex": "#ba3025",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27713",
+  "name": "Vermilion",
+  "hex": "#d72109",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27714",
+  "name": "Orange",
+  "hex": "#c64f2d",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27715",
+  "name": "Maroon",
+  "hex": "#932725",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27716",
+  "name": "Gunport Red",
+  "hex": "#cc6e3b",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27720",
+  "name": "Royal Blue",
+  "hex": "#007cc4",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27721",
+  "name": "Prussian Blue",
+  "hex": "#1f354d",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27722",
+  "name": "Navy Blue",
+  "hex": "#003f86",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27723",
+  "name": "French Blue",
+  "hex": "#3175a6",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27724",
+  "name": "Night Blue",
+  "hex": "#203554",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27725",
+  "name": "Bright Blue",
+  "hex": "#21387b",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27727",
+  "name": "Purple",
+  "hex": "#7c5b88",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27730",
+  "name": "Ice Yellow",
+  "hex": "#efdb5e",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27731",
+  "name": "Deep Yellow",
+  "hex": "#f7d12e",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27732",
+  "name": "Chequer Yellow",
+  "hex": "#ffce39",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27733",
+  "name": "Chrome Yellow",
+  "hex": "#f9d344",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27734",
+  "name": "Sunrise yellow",
+  "hex": "#d3d140",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27735",
+  "name": "Orange yellow",
+  "hex": "#ebaa46",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27740",
+  "name": "Buff",
+  "hex": "#e3c97e",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27741",
+  "name": "Cocoa Brown",
+  "hex": "#bb865e",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27742",
+  "name": "Dark Red Leather",
+  "hex": "#533e39",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27743",
+  "name": "Toasted Shadow",
+  "hex": "#4d3e37",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27750",
+  "name": "Green FS34226",
+  "hex": "#7d8d66",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27751",
+  "name": "Hull Green",
+  "hex": "#356066",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27752",
+  "name": "Green FS34088",
+  "hex": "#6a6e4d",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27753",
+  "name": "Bright Green",
+  "hex": "#58ab41",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27754",
+  "name": "Dark Hull Green",
+  "hex": "#566b5c",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27755",
+  "name": "Night Green",
+  "hex": "#494a42",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27756",
+  "name": "Pen Duick Green",
+  "hex": "#57977e",
+  "finish": "Semi-matte",
+  "aprox": "faixa"
+ },
+ {
+  "code": "27760",
+  "name": "Aluminium",
+  "hex": "#acabaa",
+  "finish": "Metallic"
+ },
+ {
+  "code": "27761",
+  "name": "Gold",
+  "hex": "#c9b472",
+  "finish": "Metallic"
+ },
+ {
+  "code": "27762",
+  "name": "Copper",
+  "hex": "#b86c5a",
+  "finish": "Metallic"
+ },
+ {
+  "code": "27763",
+  "name": "Gun Metal Grey",
+  "hex": "#464548",
+  "finish": "Metallic"
+ },
+ {
+  "code": "27770",
+  "name": "Flesh Base",
+  "hex": "#e2ba97",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27771",
+  "name": "Sunny Skin",
+  "hex": "#dab388",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27772",
+  "name": "HMS Victory Hull",
+  "hex": "#d2aa91",
+  "finish": "Semi-matte"
+ },
+ {
+  "code": "27773",
+  "name": "HMS Victory Masts",
+  "hex": "#e9be9e",
+  "finish": "Semi-matte"
+ }
+]

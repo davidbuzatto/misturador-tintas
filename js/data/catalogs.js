@@ -33,7 +33,7 @@ import { lineName, t } from '../i18n/index.js';
  * Catálogos disponíveis como cor-alvo, na ordem em que as abas aparecem.
  * `free` não é um catálogo: é a aba de cor livre (seletor de cor).
  */
-export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'tomcolors', 'phoenix', 'talento', 'acrilex', 'free'];
+export const TARGET_TABS = ['tamiya', 'revell', 'fs595', 'vallejo', 'mrhobby', 'humbrol', 'ral', 'ak', 'ammo', 'scale75', 'tomcolors', 'phoenix', 'talento', 'artesania', 'occre', 'acrilex', 'free'];
 
 /**
  * Abas de versões anteriores → aba equivalente atual (Tamiya e Revell já tiveram uma aba por
@@ -67,6 +67,8 @@ export const CATALOG_NAMES = {
   tomcolors: 'Tom Colors',
   phoenix: 'Phoenix',
   talento: 'Talento',
+  artesania: 'Artesanía Latina',
+  occre: 'OcCre',
   acrilex: 'Acrilex',
 };
 
@@ -99,15 +101,15 @@ function revellLabel(d) {
 
 /**
  * Monta os catálogos normalizados a partir dos JSONs brutos (função pura, sem rede).
- * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[], px?: object[], tl?: object[], al?: object[]}} raw conteúdo de
+ * @param {{ac: object[], tm: object[], rv: object[], fs: object[], vl: object[], mr: object[], hb: object[], ral: object[], ak: object[], am: object[], sc?: object[], tc?: object[], px?: object[], tl?: object[], al?: object[], ar?: object[], oc?: object[]}} raw conteúdo de
  *        `acrilex-cores-oficial`, `tamiya-cores-oficial`, `revell-cores-oficial`,
  *        `fs595-cores`, `vallejo-cores`, `mrcolor-cores`, `humbrol-cores`, `ral-cores`, `ak-cores`, `ammo-cores`, `scale75-cores`, `tomcolors-cores`, `phoenix-cores` e `talento-cores`.
  * @returns {Object<string, CatalogPaint[]>} catálogos por chave
- *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`, `talento`).
+ *          (`acrilex`, `tamiya`, `revell`, `fs595`, `vallejo`, `mrhobby`, `humbrol`, `ral`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`, `talento`, `artesania`, `occre`).
  *          Os catálogos com várias linhas (`tamiya`, `revell`, `vallejo`, `mrhobby`, `ak`, `ammo`, `scale75`, `tomcolors`, `phoenix`, `talento`)
  *          marcam cada tinta com `line`.
  */
-export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [], px = [], tl = [], al = [] }) {
+export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = [], tc = [], px = [], tl = [], al = [], ar = [], oc = [] }) {
   // Tamiya: aditivos (sem cor) ficam de fora; linhas por base química (acrílica primeiro)
   const tamiya = (base, line) =>
     tm.filter((d) => d.hex && !d.aditivo && d.base === base).map((d) => ({ code: d.code, name: d.name, hex: d.hex, line }));
@@ -207,6 +209,12 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
     })),
     // Talento (fabricante nacional, catálogo de modelismo em PDF): as linhas são Acrylic Color, Metallic, Game, Artes,
     // Metallic Artes, Clear e Speed. As cores são as amostras impressas no catálogo (CMYK convertido para RGB).
+    // Artesanía Latina (loja oficial): tintas acrílicas de 20 ml, uma linha só; a cor é a da faixa da foto do produto.
+    // `aprox` marca a tinta cuja faixa não bate com o frasco (a cor veio da foto do frasco).
+    artesania: ar.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: d.finish, ...(d.aprox ? { aprox: d.aprox } : {}) })),
+    // OcCre (loja oficial): tintas acrílicas de 20 ml, uma linha só; a cor é a da amostra digital (círculo) da foto do
+    // produto. Foscas (tinta para modelismo naval), menos as metálicas (Gold, Copper, Silver).
+    occre: oc.map((d) => ({ code: d.code, name: d.name, hex: d.hex, finish: d.finish })),
     talento: tl.map((d) => ({
       code: d.code,
       name: d.name,
@@ -222,7 +230,7 @@ export function buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc = []
  * @returns {Promise<Object<string, CatalogPaint[]>>} catálogos por chave (ver {@link buildCatalogs}).
  */
 export async function loadCatalogs() {
-  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al] = await Promise.all([
+  const [ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al, ar, oc] = await Promise.all([
     // (a ordem segue a de `buildCatalogs`)
     loadJson('acrilex-cores-oficial.json'),
     loadJson('tamiya-cores-oficial.json'),
@@ -239,8 +247,10 @@ export async function loadCatalogs() {
     loadJson('phoenix-cores.json'),
     loadJson('talento-cores.json'),
     loadJson('acrilex-linhas-cores.json'),
+    loadJson('artesania-cores.json'),
+    loadJson('occre-cores.json'),
   ]);
-  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al });
+  return buildCatalogs({ ac, tm, rv, fs, vl, mr, hb, ral, ak, am, sc, tc, px, tl, al, ar, oc });
 }
 
 /**

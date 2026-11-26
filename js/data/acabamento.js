@@ -17,8 +17,8 @@ export const ACABAMENTOS = ['matte', 'satin', 'gloss', 'metallic', 'clear', 'spe
 
 /** Nomes que indicam metal. */
 const NOME_METAL = /\b(metal(lic)?|alumin(i)?um|duralumin|chrome|steel|silver|gold|copper|bronze|brass|titanium|iron|nickel|magnesium)\b/i;
-/** Nomes que contêm uma palavra de metal mas são cores comuns (verde bronze, cinza aço, cromato de zinco, ferrugem…). */
-const NOME_NAO_METAL = /\b(zinc[\s-]*chromate|bronze green|steel gr[ae]y|silver gr[ae]y|gold yellow|rust|washable)\b/i;
+/** Nomes que contêm uma palavra de metal mas são cores comuns (verde bronze, cinza aço, cromato de zinco, amarelo cromo, ferrugem…). */
+const NOME_NAO_METAL = /\b(zinc[\s-]*chromate|chrome yellow|bronze green|steel gr[ae]y|silver gr[ae]y|gold yellow|rust|washable)\b/i;
 /** Nomes de tintas transparentes. */
 const NOME_TRANSPARENTE = /\b(clear|smoke)\b/i;
 /** Nomes de tintas fluorescentes. */
@@ -28,6 +28,7 @@ const NOME_ESPECIAL = /\b(fluo(rescent)?|neon|candy)\b/i;
 const DECLARADO = {
   gloss: 'gloss',
   'semi-gloss': 'satin',
+  'semi-matte': 'matte', // Artesanía Latina: "semi-matte", mais perto do fosco que do acetinado
   satin: 'satin',
   silk: 'satin',
   matt: 'matte',

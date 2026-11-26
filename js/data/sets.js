@@ -60,6 +60,8 @@ export const INGREDIENT_SETS = [
   // Phoenix: toda cor existe nos dois tipos (Duco e poliéster); como uma receita usa uma química só, são duas linhas com as mesmas cores
   { id: 'phoenix-duco', marca: 'Phoenix', rotulo: 'Duco', quimica: 'lacquer', tab: 'phoenix' },
   { id: 'phoenix-poliester', marca: 'Phoenix', rotulo: 'Poliéster', quimica: 'poliester', tab: 'phoenix' },
+  { id: 'artesania', marca: 'Artesanía Latina', rotulo: 'Acrylic', quimica: 'acrilica', tab: 'artesania' },
+  { id: 'occre', marca: 'OcCre', rotulo: 'Acrylic', quimica: 'acrilica', tab: 'occre' },
   // Talento: a Acrylic Color (cores de modelismo, sem branco nem primárias foscos), a Artes (branco, preto e primárias) e a
   // Game (cores saturadas, acetinadas) são a mesma tinta acrílica base água, então formam uma linha só. Metálicas, Clear,
   // Speed e as neon ficam só no catálogo.

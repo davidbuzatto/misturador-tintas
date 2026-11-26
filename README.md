@@ -3,7 +3,7 @@
 **Português** · [English](README.en.md)
 
 Aplicativo web para **plastimodelismo**: você escolhe a linha de tintas que tem (Acrilex, Tamiya, Vallejo, Mr. Hobby,
-Humbrol, AK, AMMO, Scale75, Tom Colors, Phoenix, Talento…), a cor que quer alcançar (de qualquer um de 14 catálogos, inclusive FS 595 e RAL) e o app calcula a
+Humbrol, AK, AMMO, Scale75, Tom Colors, Phoenix, Talento, Artesanía Latina, OcCre…), a cor que quer alcançar (de qualquer um de 16 catálogos, inclusive FS 595 e RAL) e o app calcula a
 mistura. A tinta é tratada como **pigmento** (modelo espectral de Kubelka-Munk), não como uma média de RGB, e é isso que
 faz a previsão chegar perto do que acontece na bancada. JavaScript puro, módulos ES, **sem build e sem dependências**.
 
@@ -13,7 +13,7 @@ faz a previsão chegar perto do que acontece na bancada. JavaScript puro, módul
   (diferença de cor percebida) até o alvo e quatro modelos de mistura lado a lado (pigmento × RGB).
 - **Sugere receitas:** a busca automática encontra misturas de 1 a 4 tintas que se aproximam do alvo, opcionalmente só com
   as tintas que você tem.
-- **Cor-alvo de qualquer catálogo:** mais de 5.000 cores em 14 catálogos, ou uma cor livre (a opção "mostrar acabamento" exibe fosca, brilhante, metálica etc. nas amostras).
+- **Cor-alvo de qualquer catálogo:** mais de 5.000 cores em 16 catálogos, ou uma cor livre (a opção "mostrar acabamento" exibe fosca, brilhante, metálica etc. nas amostras).
 - **Equivalentes em outras marcas:** para o alvo (ou para a mistura calculada), as tintas mais parecidas em cada marca
   (por ΔE00) e, quando o fabricante declara a equivalência, um selo **AMMO** ou **AK**.
 - **Catálogo completo (só consulta):** botão no topo da página que abre todas as tintas de cada marca, inclusive as metálicas,
@@ -77,6 +77,8 @@ amostra diluída): servem para consulta, mas não entram como ingredientes das m
 | Tom Colors | 179 | Acrylic Colors (TC), UP (TCUP) | loja oficial <https://www.tomcolors.com.br> (amostras de pincel; na linha UP, a tinta aplicada no cartão nas fotos do anúncio; cinco cores UP vendidas só no conjunto têm poça de tinta ou estimativa; seis Skin Tones só têm fotos de uma cabeça pintada, então essas cores são aproximadas) |
 | Phoenix | 597 | Federal Standard, RLM, British Standard, RAL, ANA, IJA, IJN, Regia Aeronautica, Soviet & Russian (AMT), USN | catálogo do site da loja <https://phoenix-special-colors.com.br> (tintas automotivas **Duco** e **poliéster**; as cores são valores digitais escolhidos pela loja, não medidas de tinta, e divergem um pouco das cartelas FS 595 e RAL) |
 | Talento | 282 | Acrylic Color, Metallic, Game, Artes, Metallic Artes, Clear, Speed | catálogo de modelismo 2023/4 (PDF; as amostras são pinceladas vetoriais, e a cor é a que o PDF mostra, de CMYK convertido para RGB; os pigmentos em pó, os kits e os produtos de diorama não entram) |
+| Artesanía Latina | 43 | Acrylic (semifosca; 4 metálicas) | loja oficial (a cor é a da faixa colorida da primeira foto de cada tinta; nas metálicas, a do frasco; a Pen Duick Green, cuja faixa não bate com o frasco, vem da foto do frasco e fica marcada como aproximada). Kits e diluente não entram |
+| OcCre | 23 | Acrylic (fosca; 3 metálicas) | loja oficial, cruzada com a tabela de referências da marca (tintas × modelos): entram as 23 tintas da tabela, vendidas avulsas em 20 ml; betume, primer, verniz e tingidores são acabamentos e ficam de fora, como os kits. A cor é a da amostra digital (círculo) da primeira foto |
 | Acrilex | 223 | Fosca (95), Brilhante, Chalk, Acrylic Colors, Metal Colors, Neon | Catálogo Manualidades 2025 (PDF): a Fosca vem das págs. 36–37; as outras linhas, das págs. 39, 41, 43, 45 e 92–93 (a cor é a das pinceladas, medida na página renderizada; nas gotas da Acrylic Colors, as de brilho forte ficam marcadas como aproximadas). A tinta para tecido, a relevo, a glitter e a PVA não entram. Metal Colors, Neon e as iridescentes ficam só para consulta |
 
 Cada fonte tem seu método, descrito em [`ferramentas/README.md`](ferramentas/README.md) (scripts para refazer a extração) e
