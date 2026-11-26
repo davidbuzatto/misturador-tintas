@@ -7,7 +7,7 @@
  * - Só mexe em pedidos GET da própria origem; o resto (por exemplo, as páginas em `catalogos/`) segue pela rede.
  */
 
-const VERSAO = 'misturador-v1.0.6';
+const VERSAO = 'misturador-v1.0.7';
 
 const ARQUIVOS = [
   './',
